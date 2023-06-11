@@ -20,11 +20,13 @@ public class MainSoal : MonoBehaviour
     public int score = 0;
     private string isAnswer;
     private static BankSoal instanceMenu;
+    public static MainSoal ints;
     private bool buttonClicked = false;
     private bool isFinish = false;
     List<int> lcm = new List<int>();
     void Awake()
     {
+        if (ints == null) { ints = this; }
         if (instanceMenu == null)
         {
             lcm.AddRange(LCM(Random.Range(1, 50)));
@@ -165,5 +167,9 @@ public class MainSoal : MonoBehaviour
     public void onBack()
     {
         Debug.Log("Back is click");
+    }
+    public void onMenu()
+    {
+        Destroy(instanceMenu.gameObject);
     }
 }

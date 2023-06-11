@@ -844,7 +844,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 540150326}
         m_TargetAssemblyTypeName: MenuButtons, Assembly-CSharp
-        m_MethodName: moveScene
+        m_MethodName: moveSceneAndDestroy
         m_Mode: 5
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -1465,6 +1465,25 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 316812852}
   m_CullTransparentMesh: 1
+--- !u!114 &323799941
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 3
+  levelSetting:
+    dif: 0
+    judul: 
+    penjelasan: 
+    oriImage: {fileID: 0}
+    image: {fileID: 0}
 --- !u!1 &353831645
 GameObject:
   m_ObjectHideFlags: 0
@@ -3825,9 +3844,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 077799404ed58854a971e9e35d984434, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  numberOfLevel: 1
+  numberOfLevel: 3
   mainLevels:
   - {fileID: 1004374728}
+  - {fileID: 2116865072}
+  - {fileID: 323799941}
   main: {fileID: 798333695}
   buttons: []
   activeLevel: 0
@@ -8717,3 +8738,22 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2073920556}
   m_CullTransparentMesh: 1
+--- !u!114 &2116865072
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 2
+  levelSetting:
+    dif: 0
+    judul: 
+    penjelasan: 
+    oriImage: {fileID: 0}
+    image: {fileID: 0}

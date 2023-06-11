@@ -29,14 +29,16 @@ public class MenuPuzzle : MonoBehaviour
 
     void Awake()
     {
-        if (instance == null)
-        {
-            instance = this;
-            onLoad();
-            DontDestroyOnLoad(gameObject);
-            return;
-        }
-        Debug.Log("Another Instance is Found");
+        // if (instance == null)
+        // {
+        //     // instance = this;
+        //     onLoad();
+        //     DontDestroyOnLoad(gameObject);
+        //     return;
+        // }
+        // Debug.Log("Another Instance is Found");
+        onLoad();
+        DontDestroyOnLoad(gameObject);
     }
 
     void onLoad()
@@ -117,7 +119,7 @@ class editor : Editor
         puzzle.main = EditorGUILayout.ObjectField(puzzle.main, typeof(GameObject), true) as GameObject;
         GUILayout.Label("Current Level");
         puzzle.activeLevel = EditorGUILayout.IntField(puzzle.activeLevel);
-        
+
         GUILayout.Space(15);
         if (puzzle.numberOfLevel > puzzle.mainLevels.Count)
         {
@@ -136,8 +138,6 @@ class editor : Editor
             puzzle.mainLevels[i] = EditorGUILayout.ObjectField(puzzle.mainLevels[i], typeof(MainLevel), true) as MainLevel;
             GUILayout.Space(10);
         }
-
-
     }
 
 }

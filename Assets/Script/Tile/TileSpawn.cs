@@ -101,6 +101,7 @@ public class TileSpawn : MonoBehaviour
     private bool isPause = false;
 
     private static MenuPuzzle instanceMenu;
+    public static TileSpawn thisMenu;
 
 
     public void set(MainLevel m)
@@ -110,7 +111,6 @@ public class TileSpawn : MonoBehaviour
         preview.sprite = ori;
         previewFinish.sprite = ori;
         originalImage = m.levelSetting.image;
-        // frag = m.levelSetting.frag.ToArray();
         judul.text = m.levelSetting.judul;
         penjelasan.text = m.levelSetting.penjelasan;
     }
@@ -122,7 +122,7 @@ public class TileSpawn : MonoBehaviour
     public void onMenu()
     {
         Destroy(instanceMenu.gameObject);
-        SceneManager.LoadScene("MenuLevel");
+        // SceneManager.LoadScene("MenuUtama");
     }
     public void onRestart()
     {
@@ -165,7 +165,10 @@ public class TileSpawn : MonoBehaviour
         {
             Debug.Log("Another Instance is Found");
         }
-
+        
+        if(thisMenu == null){
+            thisMenu = this;
+        }
 
 
         settingGame();

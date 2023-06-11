@@ -123,6 +123,28 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+--- !u!114 &11220935
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 3
+  typeSoal: 0
+  soal: Soal No 3
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 21300000, guid: 2e2574e57f7701c4b928a57b18552e75, type: 3}
 --- !u!114 &53893458
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -792,6 +814,28 @@ MonoBehaviour:
   - Pilihan 3
   - Pilihan 4
   image: {fileID: 0}
+--- !u!114 &349987951
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 2
+  typeSoal: 0
+  soal: Soal No 2
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 21300000, guid: df997419c658bf0488519ba92632c551, type: 3}
 --- !u!1 &375492428
 GameObject:
   m_ObjectHideFlags: 0
@@ -1448,7 +1492,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 1
-  typeSoal: 0
+  typeSoal: 1
   soal: Soal No 1
   answer: Pilihan 1
   pilihan:
@@ -1456,7 +1500,7 @@ MonoBehaviour:
   - Pilihan 2
   - Pilihan 3
   - Pilihan 4
-  image: {fileID: 0}
+  image: {fileID: 21300000, guid: 63845431361223640963023838e4bfd2, type: 3}
 --- !u!114 &676575629
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2971,7 +3015,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   bankSoal:
   - {fileID: 670457592}
-  numberOfLevel: 1
+  - {fileID: 349987951}
+  - {fileID: 11220935}
+  numberOfLevel: 3
   activeLevel: 0
   typeSoal: 0
 --- !u!114 &1015374803
