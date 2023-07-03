@@ -18,6 +18,7 @@ public class LevelSelected : MonoBehaviour
         {
             position += 1;
             scrollPos = pos[position];
+            AudioManager.Instance.playSFX("ButtonClick");
         }
     }
     public void prev()
@@ -26,6 +27,7 @@ public class LevelSelected : MonoBehaviour
         {
             position -= 1;
             scrollPos = pos[position];
+            AudioManager.Instance.playSFX("ButtonClick");
         }
 
     }

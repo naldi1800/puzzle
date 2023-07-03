@@ -123,6 +123,30 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+--- !u!114 &25721582
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 2
+  levelSetting:
+    dif: 0
+    judul: 'Rumah Adat Sumatera Utara: Bolon'
+    penjelasan: Pada rumah adat Bolon ini, terdapat dua bagian yang berbeda, yaitu
+      Jabu Bolon dan juga Jabu Parsakitan. Jabu Bolon biasa menjadi tempat untuk
+      keluarga besar, sedangkan Jabu Parsakitan adalah tempat untuk membicarakan
+      masalah adat. Keunikan dari rumah adat Sumatera Utara ini adalah tidak ada
+      sekatan antara setiap ruangan. Jadinya, semua anggota keluarga tidur bersama
+      di dalam ruangan besar.
+    oriImage: {fileID: 21300000, guid: b8afa8287b4b6c24eaba957e17942432, type: 3}
+    image: {fileID: 2800000, guid: b8afa8287b4b6c24eaba957e17942432, type: 3}
 --- !u!1 &26725472
 GameObject:
   m_ObjectHideFlags: 0
@@ -547,25 +571,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 91478002}
   m_CullTransparentMesh: 1
---- !u!114 &92214090
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  level: 3
-  levelSetting:
-    dif: 0
-    judul: Bika Ambon
-    penjelasan: IniMakanan
-    oriImage: {fileID: 21300000, guid: 361d99aca97b59e4bbdc01d08309f48c, type: 3}
-    image: {fileID: 2800000, guid: 361d99aca97b59e4bbdc01d08309f48c, type: 3}
 --- !u!1 &135411166
 GameObject:
   m_ObjectHideFlags: 0
@@ -1351,6 +1356,28 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 316812852}
   m_CullTransparentMesh: 1
+--- !u!114 &337117426
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 3
+  levelSetting:
+    dif: 0
+    judul: 'Rumah Adat Sumatera Barat: Gadang'
+    penjelasan: Rumah adat satu ini terlihat mewah, bukan? Berasal dari Sumatera
+      Barat, rumah ini memiliki beberapa atap yang runcing dan menjulang ke atas.
+      rumah adat gadang terbuat dari ijuk dan bentuknya mirip seperti tanduk kerbau,
+      yang melambangkan kemenangan suku Minang dalam perlombaan adu kerbau di Jawa.
+    oriImage: {fileID: 21300000, guid: 7c13b69b6220c0841b7bf518a431f6d8, type: 3}
+    image: {fileID: 2800000, guid: 7c13b69b6220c0841b7bf518a431f6d8, type: 3}
 --- !u!1 &353831645
 GameObject:
   m_ObjectHideFlags: 0
@@ -2424,25 +2451,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 636986501}
   m_CullTransparentMesh: 1
---- !u!114 &640785636
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  level: 4
-  levelSetting:
-    dif: 0
-    judul: 
-    penjelasan: 
-    oriImage: {fileID: 0}
-    image: {fileID: 0}
 --- !u!1 &643374242
 GameObject:
   m_ObjectHideFlags: 0
@@ -3608,25 +3616,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1004202617}
   m_CullTransparentMesh: 1
---- !u!114 &1004374728
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  level: 1
-  levelSetting:
-    dif: 0
-    judul: 
-    penjelasan: 
-    oriImage: {fileID: 21300000, guid: 9dfec677dce95154fb49aea556043346, type: 3}
-    image: {fileID: 2800000, guid: 9dfec677dce95154fb49aea556043346, type: 3}
 --- !u!1 &1012417875
 GameObject:
   m_ObjectHideFlags: 0
@@ -3868,12 +3857,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 077799404ed58854a971e9e35d984434, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  numberOfLevel: 4
+  numberOfLevel: 5
   mainLevels:
-  - {fileID: 1004374728}
-  - {fileID: 1823366117}
-  - {fileID: 92214090}
-  - {fileID: 640785636}
+  - {fileID: 1449586003}
+  - {fileID: 25721582}
+  - {fileID: 337117426}
+  - {fileID: 1310942021}
+  - {fileID: 2038864565}
   main: {fileID: 798333695}
   buttons: []
   activeLevel: 0
@@ -5585,6 +5575,27 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: -20, y: -20}
   m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1310942021
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 4
+  levelSetting:
+    dif: 0
+    judul: 'Rumah Adat Riau: Selaso Jatuh Kembar'
+    penjelasan: Rumah ini memiliki arti rumah dengan dua selasar. Masyarakat Riau
+      tidak menjadikan Rumah Selaso Jatuh Kembar sebagai tempat tinggal mereka, tetapi
+      hanya menggunakannya untuk acara adat.
+    oriImage: {fileID: 21300000, guid: 28c1be004407b5f47a5e15eb5b93c9fc, type: 3}
+    image: {fileID: 2800000, guid: 28c1be004407b5f47a5e15eb5b93c9fc, type: 3}
 --- !u!1 &1311241572
 GameObject:
   m_ObjectHideFlags: 0
@@ -6238,6 +6249,28 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1423329436}
   m_CullTransparentMesh: 1
+--- !u!114 &1449586003
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 1
+  levelSetting:
+    dif: 0
+    judul: 'Rumah Adat Provinsi Aceh: Krong Bade'
+    penjelasan: 'Rumah Krong Bade dari Aceh ini berbentuk memanjang dari timur ke
+      barat menyerupai persegi panjang. Di bagian depan rumah dilengkapi dengan tangga
+      untuk masuk ke dalam rumah. Umumnya, tangga pada rumah adat aceh ini jumlahnya
+      ganjil, yaitu sekitar 7 hingga 9 anak tangga. '
+    oriImage: {fileID: 21300000, guid: 70b79a69a5848c44da80af1065c8008b, type: 3}
+    image: {fileID: 2800000, guid: 70b79a69a5848c44da80af1065c8008b, type: 3}
 --- !u!1 &1536454672
 GameObject:
   m_ObjectHideFlags: 0
@@ -8703,25 +8736,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1806891266}
   m_CullTransparentMesh: 1
---- !u!114 &1823366117
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  level: 2
-  levelSetting:
-    dif: 0
-    judul: 
-    penjelasan: 
-    oriImage: {fileID: 0}
-    image: {fileID: 0}
 --- !u!1 &1890152208
 GameObject:
   m_ObjectHideFlags: 0
@@ -9204,6 +9218,28 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2007197231}
   m_CullTransparentMesh: 1
+--- !u!114 &2038864565
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 5
+  levelSetting:
+    dif: 2
+    judul: 'Rumah Adat Kepulauan Riau: Rumah Atap Limas Potong'
+    penjelasan: Rumah adat dari Kepulauan Riau ini terlihat sangat sederhana. Berbentuk
+      seperti rumah panggung, yang memanjang ke belakang dengan dinding kayu tersusun
+      secara vertikal. Atap dari rumah adat Limas Potong memiliki lima bumbungan
+      dengan menggunakan seng berwarna merah.
+    oriImage: {fileID: 21300000, guid: df49dd030b86f3a498f0ea9c0e50a238, type: 3}
+    image: {fileID: 2800000, guid: df49dd030b86f3a498f0ea9c0e50a238, type: 3}
 --- !u!1 &2054779458
 GameObject:
   m_ObjectHideFlags: 0

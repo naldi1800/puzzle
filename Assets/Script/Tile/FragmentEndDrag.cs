@@ -20,7 +20,11 @@ public class FragmentEndDrag : MonoBehaviour, IDropHandler
                 Color c = new Color(1f, 1f, 1f, 1f);
                 GetComponent<Image>().color = c;
                 Destroy(frag.gameObject);
+
+                AudioManager.Instance.playSFX("ItemDrop");
             }
+
+            AudioManager.Instance.playSFX("ItemRelease");
         }
     }
 }

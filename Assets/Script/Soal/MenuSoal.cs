@@ -38,5 +38,6 @@ public class MenuSoal : MonoBehaviour
     {
         DontDestroyOnLoad(g);
         SceneManager.LoadScene("MainSoal");
+        AudioManager.Instance.playSFX("ButtonClick");
     }
 }

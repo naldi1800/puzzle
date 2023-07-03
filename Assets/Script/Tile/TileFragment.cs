@@ -21,6 +21,8 @@ public class TileFragment : MonoBehaviour, IPointerDownHandler, IBeginDragHandle
     {
         canvasGroup.blocksRaycasts = false;
         canvasGroup.alpha = .6f;
+        
+        AudioManager.Instance.playSFX("ItemSelect");
     }
 
     public void OnDrag(PointerEventData eventData)

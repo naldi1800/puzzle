@@ -17,6 +17,7 @@ public class MainSoal : MonoBehaviour
     [SerializeField] private GameObject soalOnly;
     [SerializeField] private GameObject soalAndImage;
     [SerializeField] private bool isImageSoal = false;
+    [SerializeField] private TextMeshProUGUI namePlayer;
     public int score = 0;
     private string isAnswer;
     private static BankSoal instanceMenu;
@@ -171,5 +172,32 @@ public class MainSoal : MonoBehaviour
     public void onMenu()
     {
         Destroy(instanceMenu.gameObject);
+    }
+    public void onScoreSave()
+    {
+        if (namePlayer.text == "" || score == 0)
+        {
+            return;
+        }
+        HighScore h = GetComponent<HighScore>();
+        for (int i = 0; i < 10; i++)
+        {
+            if (score >= h.highScoreValue[i])
+            {
+                for (int j = 9; j > i; j--)
+                {
+                    if (j == 0)
+                    {
+                        break;
+                    }
+                    h.setHighScore(h.highScoreNameValue[j - 1], h.highScoreValue[j - 1], j);
+                }
+                Debug.Log("High" + score);
+                h.setHighScore(namePlayer.text, score, i);
+                break;
+            }
+        }
+        Debug.Log("Saved");
+        MenuButtons.Instance.moveSceneDestroy("KategoriSoal");
     }
 }

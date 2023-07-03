@@ -41,5 +41,8 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/AlatMusikTradisional.unity
     guid: dd0628c671a8b7941b34d15c9de891c5
+  - enabled: 1
+    path: Assets/Scenes/HighScore.unity
+    guid: e0039eea5837aa646b91d9cee775736a
   m_configObjects:
     com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 68853d2842135884fa88e411177b5400, type: 2}

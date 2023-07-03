@@ -5,14 +5,24 @@ using UnityEngine.SceneManagement;
 
 public class MenuButtons : MonoBehaviour
 {
-    // private static TileSpawn tileIntance;
+    public static MenuButtons Instance;
     void Awake()
     {
-
+        if(Instance == null){
+            Instance = this;
+        }else{
+            Debug.Log("Instance Menu Button is found");
+        }
     }
+    public void endApplication()
+    {
+        Application.Quit();
+    }
+
     public void moveScene(string scaneName)
     {
         SceneManager.LoadScene(scaneName);
+        AudioManager.Instance.playSFX("ButtonClick");
     }
     public void moveSceneAndDestroy(string scaneName)
     {

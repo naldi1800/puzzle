@@ -123,7 +123,7 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
---- !u!114 &11220935
+--- !u!114 &7672240
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -135,31 +135,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  idSoal: 3
+  idSoal: 40
   typeSoal: 0
-  soal: Soal No 3
-  answer: Pilihan 1
-  pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
-  image: {fileID: 21300000, guid: 2e2574e57f7701c4b928a57b18552e75, type: 3}
---- !u!114 &53893458
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  idSoal: 10
-  typeSoal: 0
-  soal: Soal No 10
+  soal: Soal No 40
   answer: Pilihan 1
   pilihan:
   - Pilihan 1
@@ -167,7 +145,7 @@ MonoBehaviour:
   - Pilihan 3
   - Pilihan 4
   image: {fileID: 0}
---- !u!114 &76209942
+--- !u!114 &9502093
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -179,9 +157,163 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  idSoal: 22
+  idSoal: 44
   typeSoal: 0
-  soal: Soal No 22
+  soal: Soal No 44
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &18458173
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 32
+  typeSoal: 0
+  soal: Soal No 32
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &28314774
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 47
+  typeSoal: 0
+  soal: Soal No 47
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &35419159
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 26
+  typeSoal: 0
+  soal: Soal No 26
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &45425274
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 11
+  typeSoal: 0
+  soal: Soal No 11
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &47546225
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 20
+  typeSoal: 0
+  soal: Soal No 20
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &54603122
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 41
+  typeSoal: 0
+  soal: Soal No 41
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &55574007
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 48
+  typeSoal: 0
+  soal: Soal No 48
   answer: Pilihan 1
   pilihan:
   - Pilihan 1
@@ -226,7 +358,7 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: -20, y: -20}
   m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &101088354
+--- !u!114 &92352981
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -238,9 +370,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  idSoal: 46
+  idSoal: 22
   typeSoal: 0
-  soal: Soal No 46
+  soal: Soal No 22
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &97385722
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 43
+  typeSoal: 0
+  soal: Soal No 43
   answer: Pilihan 1
   pilihan:
   - Pilihan 1
@@ -293,11 +447,60 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   bankSoal:
-  - {fileID: 670457592}
-  numberOfLevel: 1
+  - {fileID: 1864355106}
+  - {fileID: 1856049080}
+  - {fileID: 1427540804}
+  - {fileID: 1756500661}
+  - {fileID: 1975418942}
+  - {fileID: 1285481052}
+  - {fileID: 796020090}
+  - {fileID: 2042402209}
+  - {fileID: 1456339603}
+  - {fileID: 1164234093}
+  - {fileID: 1545684787}
+  - {fileID: 235158352}
+  - {fileID: 307244359}
+  - {fileID: 989099287}
+  - {fileID: 1155715769}
+  - {fileID: 2053952641}
+  - {fileID: 425077581}
+  - {fileID: 1637085045}
+  - {fileID: 1752877404}
+  - {fileID: 1513569731}
+  - {fileID: 1289129343}
+  - {fileID: 1962910701}
+  - {fileID: 1480411225}
+  - {fileID: 377495288}
+  - {fileID: 2048409900}
+  - {fileID: 2002482861}
+  - {fileID: 583894982}
+  - {fileID: 1100327971}
+  - {fileID: 1026952973}
+  - {fileID: 1777833604}
+  - {fileID: 674852959}
+  - {fileID: 2134930403}
+  - {fileID: 899428662}
+  - {fileID: 384494768}
+  - {fileID: 1002279542}
+  - {fileID: 1359180468}
+  - {fileID: 994247377}
+  - {fileID: 836993826}
+  - {fileID: 1487298140}
+  - {fileID: 1824578896}
+  - {fileID: 54603122}
+  - {fileID: 779676288}
+  - {fileID: 338959560}
+  - {fileID: 706260676}
+  - {fileID: 904077051}
+  - {fileID: 971006668}
+  - {fileID: 1371403754}
+  - {fileID: 154327761}
+  - {fileID: 1214815471}
+  - {fileID: 1873866921}
+  numberOfLevel: 50
   activeLevel: 0
   typeSoal: 0
---- !u!114 &127926064
+--- !u!114 &107601925
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -309,9 +512,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  idSoal: 36
+  idSoal: 1
   typeSoal: 0
-  soal: Soal No 36
+  soal: Soal No 1
   answer: Pilihan 1
   pilihan:
   - Pilihan 1
@@ -319,7 +522,7 @@ MonoBehaviour:
   - Pilihan 3
   - Pilihan 4
   image: {fileID: 0}
---- !u!114 &130437079
+--- !u!114 &125223285
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -331,9 +534,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  idSoal: 43
+  idSoal: 45
   typeSoal: 0
-  soal: Soal No 43
+  soal: Soal No 45
   answer: Pilihan 1
   pilihan:
   - Pilihan 1
@@ -341,7 +544,7 @@ MonoBehaviour:
   - Pilihan 3
   - Pilihan 4
   image: {fileID: 0}
---- !u!114 &141792008
+--- !u!114 &126949810
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -353,9 +556,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  idSoal: 18
+  idSoal: 47
   typeSoal: 0
-  soal: Soal No 18
+  soal: Soal No 47
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &136005201
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 39
+  typeSoal: 0
+  soal: Soal No 39
   answer: Pilihan 1
   pilihan:
   - Pilihan 1
@@ -460,7 +685,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0aa84c6b0a5094e4e8fed0662bb95a19, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!114 &197438354
+--- !u!114 &154327761
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -472,9 +697,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  idSoal: 32
+  idSoal: 48
   typeSoal: 0
-  soal: Soal No 32
+  soal: Soal No 48
   answer: Pilihan 1
   pilihan:
   - Pilihan 1
@@ -482,7 +707,7 @@ MonoBehaviour:
   - Pilihan 3
   - Pilihan 4
   image: {fileID: 0}
---- !u!114 &241680131
+--- !u!114 &164966326
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -494,9 +719,229 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  idSoal: 20
+  idSoal: 4
   typeSoal: 0
-  soal: Soal No 20
+  soal: Soal No 4
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &166518313
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 33
+  typeSoal: 0
+  soal: Soal No 33
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &174783904
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 23
+  typeSoal: 0
+  soal: Soal No 23
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 21300000, guid: e7481a8399f6780428c1b6cfaf14cfba, type: 3}
+--- !u!114 &178141330
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 44
+  typeSoal: 0
+  soal: Soal No 44
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &180111142
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 2
+  typeSoal: 0
+  soal: Soal No 2
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &182787950
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 38
+  typeSoal: 0
+  soal: Soal No 38
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &196862330
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 35
+  typeSoal: 0
+  soal: Soal No 35
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &197825490
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 15
+  typeSoal: 0
+  soal: Soal No 15
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &218292383
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 14
+  typeSoal: 0
+  soal: Soal No 14
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &226223796
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 37
+  typeSoal: 0
+  soal: Soal No 37
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &235158352
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 12
+  typeSoal: 0
+  soal: Soal No 12
   answer: Pilihan 1
   pilihan:
   - Pilihan 1
@@ -694,6 +1139,248 @@ MonoBehaviour:
   scrollBar: {fileID: 1405050900}
   nextButton: {fileID: 917966944}
   prevButton: {fileID: 1619822764}
+--- !u!114 &259725440
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 50
+  typeSoal: 0
+  soal: Soal No 50
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &259827703
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 6
+  typeSoal: 0
+  soal: Soal No 6
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &259840816
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 47
+  typeSoal: 0
+  soal: Soal No 47
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &263935739
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 45
+  typeSoal: 0
+  soal: Soal No 45
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &273311487
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 15
+  typeSoal: 0
+  soal: Soal No 15
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &274183523
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 48
+  typeSoal: 0
+  soal: Soal No 48
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &275734610
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 18
+  typeSoal: 0
+  soal: Soal No 18
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &298738260
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 7
+  typeSoal: 0
+  soal: Soal No 7
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &300249205
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 29
+  typeSoal: 0
+  soal: Soal No 29
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &306609829
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 49
+  typeSoal: 0
+  soal: Soal No 49
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &307244359
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 13
+  typeSoal: 0
+  soal: Soal No 13
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
 --- !u!1 &312933844
 GameObject:
   m_ObjectHideFlags: 0
@@ -770,7 +1457,7 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 312933844}
   m_CullTransparentMesh: 1
---- !u!114 &324246372
+--- !u!114 &320629682
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -782,9 +1469,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  idSoal: 30
+  idSoal: 25
   typeSoal: 0
-  soal: Soal No 30
+  soal: Soal No 25
   answer: Pilihan 1
   pilihan:
   - Pilihan 1
@@ -792,7 +1479,7 @@ MonoBehaviour:
   - Pilihan 3
   - Pilihan 4
   image: {fileID: 0}
---- !u!114 &328640041
+--- !u!114 &328164866
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -804,9 +1491,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  idSoal: 8
+  idSoal: 32
   typeSoal: 0
-  soal: Soal No 8
+  soal: Soal No 32
   answer: Pilihan 1
   pilihan:
   - Pilihan 1
@@ -814,7 +1501,117 @@ MonoBehaviour:
   - Pilihan 3
   - Pilihan 4
   image: {fileID: 0}
---- !u!114 &349987951
+--- !u!114 &336301891
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 46
+  typeSoal: 0
+  soal: Soal No 46
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &338959560
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 43
+  typeSoal: 0
+  soal: Soal No 43
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &348384101
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 39
+  typeSoal: 0
+  soal: Soal No 39
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &350014974
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 49
+  typeSoal: 0
+  soal: Soal No 49
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &361452222
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 11
+  typeSoal: 0
+  soal: Soal No 11
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 21300000, guid: baa750bb48f5e184686cfcf5a6fe988a, type: 3}
+--- !u!114 &366790222
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -835,7 +1632,29 @@ MonoBehaviour:
   - Pilihan 2
   - Pilihan 3
   - Pilihan 4
-  image: {fileID: 21300000, guid: df997419c658bf0488519ba92632c551, type: 3}
+  image: {fileID: 0}
+--- !u!114 &366985434
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 18
+  typeSoal: 0
+  soal: Soal No 18
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
 --- !u!1 &375492428
 GameObject:
   m_ObjectHideFlags: 0
@@ -919,7 +1738,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls: []
---- !u!114 &380993185
+--- !u!114 &377495288
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -931,9 +1750,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  idSoal: 31
+  idSoal: 24
   typeSoal: 0
-  soal: Soal No 31
+  soal: Soal No 24
   answer: Pilihan 1
   pilihan:
   - Pilihan 1
@@ -941,51 +1760,7 @@ MonoBehaviour:
   - Pilihan 3
   - Pilihan 4
   image: {fileID: 0}
---- !u!114 &469507876
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  idSoal: 28
-  typeSoal: 0
-  soal: Soal No 28
-  answer: Pilihan 1
-  pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
-  image: {fileID: 0}
---- !u!114 &473797468
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  idSoal: 47
-  typeSoal: 0
-  soal: Soal No 47
-  answer: Pilihan 1
-  pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
-  image: {fileID: 0}
---- !u!114 &478358535
+--- !u!114 &384494768
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1007,7 +1782,161 @@ MonoBehaviour:
   - Pilihan 3
   - Pilihan 4
   image: {fileID: 0}
---- !u!114 &482907231
+--- !u!114 &390094286
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 50
+  typeSoal: 0
+  soal: Soal No 50
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &392615389
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 45
+  typeSoal: 0
+  soal: Soal No 45
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &417271285
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 42
+  typeSoal: 0
+  soal: Soal No 42
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &419214472
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 31
+  typeSoal: 0
+  soal: Soal No 31
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &423782981
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 9
+  typeSoal: 0
+  soal: Soal No 9
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &425077581
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 17
+  typeSoal: 0
+  soal: Soal No 17
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &438419159
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 18
+  typeSoal: 0
+  soal: Soal No 18
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &456196834
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1029,7 +1958,7 @@ MonoBehaviour:
   - Pilihan 3
   - Pilihan 4
   image: {fileID: 0}
---- !u!114 &494482239
+--- !u!114 &462364492
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1041,9 +1970,119 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  idSoal: 23
+  idSoal: 27
   typeSoal: 0
-  soal: Soal No 23
+  soal: Soal No 27
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &463686151
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 34
+  typeSoal: 0
+  soal: Soal No 34
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &469112884
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 16
+  typeSoal: 0
+  soal: Soal No 16
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &469535565
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 9
+  typeSoal: 0
+  soal: Soal No 9
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &475280666
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 24
+  typeSoal: 0
+  soal: Soal No 24
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &506106537
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 34
+  typeSoal: 0
+  soal: Soal No 34
   answer: Pilihan 1
   pilihan:
   - Pilihan 1
@@ -1096,60 +2135,60 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   bankSoal:
-  - {fileID: 974124527}
-  - {fileID: 1648230299}
-  - {fileID: 936310713}
-  - {fileID: 977919489}
-  - {fileID: 482907231}
-  - {fileID: 2082812019}
-  - {fileID: 1307053141}
-  - {fileID: 328640041}
-  - {fileID: 708400782}
-  - {fileID: 53893458}
-  - {fileID: 1541449750}
-  - {fileID: 1858792339}
-  - {fileID: 2016027011}
-  - {fileID: 1017939036}
-  - {fileID: 676575629}
-  - {fileID: 1861157670}
-  - {fileID: 1564684330}
-  - {fileID: 141792008}
-  - {fileID: 1515427131}
-  - {fileID: 241680131}
-  - {fileID: 564039547}
-  - {fileID: 76209942}
-  - {fileID: 494482239}
-  - {fileID: 847489705}
-  - {fileID: 1232963997}
-  - {fileID: 688266627}
-  - {fileID: 645999244}
-  - {fileID: 469507876}
-  - {fileID: 902474292}
-  - {fileID: 324246372}
-  - {fileID: 380993185}
-  - {fileID: 197438354}
-  - {fileID: 1943710886}
-  - {fileID: 478358535}
-  - {fileID: 1089188067}
-  - {fileID: 127926064}
-  - {fileID: 522065156}
-  - {fileID: 1870030937}
-  - {fileID: 1809157324}
-  - {fileID: 1582876711}
-  - {fileID: 630890571}
-  - {fileID: 840353313}
-  - {fileID: 130437079}
-  - {fileID: 2006025482}
-  - {fileID: 1015374803}
-  - {fileID: 101088354}
-  - {fileID: 473797468}
-  - {fileID: 804030071}
-  - {fileID: 1112481495}
-  - {fileID: 1229614452}
+  - {fileID: 1130206318}
+  - {fileID: 2040013184}
+  - {fileID: 724559050}
+  - {fileID: 1491686616}
+  - {fileID: 1217074642}
+  - {fileID: 940540494}
+  - {fileID: 298738260}
+  - {fileID: 1543678055}
+  - {fileID: 423782981}
+  - {fileID: 652179052}
+  - {fileID: 361452222}
+  - {fileID: 766250066}
+  - {fileID: 1871778103}
+  - {fileID: 1768284873}
+  - {fileID: 722399022}
+  - {fileID: 1603995894}
+  - {fileID: 1112440458}
+  - {fileID: 438419159}
+  - {fileID: 1324365325}
+  - {fileID: 1716322090}
+  - {fileID: 552439304}
+  - {fileID: 92352981}
+  - {fileID: 174783904}
+  - {fileID: 1966240979}
+  - {fileID: 553415970}
+  - {fileID: 772552460}
+  - {fileID: 694813786}
+  - {fileID: 1036503849}
+  - {fileID: 1791452565}
+  - {fileID: 2045567346}
+  - {fileID: 2070143115}
+  - {fileID: 1332494914}
+  - {fileID: 1406897834}
+  - {fileID: 1565609067}
+  - {fileID: 196862330}
+  - {fileID: 1626881952}
+  - {fileID: 1650638683}
+  - {fileID: 1492777146}
+  - {fileID: 747277344}
+  - {fileID: 1850744413}
+  - {fileID: 1150540179}
+  - {fileID: 1024927029}
+  - {fileID: 1786071385}
+  - {fileID: 9502093}
+  - {fileID: 392615389}
+  - {fileID: 2069070959}
+  - {fileID: 259840816}
+  - {fileID: 1310112199}
+  - {fileID: 306609829}
+  - {fileID: 652102324}
   numberOfLevel: 50
   activeLevel: 0
   typeSoal: 0
---- !u!114 &522065156
+--- !u!114 &514433891
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1161,9 +2200,141 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  idSoal: 37
+  idSoal: 33
   typeSoal: 0
-  soal: Soal No 37
+  soal: Soal No 33
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &514951402
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 8
+  typeSoal: 0
+  soal: Soal No 8
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &532512994
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 20
+  typeSoal: 0
+  soal: Soal No 20
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &536478623
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 19
+  typeSoal: 0
+  soal: Soal No 19
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &541518253
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 16
+  typeSoal: 0
+  soal: Soal No 16
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &543866235
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 35
+  typeSoal: 0
+  soal: Soal No 35
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &552439304
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 21
+  typeSoal: 0
+  soal: Soal No 21
   answer: Pilihan 1
   pilihan:
   - Pilihan 1
@@ -1254,7 +2425,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls: []
---- !u!114 &564039547
+--- !u!114 &553415970
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1266,9 +2437,53 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  idSoal: 21
+  idSoal: 25
   typeSoal: 0
-  soal: Soal No 21
+  soal: Soal No 25
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &565315498
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 5
+  typeSoal: 0
+  soal: Soal No 5
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &577377986
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 44
+  typeSoal: 0
+  soal: Soal No 44
   answer: Pilihan 1
   pilihan:
   - Pilihan 1
@@ -1352,7 +2567,7 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 579515329}
   m_CullTransparentMesh: 1
---- !u!114 &630890571
+--- !u!114 &582494724
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1364,9 +2579,119 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  idSoal: 41
+  idSoal: 45
   typeSoal: 0
-  soal: Soal No 41
+  soal: Soal No 45
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &583894982
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 27
+  typeSoal: 0
+  soal: Soal No 27
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &586976578
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 21
+  typeSoal: 0
+  soal: Soal No 21
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &589504529
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 7
+  typeSoal: 0
+  soal: Soal No 7
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &591358629
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 43
+  typeSoal: 0
+  soal: Soal No 43
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &594271145
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 21
+  typeSoal: 0
+  soal: Soal No 21
   answer: Pilihan 1
   pilihan:
   - Pilihan 1
@@ -1457,7 +2782,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls: []
---- !u!114 &645999244
+--- !u!114 &643946465
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1469,9 +2794,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  idSoal: 27
+  idSoal: 50
   typeSoal: 0
-  soal: Soal No 27
+  soal: Soal No 50
   answer: Pilihan 1
   pilihan:
   - Pilihan 1
@@ -1479,7 +2804,7 @@ MonoBehaviour:
   - Pilihan 3
   - Pilihan 4
   image: {fileID: 0}
---- !u!114 &670457592
+--- !u!114 &652102324
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1491,17 +2816,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  idSoal: 1
-  typeSoal: 1
-  soal: Soal No 1
+  idSoal: 50
+  typeSoal: 0
+  soal: Soal No 50
   answer: Pilihan 1
   pilihan:
   - Pilihan 1
   - Pilihan 2
   - Pilihan 3
   - Pilihan 4
-  image: {fileID: 21300000, guid: 63845431361223640963023838e4bfd2, type: 3}
---- !u!114 &676575629
+  image: {fileID: 0}
+--- !u!114 &652179052
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1513,9 +2838,53 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  idSoal: 15
+  idSoal: 10
   typeSoal: 0
-  soal: Soal No 15
+  soal: Soal No 10
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &669441784
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 29
+  typeSoal: 0
+  soal: Soal No 29
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &674852959
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 31
+  typeSoal: 0
+  soal: Soal No 31
   answer: Pilihan 1
   pilihan:
   - Pilihan 1
@@ -1601,6 +2970,50 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 677572607}
   m_CullTransparentMesh: 1
+--- !u!114 &678833595
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 11
+  typeSoal: 0
+  soal: Soal No 11
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &683854843
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 10
+  typeSoal: 0
+  soal: Soal No 10
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
 --- !u!1 &686351117
 GameObject:
   m_ObjectHideFlags: 0
@@ -1736,7 +3149,7 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 686351117}
   m_CullTransparentMesh: 1
---- !u!114 &688266627
+--- !u!114 &694813786
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1748,9 +3161,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  idSoal: 26
+  idSoal: 27
   typeSoal: 0
-  soal: Soal No 26
+  soal: Soal No 27
   answer: Pilihan 1
   pilihan:
   - Pilihan 1
@@ -1758,7 +3171,7 @@ MonoBehaviour:
   - Pilihan 3
   - Pilihan 4
   image: {fileID: 0}
---- !u!114 &708400782
+--- !u!114 &706260676
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1770,9 +3183,97 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  idSoal: 9
+  idSoal: 44
   typeSoal: 0
-  soal: Soal No 9
+  soal: Soal No 44
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &709807327
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 29
+  typeSoal: 0
+  soal: Soal No 29
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &722399022
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 15
+  typeSoal: 0
+  soal: Soal No 15
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &724559050
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 3
+  typeSoal: 0
+  soal: Soal No 3
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 21300000, guid: 8df85c9d852197447a8ea44355af487d, type: 3}
+--- !u!114 &747277344
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 39
+  typeSoal: 0
+  soal: Soal No 39
   answer: Pilihan 1
   pilihan:
   - Pilihan 1
@@ -2018,6 +3519,94 @@ MonoBehaviour:
           m_StringArgument: MenuUtama
           m_BoolArgument: 0
         m_CallState: 2
+--- !u!114 &766250066
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 12
+  typeSoal: 0
+  soal: Soal No 12
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &772552460
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 26
+  typeSoal: 0
+  soal: Soal No 26
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &779676288
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 42
+  typeSoal: 0
+  soal: Soal No 42
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &784588781
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 19
+  typeSoal: 0
+  soal: Soal No 19
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
 --- !u!1 &788200050
 GameObject:
   m_ObjectHideFlags: 0
@@ -2153,7 +3742,7 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 788200050}
   m_CullTransparentMesh: 1
---- !u!114 &804030071
+--- !u!114 &790426394
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -2165,9 +3754,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  idSoal: 48
+  idSoal: 13
   typeSoal: 0
-  soal: Soal No 48
+  soal: Soal No 13
   answer: Pilihan 1
   pilihan:
   - Pilihan 1
@@ -2175,7 +3764,7 @@ MonoBehaviour:
   - Pilihan 3
   - Pilihan 4
   image: {fileID: 0}
---- !u!114 &840353313
+--- !u!114 &796020090
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -2187,9 +3776,53 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  idSoal: 42
+  idSoal: 7
   typeSoal: 0
-  soal: Soal No 42
+  soal: Soal No 7
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &820931798
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 23
+  typeSoal: 0
+  soal: Soal No 23
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &836993826
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 38
+  typeSoal: 0
+  soal: Soal No 38
   answer: Pilihan 1
   pilihan:
   - Pilihan 1
@@ -2274,28 +3907,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 844337914}
   m_CullTransparentMesh: 1
---- !u!114 &847489705
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  idSoal: 24
-  typeSoal: 0
-  soal: Soal No 24
-  answer: Pilihan 1
-  pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
-  image: {fileID: 0}
 --- !u!1 &856460452
 GameObject:
   m_ObjectHideFlags: 0
@@ -2372,6 +3983,50 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 856460452}
   m_CullTransparentMesh: 1
+--- !u!114 &856706027
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 23
+  typeSoal: 0
+  soal: Soal No 23
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &860661045
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 3
+  typeSoal: 0
+  soal: Soal No 3
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
 --- !u!1 &864881180
 GameObject:
   m_ObjectHideFlags: 0
@@ -2417,8 +4072,57 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   bankSoal:
-  - {fileID: 670457592}
-  numberOfLevel: 1
+  - {fileID: 107601925}
+  - {fileID: 366790222}
+  - {fileID: 860661045}
+  - {fileID: 164966326}
+  - {fileID: 456196834}
+  - {fileID: 1692945361}
+  - {fileID: 589504529}
+  - {fileID: 514951402}
+  - {fileID: 469535565}
+  - {fileID: 1364380631}
+  - {fileID: 1263459385}
+  - {fileID: 1737250944}
+  - {fileID: 1284562590}
+  - {fileID: 218292383}
+  - {fileID: 1415517742}
+  - {fileID: 469112884}
+  - {fileID: 1307673677}
+  - {fileID: 1850144850}
+  - {fileID: 536478623}
+  - {fileID: 1546734611}
+  - {fileID: 1287513378}
+  - {fileID: 1562746135}
+  - {fileID: 820931798}
+  - {fileID: 1400405130}
+  - {fileID: 1612587755}
+  - {fileID: 1013594509}
+  - {fileID: 462364492}
+  - {fileID: 1722462181}
+  - {fileID: 709807327}
+  - {fileID: 1161580487}
+  - {fileID: 419214472}
+  - {fileID: 18458173}
+  - {fileID: 166518313}
+  - {fileID: 1542512037}
+  - {fileID: 1141616376}
+  - {fileID: 1335422125}
+  - {fileID: 226223796}
+  - {fileID: 1272616915}
+  - {fileID: 348384101}
+  - {fileID: 1282529804}
+  - {fileID: 1046415107}
+  - {fileID: 1795590166}
+  - {fileID: 591358629}
+  - {fileID: 577377986}
+  - {fileID: 263935739}
+  - {fileID: 336301891}
+  - {fileID: 28314774}
+  - {fileID: 274183523}
+  - {fileID: 1995290825}
+  - {fileID: 390094286}
+  numberOfLevel: 50
   activeLevel: 0
   typeSoal: 0
 --- !u!1 &883926619
@@ -2556,7 +4260,7 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 883926619}
   m_CullTransparentMesh: 1
---- !u!114 &902474292
+--- !u!114 &899428662
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -2568,9 +4272,53 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  idSoal: 29
+  idSoal: 33
   typeSoal: 0
-  soal: Soal No 29
+  soal: Soal No 33
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &902708778
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 32
+  typeSoal: 0
+  soal: Soal No 32
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &904077051
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 45
+  typeSoal: 0
+  soal: Soal No 45
   answer: Pilihan 1
   pilihan:
   - Pilihan 1
@@ -2711,7 +4459,7 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 917966944}
   m_CullTransparentMesh: 1
---- !u!114 &936310713
+--- !u!114 &940540494
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -2723,17 +4471,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  idSoal: 3
+  idSoal: 6
   typeSoal: 0
-  soal: Soal No 3
+  soal: Soal No 6
   answer: Pilihan 1
   pilihan:
   - Pilihan 1
   - Pilihan 2
   - Pilihan 3
   - Pilihan 4
-  image: {fileID: 0}
---- !u!114 &974124527
+  image: {fileID: 21300000, guid: d42f8c4f1db8e9d44966c179463670c1, type: 3}
+--- !u!114 &971006668
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -2745,31 +4493,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  idSoal: 1
+  idSoal: 46
   typeSoal: 0
-  soal: Soal No 1
-  answer: Pilihan 1
-  pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
-  image: {fileID: 0}
---- !u!114 &977919489
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  idSoal: 4
-  typeSoal: 0
-  soal: Soal No 4
+  soal: Soal No 46
   answer: Pilihan 1
   pilihan:
   - Pilihan 1
@@ -2860,6 +4586,50 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls: []
+--- !u!114 &987983754
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 24
+  typeSoal: 0
+  soal: Soal No 24
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &989099287
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 14
+  typeSoal: 0
+  soal: Soal No 14
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
 --- !u!1 &993975696
 GameObject:
   m_ObjectHideFlags: 0
@@ -2969,6 +4739,72 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 993975696}
   m_CullTransparentMesh: 1
+--- !u!114 &994247377
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 37
+  typeSoal: 0
+  soal: Soal No 37
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &998411916
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 1
+  typeSoal: 0
+  soal: Soal No 1
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &1002279542
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 35
+  typeSoal: 0
+  soal: Soal No 35
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
 --- !u!1 &1002592132
 GameObject:
   m_ObjectHideFlags: 0
@@ -3014,13 +4850,60 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   bankSoal:
-  - {fileID: 670457592}
-  - {fileID: 349987951}
-  - {fileID: 11220935}
-  numberOfLevel: 3
+  - {fileID: 998411916}
+  - {fileID: 180111142}
+  - {fileID: 1611995084}
+  - {fileID: 2128446329}
+  - {fileID: 565315498}
+  - {fileID: 259827703}
+  - {fileID: 1686066467}
+  - {fileID: 1341266005}
+  - {fileID: 1345313267}
+  - {fileID: 1016786525}
+  - {fileID: 45425274}
+  - {fileID: 1099684138}
+  - {fileID: 1452755412}
+  - {fileID: 2079894844}
+  - {fileID: 273311487}
+  - {fileID: 541518253}
+  - {fileID: 1393547710}
+  - {fileID: 366985434}
+  - {fileID: 784588781}
+  - {fileID: 532512994}
+  - {fileID: 586976578}
+  - {fileID: 1389178194}
+  - {fileID: 856706027}
+  - {fileID: 475280666}
+  - {fileID: 320629682}
+  - {fileID: 35419159}
+  - {fileID: 1209859821}
+  - {fileID: 1671269184}
+  - {fileID: 669441784}
+  - {fileID: 1955056048}
+  - {fileID: 1047706381}
+  - {fileID: 902708778}
+  - {fileID: 514433891}
+  - {fileID: 506106537}
+  - {fileID: 1008133162}
+  - {fileID: 2119873246}
+  - {fileID: 1443545406}
+  - {fileID: 182787950}
+  - {fileID: 1790252904}
+  - {fileID: 7672240}
+  - {fileID: 2069163232}
+  - {fileID: 417271285}
+  - {fileID: 97385722}
+  - {fileID: 178141330}
+  - {fileID: 582494724}
+  - {fileID: 1358540504}
+  - {fileID: 126949810}
+  - {fileID: 1778925769}
+  - {fileID: 350014974}
+  - {fileID: 259725440}
+  numberOfLevel: 50
   activeLevel: 0
   typeSoal: 0
---- !u!114 &1015374803
+--- !u!114 &1008133162
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -3032,9 +4915,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  idSoal: 45
+  idSoal: 35
   typeSoal: 0
-  soal: Soal No 45
+  soal: Soal No 35
   answer: Pilihan 1
   pilihan:
   - Pilihan 1
@@ -3042,7 +4925,7 @@ MonoBehaviour:
   - Pilihan 3
   - Pilihan 4
   image: {fileID: 0}
---- !u!114 &1017939036
+--- !u!114 &1013594509
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -3054,9 +4937,141 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  idSoal: 14
+  idSoal: 26
   typeSoal: 0
-  soal: Soal No 14
+  soal: Soal No 26
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &1016786525
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 10
+  typeSoal: 0
+  soal: Soal No 10
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &1024927029
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 42
+  typeSoal: 0
+  soal: Soal No 42
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &1026952973
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 29
+  typeSoal: 0
+  soal: Soal No 29
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &1036503849
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 28
+  typeSoal: 0
+  soal: Soal No 28
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &1046415107
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 41
+  typeSoal: 0
+  soal: Soal No 41
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &1047706381
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 31
+  typeSoal: 0
+  soal: Soal No 31
   answer: Pilihan 1
   pilihan:
   - Pilihan 1
@@ -3215,7 +5230,117 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1089188067
+--- !u!114 &1099684138
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 12
+  typeSoal: 0
+  soal: Soal No 12
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &1100327971
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 28
+  typeSoal: 0
+  soal: Soal No 28
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &1112440458
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 17
+  typeSoal: 0
+  soal: Soal No 17
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &1130206318
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 1
+  typeSoal: 0
+  soal: Soal No 1
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &1139844254
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 27
+  typeSoal: 0
+  soal: Soal No 27
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &1141616376
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -3237,7 +5362,161 @@ MonoBehaviour:
   - Pilihan 3
   - Pilihan 4
   image: {fileID: 0}
---- !u!114 &1112481495
+--- !u!114 &1143182167
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 16
+  typeSoal: 0
+  soal: Soal No 16
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &1150540179
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 41
+  typeSoal: 0
+  soal: Soal No 41
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &1155715769
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 15
+  typeSoal: 0
+  soal: Soal No 15
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &1161580487
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 30
+  typeSoal: 0
+  soal: Soal No 30
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &1164234093
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 10
+  typeSoal: 0
+  soal: Soal No 10
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &1186701561
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 3
+  typeSoal: 0
+  soal: Soal No 3
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &1209859821
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 27
+  typeSoal: 0
+  soal: Soal No 27
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &1214815471
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -3259,7 +5538,7 @@ MonoBehaviour:
   - Pilihan 3
   - Pilihan 4
   image: {fileID: 0}
---- !u!114 &1229614452
+--- !u!114 &1217074642
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -3271,9 +5550,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  idSoal: 50
+  idSoal: 5
   typeSoal: 0
-  soal: Soal No 50
+  soal: Soal No 5
   answer: Pilihan 1
   pilihan:
   - Pilihan 1
@@ -3281,7 +5560,7 @@ MonoBehaviour:
   - Pilihan 3
   - Pilihan 4
   image: {fileID: 0}
---- !u!114 &1232963997
+--- !u!114 &1220145546
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -3293,9 +5572,119 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  idSoal: 25
+  idSoal: 5
   typeSoal: 0
-  soal: Soal No 25
+  soal: Soal No 5
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &1248812115
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 47
+  typeSoal: 0
+  soal: Soal No 47
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &1257566234
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 1
+  typeSoal: 0
+  soal: Soal No 1
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &1259823819
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 43
+  typeSoal: 0
+  soal: Soal No 43
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &1263459385
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 11
+  typeSoal: 0
+  soal: Soal No 11
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &1272616915
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 38
+  typeSoal: 0
+  soal: Soal No 38
   answer: Pilihan 1
   pilihan:
   - Pilihan 1
@@ -3379,6 +5768,116 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1276803100}
   m_CullTransparentMesh: 1
+--- !u!114 &1282529804
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 40
+  typeSoal: 0
+  soal: Soal No 40
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &1284562590
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 13
+  typeSoal: 0
+  soal: Soal No 13
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &1285481052
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 6
+  typeSoal: 0
+  soal: Soal No 6
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &1287513378
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 21
+  typeSoal: 0
+  soal: Soal No 21
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &1289129343
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 21
+  typeSoal: 0
+  soal: Soal No 21
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
 --- !u!1 &1300231126
 GameObject:
   m_ObjectHideFlags: 0
@@ -3455,7 +5954,7 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1300231126}
   m_CullTransparentMesh: 1
---- !u!114 &1307053141
+--- !u!114 &1304849801
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -3467,9 +5966,361 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  idSoal: 7
+  idSoal: 2
   typeSoal: 0
-  soal: Soal No 7
+  soal: Soal No 2
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &1307673677
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 17
+  typeSoal: 0
+  soal: Soal No 17
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &1310112199
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 48
+  typeSoal: 0
+  soal: Soal No 48
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &1324365325
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 19
+  typeSoal: 0
+  soal: Soal No 19
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &1332494914
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 32
+  typeSoal: 0
+  soal: Soal No 32
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &1335422125
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 36
+  typeSoal: 0
+  soal: Soal No 36
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &1341266005
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 8
+  typeSoal: 0
+  soal: Soal No 8
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &1345313267
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 9
+  typeSoal: 0
+  soal: Soal No 9
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &1358540504
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 46
+  typeSoal: 0
+  soal: Soal No 46
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &1359180468
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 36
+  typeSoal: 0
+  soal: Soal No 36
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &1364380631
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 10
+  typeSoal: 0
+  soal: Soal No 10
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &1371403754
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 47
+  typeSoal: 0
+  soal: Soal No 47
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &1380687793
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 41
+  typeSoal: 0
+  soal: Soal No 41
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &1389178194
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 22
+  typeSoal: 0
+  soal: Soal No 22
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &1393547710
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 17
+  typeSoal: 0
+  soal: Soal No 17
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &1393967614
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 22
+  typeSoal: 0
+  soal: Soal No 22
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &1400405130
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 24
+  typeSoal: 0
+  soal: Soal No 24
   answer: Pilihan 1
   pilihan:
   - Pilihan 1
@@ -3604,7 +6455,7 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1405050900}
   m_CullTransparentMesh: 1
---- !u!114 &1515427131
+--- !u!114 &1406897834
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -3616,9 +6467,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  idSoal: 19
+  idSoal: 33
   typeSoal: 0
-  soal: Soal No 19
+  soal: Soal No 33
   answer: Pilihan 1
   pilihan:
   - Pilihan 1
@@ -3626,7 +6477,7 @@ MonoBehaviour:
   - Pilihan 3
   - Pilihan 4
   image: {fileID: 0}
---- !u!114 &1541449750
+--- !u!114 &1415517742
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -3638,9 +6489,317 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  idSoal: 11
+  idSoal: 15
   typeSoal: 0
-  soal: Soal No 11
+  soal: Soal No 15
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &1427540804
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 3
+  typeSoal: 0
+  soal: Soal No 3
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &1443545406
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 37
+  typeSoal: 0
+  soal: Soal No 37
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &1452755412
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 13
+  typeSoal: 0
+  soal: Soal No 13
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &1456339603
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 9
+  typeSoal: 0
+  soal: Soal No 9
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &1457835320
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 25
+  typeSoal: 0
+  soal: Soal No 25
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &1476235744
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 38
+  typeSoal: 0
+  soal: Soal No 38
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &1480411225
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 23
+  typeSoal: 0
+  soal: Soal No 23
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &1487298140
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 39
+  typeSoal: 0
+  soal: Soal No 39
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &1491686616
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 4
+  typeSoal: 0
+  soal: Soal No 4
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 21300000, guid: 2e498a1fe1c84044f9e18b0e5e0dafa8, type: 3}
+--- !u!114 &1492777146
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 38
+  typeSoal: 0
+  soal: Soal No 38
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &1506097849
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 37
+  typeSoal: 0
+  soal: Soal No 37
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &1513569731
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 20
+  typeSoal: 0
+  soal: Soal No 20
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &1542062980
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 6
+  typeSoal: 0
+  soal: Soal No 6
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &1542512037
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 34
+  typeSoal: 0
+  soal: Soal No 34
   answer: Pilihan 1
   pilihan:
   - Pilihan 1
@@ -3783,7 +6942,7 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1542587791}
   m_CullTransparentMesh: 1
---- !u!114 &1564684330
+--- !u!114 &1543678055
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -3795,9 +6954,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  idSoal: 17
+  idSoal: 8
   typeSoal: 0
-  soal: Soal No 17
+  soal: Soal No 8
   answer: Pilihan 1
   pilihan:
   - Pilihan 1
@@ -3805,7 +6964,7 @@ MonoBehaviour:
   - Pilihan 3
   - Pilihan 4
   image: {fileID: 0}
---- !u!114 &1582876711
+--- !u!114 &1545684787
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -3817,9 +6976,141 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  idSoal: 40
+  idSoal: 11
   typeSoal: 0
-  soal: Soal No 40
+  soal: Soal No 11
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &1546734611
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 20
+  typeSoal: 0
+  soal: Soal No 20
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &1562746135
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 22
+  typeSoal: 0
+  soal: Soal No 22
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &1565609067
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 34
+  typeSoal: 0
+  soal: Soal No 34
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &1603995894
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 16
+  typeSoal: 0
+  soal: Soal No 16
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &1611995084
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 3
+  typeSoal: 0
+  soal: Soal No 3
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &1612587755
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 25
+  typeSoal: 0
+  soal: Soal No 25
   answer: Pilihan 1
   pilihan:
   - Pilihan 1
@@ -4036,7 +7327,7 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1619822764}
   m_CullTransparentMesh: 1
---- !u!114 &1648230299
+--- !u!114 &1619950042
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -4048,9 +7339,339 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  idSoal: 2
+  idSoal: 9
   typeSoal: 0
-  soal: Soal No 2
+  soal: Soal No 9
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &1623985929
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 14
+  typeSoal: 0
+  soal: Soal No 14
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &1626881952
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 36
+  typeSoal: 0
+  soal: Soal No 36
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &1637085045
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 18
+  typeSoal: 0
+  soal: Soal No 18
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &1645827104
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 46
+  typeSoal: 0
+  soal: Soal No 46
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &1650638683
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 37
+  typeSoal: 0
+  soal: Soal No 37
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &1669826525
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 42
+  typeSoal: 0
+  soal: Soal No 42
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &1671269184
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 28
+  typeSoal: 0
+  soal: Soal No 28
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &1686066467
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 7
+  typeSoal: 0
+  soal: Soal No 7
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &1692945361
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 6
+  typeSoal: 0
+  soal: Soal No 6
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &1707704789
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 7
+  typeSoal: 0
+  soal: Soal No 7
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &1716322090
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 20
+  typeSoal: 0
+  soal: Soal No 20
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &1722462181
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 28
+  typeSoal: 0
+  soal: Soal No 28
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &1727758445
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 31
+  typeSoal: 0
+  soal: Soal No 31
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &1728650695
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 30
+  typeSoal: 0
+  soal: Soal No 30
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &1737250944
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 12
+  typeSoal: 0
+  soal: Soal No 12
   answer: Pilihan 1
   pilihan:
   - Pilihan 1
@@ -4193,6 +7814,50 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1739388643}
   m_CullTransparentMesh: 1
+--- !u!114 &1752877404
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 19
+  typeSoal: 0
+  soal: Soal No 19
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &1756500661
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 4
+  typeSoal: 0
+  soal: Soal No 4
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
 --- !u!1 &1762345657
 GameObject:
   m_ObjectHideFlags: 0
@@ -4238,11 +7903,148 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   bankSoal:
-  - {fileID: 670457592}
-  numberOfLevel: 1
+  - {fileID: 1257566234}
+  - {fileID: 1304849801}
+  - {fileID: 1186701561}
+  - {fileID: 1867863023}
+  - {fileID: 1220145546}
+  - {fileID: 1542062980}
+  - {fileID: 1707704789}
+  - {fileID: 2093703170}
+  - {fileID: 1619950042}
+  - {fileID: 683854843}
+  - {fileID: 678833595}
+  - {fileID: 2004706437}
+  - {fileID: 790426394}
+  - {fileID: 1623985929}
+  - {fileID: 197825490}
+  - {fileID: 1143182167}
+  - {fileID: 1839482725}
+  - {fileID: 275734610}
+  - {fileID: 1897383487}
+  - {fileID: 47546225}
+  - {fileID: 594271145}
+  - {fileID: 1393967614}
+  - {fileID: 2096228380}
+  - {fileID: 987983754}
+  - {fileID: 1457835320}
+  - {fileID: 1824026114}
+  - {fileID: 1139844254}
+  - {fileID: 2033367869}
+  - {fileID: 300249205}
+  - {fileID: 1728650695}
+  - {fileID: 1727758445}
+  - {fileID: 328164866}
+  - {fileID: 1799596856}
+  - {fileID: 463686151}
+  - {fileID: 543866235}
+  - {fileID: 1922127030}
+  - {fileID: 1506097849}
+  - {fileID: 1476235744}
+  - {fileID: 136005201}
+  - {fileID: 2028626621}
+  - {fileID: 1380687793}
+  - {fileID: 1669826525}
+  - {fileID: 1259823819}
+  - {fileID: 2074747945}
+  - {fileID: 125223285}
+  - {fileID: 1645827104}
+  - {fileID: 1248812115}
+  - {fileID: 55574007}
+  - {fileID: 1892854549}
+  - {fileID: 643946465}
+  numberOfLevel: 50
   activeLevel: 0
   typeSoal: 0
---- !u!114 &1809157324
+--- !u!114 &1768284873
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 14
+  typeSoal: 0
+  soal: Soal No 14
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &1777833604
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 30
+  typeSoal: 0
+  soal: Soal No 30
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &1778925769
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 48
+  typeSoal: 0
+  soal: Soal No 48
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &1786071385
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 43
+  typeSoal: 0
+  soal: Soal No 43
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &1790252904
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -4264,7 +8066,7 @@ MonoBehaviour:
   - Pilihan 3
   - Pilihan 4
   image: {fileID: 0}
---- !u!114 &1858792339
+--- !u!114 &1791452565
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -4276,9 +8078,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  idSoal: 12
+  idSoal: 29
   typeSoal: 0
-  soal: Soal No 12
+  soal: Soal No 29
   answer: Pilihan 1
   pilihan:
   - Pilihan 1
@@ -4286,7 +8088,7 @@ MonoBehaviour:
   - Pilihan 3
   - Pilihan 4
   image: {fileID: 0}
---- !u!114 &1861157670
+--- !u!114 &1795590166
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -4298,9 +8100,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  idSoal: 16
+  idSoal: 42
   typeSoal: 0
-  soal: Soal No 16
+  soal: Soal No 42
   answer: Pilihan 1
   pilihan:
   - Pilihan 1
@@ -4308,29 +8110,7 @@ MonoBehaviour:
   - Pilihan 3
   - Pilihan 4
   image: {fileID: 0}
---- !u!114 &1870030937
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  idSoal: 38
-  typeSoal: 0
-  soal: Soal No 38
-  answer: Pilihan 1
-  pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
-  image: {fileID: 0}
---- !u!114 &1943710886
+--- !u!114 &1799596856
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -4352,7 +8132,7 @@ MonoBehaviour:
   - Pilihan 3
   - Pilihan 4
   image: {fileID: 0}
---- !u!114 &2006025482
+--- !u!114 &1824026114
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -4364,9 +8144,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  idSoal: 44
+  idSoal: 26
   typeSoal: 0
-  soal: Soal No 44
+  soal: Soal No 26
   answer: Pilihan 1
   pilihan:
   - Pilihan 1
@@ -4374,7 +8154,161 @@ MonoBehaviour:
   - Pilihan 3
   - Pilihan 4
   image: {fileID: 0}
---- !u!114 &2016027011
+--- !u!114 &1824578896
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 40
+  typeSoal: 0
+  soal: Soal No 40
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &1839482725
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 17
+  typeSoal: 0
+  soal: Soal No 17
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &1850144850
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 18
+  typeSoal: 0
+  soal: Soal No 18
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &1850744413
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 40
+  typeSoal: 0
+  soal: Soal No 40
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &1856049080
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 2
+  typeSoal: 0
+  soal: Soal No 2
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &1864355106
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 1
+  typeSoal: 0
+  soal: Soal No 1
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &1867863023
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 4
+  typeSoal: 0
+  soal: Soal No 4
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &1871778103
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -4389,6 +8323,248 @@ MonoBehaviour:
   idSoal: 13
   typeSoal: 0
   soal: Soal No 13
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &1873866921
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 50
+  typeSoal: 0
+  soal: Soal No 50
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &1892854549
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 49
+  typeSoal: 0
+  soal: Soal No 49
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &1897383487
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 19
+  typeSoal: 0
+  soal: Soal No 19
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &1922127030
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 36
+  typeSoal: 0
+  soal: Soal No 36
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &1955056048
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 30
+  typeSoal: 0
+  soal: Soal No 30
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &1962910701
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 22
+  typeSoal: 0
+  soal: Soal No 22
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &1966240979
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 24
+  typeSoal: 0
+  soal: Soal No 24
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &1975418942
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 5
+  typeSoal: 0
+  soal: Soal No 5
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &1995290825
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 49
+  typeSoal: 0
+  soal: Soal No 49
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &2002482861
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 26
+  typeSoal: 0
+  soal: Soal No 26
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &2004706437
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 12
+  typeSoal: 0
+  soal: Soal No 12
   answer: Pilihan 1
   pilihan:
   - Pilihan 1
@@ -4609,6 +8785,160 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2028583058}
   m_CullTransparentMesh: 1
+--- !u!114 &2028626621
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 40
+  typeSoal: 0
+  soal: Soal No 40
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &2033367869
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 28
+  typeSoal: 0
+  soal: Soal No 28
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &2040013184
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 2
+  typeSoal: 0
+  soal: Soal No 2
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &2042402209
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 8
+  typeSoal: 0
+  soal: Soal No 8
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &2045567346
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 30
+  typeSoal: 0
+  soal: Soal No 30
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &2048409900
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 25
+  typeSoal: 0
+  soal: Soal No 25
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &2053952641
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 16
+  typeSoal: 0
+  soal: Soal No 16
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
 --- !u!1 &2056511285
 GameObject:
   m_ObjectHideFlags: 0
@@ -4663,7 +8993,7 @@ MonoBehaviour:
   gTari: {fileID: 1762345657}
   gAlatMusik: {fileID: 864881180}
   gMakanan: {fileID: 104209188}
---- !u!114 &2082812019
+--- !u!114 &2069070959
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -4675,9 +9005,207 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  idSoal: 6
+  idSoal: 46
   typeSoal: 0
-  soal: Soal No 6
+  soal: Soal No 46
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &2069163232
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 41
+  typeSoal: 0
+  soal: Soal No 41
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &2070143115
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 31
+  typeSoal: 0
+  soal: Soal No 31
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &2074747945
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 44
+  typeSoal: 0
+  soal: Soal No 44
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &2079894844
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 14
+  typeSoal: 0
+  soal: Soal No 14
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &2093703170
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 8
+  typeSoal: 0
+  soal: Soal No 8
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &2096228380
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 23
+  typeSoal: 0
+  soal: Soal No 23
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &2119873246
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 36
+  typeSoal: 0
+  soal: Soal No 36
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &2128446329
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 4
+  typeSoal: 0
+  soal: Soal No 4
+  answer: Pilihan 1
+  pilihan:
+  - Pilihan 1
+  - Pilihan 2
+  - Pilihan 3
+  - Pilihan 4
+  image: {fileID: 0}
+--- !u!114 &2134930403
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 32
+  typeSoal: 0
+  soal: Soal No 32
   answer: Pilihan 1
   pilihan:
   - Pilihan 1

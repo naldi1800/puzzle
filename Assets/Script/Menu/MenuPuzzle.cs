@@ -59,6 +59,7 @@ public class MenuPuzzle : MonoBehaviour
             Button b = i.AddComponent<Button>();
             b.onClick.AddListener(() => bClick(i));
             b.transition = Selectable.Transition.None;
+            AudioManager.Instance.playSFX("ButtonClick");
         }
     }
     void bClick(GameObject gm)
