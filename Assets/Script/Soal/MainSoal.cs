@@ -23,7 +23,7 @@ public class MainSoal : MonoBehaviour
     private static BankSoal instanceMenu;
     public static MainSoal ints;
     private bool buttonClicked = false;
-    private bool isFinish = false;
+    //private bool isFinish = false;
     List<int> lcm = new List<int>();
     void Awake()
     {

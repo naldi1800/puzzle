@@ -123,7 +123,7 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
---- !u!114 &7672240
+--- !u!114 &15252868
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -135,37 +135,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  idSoal: 40
-  typeSoal: 0
-  soal: Soal No 40
-  answer: Pilihan 1
+  idSoal: 26
+  typeSoal: 1
+  soal: Laku tepu adalah pakaian adat yang berasal dari daerah...
+  answer: Sulawesi Selatan
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
-  image: {fileID: 0}
---- !u!114 &9502093
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  idSoal: 44
-  typeSoal: 0
-  soal: Soal No 44
-  answer: Pilihan 1
-  pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Sulawesi Selatan
+  - Sulawesi Barat
+  - Sulawesi Utara
+  - Jawa Barat
   image: {fileID: 0}
 --- !u!114 &18458173
 MonoBehaviour:
@@ -180,14 +158,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 32
-  typeSoal: 0
-  soal: Soal No 32
-  answer: Pilihan 1
+  typeSoal: 2
+  soal: Alat musik Geso-geso berasal dari daerah...
+  answer: Toraja
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Sumatera Utara
+  - Jawa Timur
+  - Kalimantan Barat
+  - Toraja
   image: {fileID: 0}
 --- !u!114 &28314774
 MonoBehaviour:
@@ -202,16 +180,16 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 47
-  typeSoal: 0
-  soal: Soal No 47
-  answer: Pilihan 1
+  typeSoal: 2
+  soal: Alat musik Panting berasal dari daerah...
+  answer: Sumatera Barat
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Bali
+  - Sumatera Barat
+  - Kalimantan Selatan
+  - Lampung
   image: {fileID: 0}
---- !u!114 &35419159
+--- !u!114 &42561401
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -223,37 +201,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  idSoal: 26
+  idSoal: 45
   typeSoal: 0
-  soal: Soal No 26
-  answer: Pilihan 1
+  soal: Rumah adat Baileo berasal dari daerah...
+  answer: Maluku
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
-  image: {fileID: 0}
---- !u!114 &45425274
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  idSoal: 11
-  typeSoal: 0
-  soal: Soal No 11
-  answer: Pilihan 1
-  pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Kepulauan Riau
+  - Bangka Belitung
+  - Maluku
+  - Papua
   image: {fileID: 0}
 --- !u!114 &47546225
 MonoBehaviour:
@@ -268,15 +224,19 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 20
-  typeSoal: 0
-  soal: Soal No 20
-  answer: Pilihan 1
+  typeSoal: 4
+  soal: 'Perhatikan gambar dibawah ini!
+
+
+    Gambar diatas termasuk tari yang berasal
+    dari daerah NTB adalah...'
+  answer: Tari Piring
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
-  image: {fileID: 0}
+  - Tari Tor-tor
+  - Tari Kecap
+  - Tari Piring
+  - Tari Mpaa Lenggon
+  image: {fileID: 21300000, guid: d3d54dcd2770bbb49a8d7c8229c65e29, type: 3}
 --- !u!114 &54603122
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -290,14 +250,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 41
-  typeSoal: 0
-  soal: Soal No 41
-  answer: Pilihan 1
+  typeSoal: 3
+  soal: Tahu Pong khas dari daerah...
+  answer: Jawa Tengah
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Jawa Tengah
+  - Nusa Tenggara Timur
+  - Bali
+  - Riau
   image: {fileID: 0}
 --- !u!114 &55574007
 MonoBehaviour:
@@ -312,14 +272,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 48
-  typeSoal: 0
-  soal: Soal No 48
-  answer: Pilihan 1
+  typeSoal: 4
+  soal: Tari Yospan berasal dari daerah...
+  answer: Papua
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Papua
+  - Bangka Belitung
+  - Banten
+  - Jawa Barat
   image: {fileID: 0}
 --- !u!1 &83578054
 GameObject:
@@ -358,7 +318,7 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: -20, y: -20}
   m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &92352981
+--- !u!114 &84472280
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -370,17 +330,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  idSoal: 22
+  idSoal: 1
   typeSoal: 0
-  soal: Soal No 22
-  answer: Pilihan 1
+  soal: Rumah Limas adalah rumah adat dari daerah...
+  answer: Sumatera Selatan
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Sumatera Selatan
+  - Sumatera utara
+  - Jawa tengah
+  - Kalimatan selatan
   image: {fileID: 0}
---- !u!114 &97385722
+--- !u!114 &91730050
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -392,15 +352,37 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  idSoal: 43
-  typeSoal: 0
-  soal: Soal No 43
-  answer: Pilihan 1
+  idSoal: 41
+  typeSoal: 1
+  soal: "Baju adat Pesa\u2019an berasal dari daerah..."
+  answer: Jawa Timur
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Jawa Timur
+  - Jawa Tengah
+  - Jawa Barat
+  - DKI Jakarta
+  image: {fileID: 0}
+--- !u!114 &101047184
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 6
+  typeSoal: 1
+  soal: "Pakaian adat kebaya laboh dan kurung cekak musang berasal dari provinsi\u2026"
+  answer: Riau
+  pilihan:
+  - Riau
+  - Jambi
+  - Aceh
+  - Bangka Belitung
   image: {fileID: 0}
 --- !u!1 &104209188
 GameObject:
@@ -496,10 +478,16 @@ MonoBehaviour:
   - {fileID: 1371403754}
   - {fileID: 154327761}
   - {fileID: 1214815471}
-  - {fileID: 1873866921}
+  - {fileID: 1415410178}
   numberOfLevel: 50
+  numberOfList: 4
   activeLevel: 0
-  typeSoal: 0
+  listSprite:
+  - {fileID: 21300000, guid: 72531fef30f61624e8cbc4678e9db55a, type: 3}
+  - {fileID: 21300000, guid: 335de3ca22609f44da9cde59e2270ff1, type: 3}
+  - {fileID: 21300000, guid: feac846b88eefc94ba55bde1b4351f37, type: 3}
+  - {fileID: 21300000, guid: aff1ae9c5f3a9ed4f9750cca3a1bdb69, type: 3}
+  typeSoal: 3
 --- !u!114 &107601925
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -513,14 +501,37 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 1
-  typeSoal: 0
-  soal: Soal No 1
-  answer: Pilihan 1
+  typeSoal: 2
+  soal: Gong merupakan salah satu dari alat musik tradisional di Indonesia yang dimainkan
+    dengan cara...
+  answer: Dipukul
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Dipetik
+  - Dipukul
+  - Digesek
+  - Digoyang
+  image: {fileID: 0}
+--- !u!114 &119554813
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 37
+  typeSoal: 1
+  soal: Baju adat Paksian berasal dari daerah...
+  answer: Bangka Belitung
+  pilihan:
+  - Bangka Belitung
+  - Lampung
+  - Banten
+  - Jambi
   image: {fileID: 0}
 --- !u!114 &125223285
 MonoBehaviour:
@@ -535,36 +546,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 45
-  typeSoal: 0
-  soal: Soal No 45
-  answer: Pilihan 1
+  typeSoal: 4
+  soal: Tari Awaijale RileJale berasal dari daerah...
+  answer: Jambi
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
-  image: {fileID: 0}
---- !u!114 &126949810
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  idSoal: 47
-  typeSoal: 0
-  soal: Soal No 47
-  answer: Pilihan 1
-  pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Papua
+  - Bali
+  - Riau
+  - Jambi
   image: {fileID: 0}
 --- !u!114 &136005201
 MonoBehaviour:
@@ -579,14 +568,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 39
-  typeSoal: 0
-  soal: Soal No 39
-  answer: Pilihan 1
+  typeSoal: 4
+  soal: Tari Lego Lego berasal dari daerah...
+  answer: Sulawesi Selatan
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Nusa Tenggara Timur
+  - Sulawesi Selatan
+  - Sumatera Barat
+  - Kalimantan Utara
   image: {fileID: 0}
 --- !u!1 &145228805
 GameObject:
@@ -685,6 +674,51 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0aa84c6b0a5094e4e8fed0662bb95a19, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &146829616
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 34
+  typeSoal: 1
+  soal: Pakaian adat Teluk Balanga berasal dari daerah...
+  answer: Kepulauan Riau
+  pilihan:
+  - Bengkulu
+  - Kepulauan Riau
+  - Jambi
+  - Bangka Belitung
+  image: {fileID: 0}
+--- !u!114 &154058727
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 2
+  typeSoal: 1
+  soal: "Perhatikan gambar dibawah ini!\nSebutkan nama pakain adat dari Aceh pada
+    gambar disamping\u2026"
+  answer: Elee balang
+  pilihan:
+  - Ulas
+  - Pakaian
+  - Aesan gede
+  - Elee balang
+  image: {fileID: 21300000, guid: df997419c658bf0488519ba92632c551, type: 3}
 --- !u!114 &154327761
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -698,14 +732,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 48
-  typeSoal: 0
-  soal: Soal No 48
-  answer: Pilihan 1
+  typeSoal: 3
+  soal: Dendeng Paru khas dari daerah...
+  answer: Sumatera Barat
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Sumatera Barat
+  - Sulawesi Selatan
+  - Sulawesi Barat
+  - Sulawesi Tengah
   image: {fileID: 0}
 --- !u!114 &164966326
 MonoBehaviour:
@@ -720,14 +754,15 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 4
-  typeSoal: 0
-  soal: Soal No 4
-  answer: Pilihan 1
+  typeSoal: 2
+  soal: Salah satu alat musik tradisional yang berfungsi untuk mengharmoniskan atau
+    menyelaraskan antara melodi dan ritme adalah...
+  answer: Bonang
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Kecapi
+  - Angklung
+  - Bonang
+  - Seruling
   image: {fileID: 0}
 --- !u!114 &166518313
 MonoBehaviour:
@@ -742,16 +777,16 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 33
-  typeSoal: 0
-  soal: Soal No 33
-  answer: Pilihan 1
+  typeSoal: 2
+  soal: Alat musik berikut ini yang berasal dari daerah Sulawesi Tengah adalah...
+  answer: Lalove
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Lalove
+  - Talindo
+  - Geso-geso
+  - Angklung
   image: {fileID: 0}
---- !u!114 &174783904
+--- !u!114 &169969782
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -763,39 +798,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  idSoal: 23
-  typeSoal: 0
-  soal: Soal No 23
-  answer: Pilihan 1
+  idSoal: 48
+  typeSoal: 1
+  soal: Baju adat Pummi berasal dari daerah...
+  answer: Papua Selatan
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
-  image: {fileID: 21300000, guid: e7481a8399f6780428c1b6cfaf14cfba, type: 3}
---- !u!114 &178141330
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  idSoal: 44
-  typeSoal: 0
-  soal: Soal No 44
-  answer: Pilihan 1
-  pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Papua Selatan
+  - Aceh
+  - Jambi
+  - Riau
   image: {fileID: 0}
---- !u!114 &180111142
+--- !u!114 &171989155
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -807,17 +820,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  idSoal: 2
+  idSoal: 33
   typeSoal: 0
-  soal: Soal No 2
-  answer: Pilihan 1
+  soal: Rumah adat Limas berasal dari daerah...
+  answer: Sumatera Selatan
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Sumatera Selatan
+  - Sumatera Utara
+  - Bengkulu
+  - Bangka Belitung
   image: {fileID: 0}
---- !u!114 &182787950
+--- !u!114 &186756897
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -829,37 +842,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  idSoal: 38
-  typeSoal: 0
-  soal: Soal No 38
-  answer: Pilihan 1
+  idSoal: 16
+  typeSoal: 1
+  soal: Salah satu pakaian adat suku Batak yang dipakai oleh pria sebagai penutup
+    kepala adalah...
+  answer: Parompa
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
-  image: {fileID: 0}
---- !u!114 &196862330
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  idSoal: 35
-  typeSoal: 0
-  soal: Soal No 35
-  answer: Pilihan 1
-  pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Bulang-bulang
+  - Hoba-hoba
+  - Parompa
+  - Jimat
   image: {fileID: 0}
 --- !u!114 &197825490
 MonoBehaviour:
@@ -874,14 +866,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 15
-  typeSoal: 0
-  soal: Soal No 15
-  answer: Pilihan 1
+  typeSoal: 4
+  soal: Tari saman merupakan tarian dari daerah...
+  answer: Aceh
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Jawa Barat
+  - Kalimantan
+  - Aceh
+  - Jawa Tengah
   image: {fileID: 0}
 --- !u!114 &218292383
 MonoBehaviour:
@@ -896,14 +888,37 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 14
-  typeSoal: 0
-  soal: Soal No 14
-  answer: Pilihan 1
+  typeSoal: 2
+  soal: Angklung alat musik tradisional yang terbuat dari...
+  answer: Belahan Bambu
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Plastik
+  - Besi
+  - Belahan Bambu
+  - Daun
+  image: {fileID: 0}
+--- !u!114 &225639807
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 33
+  typeSoal: 1
+  soal: Berasal dari manakah baju adat yang hanya dapat dipergunakan para kaum bangsawan
+    saja, yaitu...
+  answer: Sumatera Barat
+  pilihan:
+  - Sumatera Selatan
+  - Sumatera Utara
+  - Sumatera Barat
+  - Kalimantan Utara
   image: {fileID: 0}
 --- !u!114 &226223796
 MonoBehaviour:
@@ -918,14 +933,37 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 37
-  typeSoal: 0
-  soal: Soal No 37
-  answer: Pilihan 1
+  typeSoal: 2
+  soal: Alat musik Demung berasal dari daerah...
+  answer: Jawa Tengah
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Jawa Tengah
+  - Jawa Timur
+  - Jawa Barat
+  - Bali
+  image: {fileID: 0}
+--- !u!114 &230373620
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 21
+  typeSoal: 0
+  soal: Rumah adat yang memiliki ciri bentuk atapnya menyerupai dengan ujung melengkung
+    seperti Gajah Mabuk, yaitu ....
+  answer: Rumah Krong Bade
+  pilihan:
+  - Rumah Panggung
+  - Rumah Panjang
+  - Rumah Krong Bade
+  - Rumah Honai
   image: {fileID: 0}
 --- !u!114 &235158352
 MonoBehaviour:
@@ -940,14 +978,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 12
-  typeSoal: 0
-  soal: Soal No 12
-  answer: Pilihan 1
+  typeSoal: 3
+  soal: Serabi makanan khas dari daerah...
+  answer: Jawa tengah
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Jawa tengah
+  - Jawa barat
+  - Jawa timur
+  - Yongyakarta
   image: {fileID: 0}
 --- !u!1 &245811710
 GameObject:
@@ -1139,72 +1177,6 @@ MonoBehaviour:
   scrollBar: {fileID: 1405050900}
   nextButton: {fileID: 917966944}
   prevButton: {fileID: 1619822764}
---- !u!114 &259725440
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  idSoal: 50
-  typeSoal: 0
-  soal: Soal No 50
-  answer: Pilihan 1
-  pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
-  image: {fileID: 0}
---- !u!114 &259827703
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  idSoal: 6
-  typeSoal: 0
-  soal: Soal No 6
-  answer: Pilihan 1
-  pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
-  image: {fileID: 0}
---- !u!114 &259840816
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  idSoal: 47
-  typeSoal: 0
-  soal: Soal No 47
-  answer: Pilihan 1
-  pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
-  image: {fileID: 0}
 --- !u!114 &263935739
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1218,16 +1190,16 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 45
-  typeSoal: 0
-  soal: Soal No 45
-  answer: Pilihan 1
+  typeSoal: 2
+  soal: Alat musik Bende berasal dari daerah...
+  answer: Lampung
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Lampung
+  - Sumatera Barat
+  - Papua
+  - Kalimantan Selatan
   image: {fileID: 0}
---- !u!114 &273311487
+--- !u!114 &266610385
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1239,15 +1211,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  idSoal: 15
+  idSoal: 22
   typeSoal: 0
-  soal: Soal No 15
-  answer: Pilihan 1
+  soal: Tujuan rumah adat Honai sengaja dibuat kecil dan tidak berjendela, yaitu
+    ....
+  answer: Menghindari binatang buas
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Menahan hawa panas
+  - Menahan hawa dingin
+  - Menghindari binatang buas
+  - Menghindari serangan suku lain
   image: {fileID: 0}
 --- !u!114 &274183523
 MonoBehaviour:
@@ -1262,14 +1235,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 48
-  typeSoal: 0
-  soal: Soal No 48
-  answer: Pilihan 1
+  typeSoal: 2
+  soal: Alat musik Cengceng berasal dari daerah...
+  answer: Bali
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Lampung
+  - Sumatera Barat
+  - Papua
+  - Bali
   image: {fileID: 0}
 --- !u!114 &275734610
 MonoBehaviour:
@@ -1284,36 +1257,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 18
-  typeSoal: 0
-  soal: Soal No 18
-  answer: Pilihan 1
+  typeSoal: 4
+  soal: Tari ketuk tilu berasal dari provinsi...
+  answer: Jawa Barat
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
-  image: {fileID: 0}
---- !u!114 &298738260
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  idSoal: 7
-  typeSoal: 0
-  soal: Soal No 7
-  answer: Pilihan 1
-  pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Riau
+  - Jawa Tengah
+  - Jawa Barat
+  - Jawa Timur
   image: {fileID: 0}
 --- !u!114 &300249205
 MonoBehaviour:
@@ -1328,37 +1279,19 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 29
-  typeSoal: 0
-  soal: Soal No 29
-  answer: Pilihan 1
+  typeSoal: 4
+  soal: 'Perhatikan gambar dibawah ini!
+
+
+    Gambar diatas merupakan tari Dero yang
+    berasal dari daerah...'
+  answer: Sulawesi Tengah
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
-  image: {fileID: 0}
---- !u!114 &306609829
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  idSoal: 49
-  typeSoal: 0
-  soal: Soal No 49
-  answer: Pilihan 1
-  pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
-  image: {fileID: 0}
+  - Sumatera Selatan
+  - Sulawesi Tengah
+  - Sulawesi Barat
+  - Sulawesi Selatan
+  image: {fileID: 21300000, guid: 286963f2939696c4c83ad05e6672e087, type: 3}
 --- !u!114 &307244359
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1372,14 +1305,36 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 13
-  typeSoal: 0
-  soal: Soal No 13
-  answer: Pilihan 1
+  typeSoal: 3
+  soal: Lapa-lapa adalah salah satu makanan khas dari daerah...
+  answer: Sulawesi Selatan
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Sulawesi Selatan
+  - Sulawesi Barat
+  - Sulawesi Tenggara
+  - Gorontalo
+  image: {fileID: 0}
+--- !u!114 &311863381
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 36
+  typeSoal: 1
+  soal: Baju adat Karung berasal dari daerah...
+  answer: Jambi
+  pilihan:
+  - Bangka Belitung
+  - Lampung
+  - Banten
+  - Jambi
   image: {fileID: 0}
 --- !u!1 &312933844
 GameObject:
@@ -1457,7 +1412,7 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 312933844}
   m_CullTransparentMesh: 1
---- !u!114 &320629682
+--- !u!114 &313988981
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1469,16 +1424,39 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  idSoal: 25
-  typeSoal: 0
-  soal: Soal No 25
-  answer: Pilihan 1
+  idSoal: 50
+  typeSoal: 2
+  soal: Alat musik Reog berasal dari daerah...
+  answer: Jawa Tengah
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Bali
+  - Jawa Tengah
+  - Papua
+  - Kalimantan Selatan
   image: {fileID: 0}
+--- !u!114 &326568778
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 23
+  typeSoal: 0
+  soal: "Perhatikan gambar dibawah ini!\nGambar diatas termasuk rumah tradisional
+    yang berasal dari daerah Papua adalah\u2026"
+  answer: Rumah Musalaki
+  pilihan:
+  - Rumah Kariwari
+  - Rumah Banua Tada
+  - Rumah Baileo
+  - Rumah Musalaki
+  image: {fileID: 21300000, guid: e7481a8399f6780428c1b6cfaf14cfba, type: 3}
 --- !u!114 &328164866
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1492,14 +1470,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 32
-  typeSoal: 0
-  soal: Soal No 32
-  answer: Pilihan 1
+  typeSoal: 4
+  soal: Tari Bungong Jeumpa, Saman, dan Tari Ranup Lampuan berasal dari daerah...
+  answer: Aceh
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Aceh
+  - Jambi
+  - Riau
+  - Bali
   image: {fileID: 0}
 --- !u!114 &336301891
 MonoBehaviour:
@@ -1514,14 +1492,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 46
-  typeSoal: 0
-  soal: Soal No 46
-  answer: Pilihan 1
+  typeSoal: 2
+  soal: Alat musik Santu berasal dari daerah...
+  answer: Sulawesi Tengah
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Bali
+  - Sulawesi Tengah
+  - Papua
+  - Kalimantan Selatan
   image: {fileID: 0}
 --- !u!114 &338959560
 MonoBehaviour:
@@ -1536,14 +1514,36 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 43
-  typeSoal: 0
-  soal: Soal No 43
-  answer: Pilihan 1
+  typeSoal: 3
+  soal: Jagung Bose khas dari daerah...
+  answer: Nusa Tenggara Barat
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Nusa Tenggara Barat
+  - Maluku
+  - Papua
+  - Nusa Tenggara Timur
+  image: {fileID: 0}
+--- !u!114 &344210745
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 14
+  typeSoal: 0
+  soal: "Rumah Joglo berasal dari daerah\u2026"
+  answer: Jawa Tengah
+  pilihan:
+  - Jogyakarta
+  - Jawa Tengah
+  - Sumatra Utara
+  - Bali
   image: {fileID: 0}
 --- !u!114 &348384101
 MonoBehaviour:
@@ -1558,16 +1558,17 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 39
-  typeSoal: 0
-  soal: Soal No 39
-  answer: Pilihan 1
+  typeSoal: 2
+  soal: Karinding merupakan alat musik tradisional dari Jawa Barat yang digunakan
+    untuk...
+  answer: Pengusir hama di sawah
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Pada musik keroncong hingga dangdut
+  - Ritual Penyembuhan
+  - Pengusir hama di sawah
+  - Penghias lagu
   image: {fileID: 0}
---- !u!114 &350014974
+--- !u!114 &357173131
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1579,38 +1580,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  idSoal: 49
-  typeSoal: 0
-  soal: Soal No 49
-  answer: Pilihan 1
+  idSoal: 24
+  typeSoal: 1
+  soal: Upak Nyamu adalah pakaian adat Indonesia dari provinsi Kalimantan Tengah
+    yang terbuat dari...
+  answer: Kulit kayu nyamu
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Kain songket
+  - Kain tenun
+  - Kain satin
+  - Kulit kayu nyamu
   image: {fileID: 0}
---- !u!114 &361452222
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  idSoal: 11
-  typeSoal: 0
-  soal: Soal No 11
-  answer: Pilihan 1
-  pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
-  image: {fileID: 21300000, guid: baa750bb48f5e184686cfcf5a6fe988a, type: 3}
 --- !u!114 &366790222
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1624,16 +1604,17 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 2
-  typeSoal: 0
-  soal: Soal No 2
-  answer: Pilihan 1
+  typeSoal: 2
+  soal: Gambar diatas merupakan alat musik tradisional Talindo yang berasal dari
+    daerah...
+  answer: Makassar
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Jawa Tengah
+  - Jawa Barat
+  - Lampung
+  - Makassar
   image: {fileID: 0}
---- !u!114 &366985434
+--- !u!114 &370132921
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1645,15 +1626,39 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  idSoal: 18
+  idSoal: 24
   typeSoal: 0
-  soal: Soal No 18
-  answer: Pilihan 1
+  soal: "Rumah adat buton yang berasal dari daerah Sulawesi Tenggara yang memiliki
+    fungsi\u2026"
+  answer: Sebuah tempat tinggal yang dikhususkan untuk kaum bangsawan atau ketua
+    adat
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Sebuah tempat tinggal yang dikhususkan untuk kaum bangsawan atau ketua adat
+  - Tempat tinggal biasa
+  - Tempat upacara
+  - Tempat makan
+  image: {fileID: 0}
+--- !u!114 &373932793
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 28
+  typeSoal: 0
+  soal: "Apa fungsi batu besar yang ada di bawah rumah musalaki, yaitu\u2026"
+  answer: Terhindar dari hewan buas
+  pilihan:
+  - Terhindar dari hewan buas
+  - Terhindar dari banjir
+  - Mengurangi risiko keretakan
+  - Mengurangi pemakaian tiang
   image: {fileID: 0}
 --- !u!1 &375492428
 GameObject:
@@ -1751,14 +1756,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 24
-  typeSoal: 0
-  soal: Soal No 24
-  answer: Pilihan 1
+  typeSoal: 3
+  soal: Berikut ini yang termasuk makanan tradisional dari Gorontalo adalah...
+  answer: Ayam tuna
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Bika
+  - Ayam tuna
+  - Pisang ijo
+  - Sate Tuna Gorontalo
   image: {fileID: 0}
 --- !u!114 &384494768
 MonoBehaviour:
@@ -1773,80 +1778,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 34
-  typeSoal: 0
-  soal: Soal No 34
-  answer: Pilihan 1
+  typeSoal: 3
+  soal: Bubur Gunting khas dari daerah...
+  answer: Kalimantan Selatan
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
-  image: {fileID: 0}
---- !u!114 &390094286
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  idSoal: 50
-  typeSoal: 0
-  soal: Soal No 50
-  answer: Pilihan 1
-  pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
-  image: {fileID: 0}
---- !u!114 &392615389
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  idSoal: 45
-  typeSoal: 0
-  soal: Soal No 45
-  answer: Pilihan 1
-  pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
-  image: {fileID: 0}
---- !u!114 &417271285
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  idSoal: 42
-  typeSoal: 0
-  soal: Soal No 42
-  answer: Pilihan 1
-  pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Sumatera Barat
+  - Kalimantan Selatan
+  - Sulawesi Selatan
+  - DKI Jakarta
   image: {fileID: 0}
 --- !u!114 &419214472
 MonoBehaviour:
@@ -1861,16 +1800,17 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 31
-  typeSoal: 0
-  soal: Soal No 31
-  answer: Pilihan 1
+  typeSoal: 2
+  soal: Talindo merupakan alat musik gesek tradisional dari daerah Makassar yang
+    digunakan untuk...
+  answer: Mengiringi wayang golek hingga tari jaipong
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Mengiringi wayang golek hingga tari jaipong
+  - Mengiringi Upacara Adat
+  - Merayakan Pesta Panen
+  - Penghias Lagu
   image: {fileID: 0}
---- !u!114 &423782981
+--- !u!114 &423931241
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1882,15 +1822,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  idSoal: 9
-  typeSoal: 0
-  soal: Soal No 9
-  answer: Pilihan 1
+  idSoal: 10
+  typeSoal: 1
+  soal: Pakaian manteren lamo adalah pakaian adat dari daerah
+  answer: Maluku Utara
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Sulawesi Selatan
+  - Maluku Utara
+  - Sulawesi Tenggara
+  - Maluku
   image: {fileID: 0}
 --- !u!114 &425077581
 MonoBehaviour:
@@ -1905,36 +1845,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 17
-  typeSoal: 0
-  soal: Soal No 17
-  answer: Pilihan 1
+  typeSoal: 3
+  soal: Kerak telor adalah makanan khas dari daerah...
+  answer: DKI Jakarta
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
-  image: {fileID: 0}
---- !u!114 &438419159
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  idSoal: 18
-  typeSoal: 0
-  soal: Soal No 18
-  answer: Pilihan 1
-  pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - DKI Jakarta
+  - Jawa Tengah
+  - Jawa Timur
+  - Yogyakarta
   image: {fileID: 0}
 --- !u!114 &456196834
 MonoBehaviour:
@@ -1949,14 +1867,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 5
-  typeSoal: 0
-  soal: Soal No 5
-  answer: Pilihan 1
+  typeSoal: 2
+  soal: Dibawah ini yang merupakan jenis alat musik tradisional dari Jawa Barat adalah...
+  answer: Calung
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Kecapi
+  - Gendang
+  - Calung
+  - Rebab
   image: {fileID: 0}
 --- !u!114 &462364492
 MonoBehaviour:
@@ -1971,14 +1889,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 27
-  typeSoal: 0
-  soal: Soal No 27
-  answer: Pilihan 1
+  typeSoal: 2
+  soal: Alat musik tradisional yang berasal dari Jawa Barat, yaitu...
+  answer: Gamelan
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Gamelan
+  - Rebana
+  - Seruling
+  - Gamelan dan seruling
   image: {fileID: 0}
 --- !u!114 &463686151
 MonoBehaviour:
@@ -1993,14 +1911,36 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 34
-  typeSoal: 0
-  soal: Soal No 34
-  answer: Pilihan 1
+  typeSoal: 4
+  soal: Tari Tempurung berasal dari daerah...
+  answer: Sulawesi Selatan
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Sulawesi Utara
+  - Sulawesi Selatan
+  - Sulawesi Tengah
+  - Sulawesi Barat
+  image: {fileID: 0}
+--- !u!114 &465185797
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 46
+  typeSoal: 0
+  soal: Rumah adat Maluku Utara disebut rumah...
+  answer: Rumah Baileo
+  pilihan:
+  - Rumah Baileo
+  - Rumah Musalaki
+  - Rumah Sasadu
+  - Rumah Kariwari
   image: {fileID: 0}
 --- !u!114 &469112884
 MonoBehaviour:
@@ -2015,14 +1955,15 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 16
-  typeSoal: 0
-  soal: Soal No 16
-  answer: Pilihan 1
+  typeSoal: 2
+  soal: Dibawah ini yang termasuk alat musik tradisional yang berasal dari Sulawesi
+    Utara adalah...
+  answer: Kolintang
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Gitar
+  - Kecapi
+  - Angklung
+  - Kolintang
   image: {fileID: 0}
 --- !u!114 &469535565
 MonoBehaviour:
@@ -2037,16 +1978,16 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 9
-  typeSoal: 0
-  soal: Soal No 9
-  answer: Pilihan 1
+  typeSoal: 2
+  soal: Angklung merupakan alat musik tradisional yang berasal dari daerah...
+  answer: Jawa Barat
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Jambi
+  - Bengkulu
+  - Jawa Barat
+  - Jawa Tengah
   image: {fileID: 0}
---- !u!114 &475280666
+--- !u!114 &469994967
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -2058,17 +1999,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  idSoal: 24
+  idSoal: 40
   typeSoal: 0
-  soal: Soal No 24
-  answer: Pilihan 1
+  soal: Rumah unik yang harus menghadap ke utara dan pintu utamanya di arah selatan
+    berasal dari daerah...
+  answer: Jambi
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Sumatera Barat
+  - Jambi
+  - Jawa Tengah
+  - Kalimantan Utara
   image: {fileID: 0}
---- !u!114 &506106537
+--- !u!114 &506860420
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -2080,15 +2022,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  idSoal: 34
-  typeSoal: 0
-  soal: Soal No 34
-  answer: Pilihan 1
+  idSoal: 20
+  typeSoal: 1
+  soal: Pakaian adat daerah manakah yang memiliki penutup kepala berbentuk menyerupai
+    tanduk kerbau?
+  answer: Nusa Tenggara Barat
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Papua Barat
+  - Nusa Tenggara Barat
+  - Sulawesi Barat
+  - Sumatera Barat
   image: {fileID: 0}
 --- !u!1 &508773074
 GameObject:
@@ -2135,60 +2078,67 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   bankSoal:
-  - {fileID: 1130206318}
-  - {fileID: 2040013184}
-  - {fileID: 724559050}
-  - {fileID: 1491686616}
-  - {fileID: 1217074642}
-  - {fileID: 940540494}
-  - {fileID: 298738260}
-  - {fileID: 1543678055}
-  - {fileID: 423782981}
-  - {fileID: 652179052}
-  - {fileID: 361452222}
-  - {fileID: 766250066}
-  - {fileID: 1871778103}
-  - {fileID: 1768284873}
-  - {fileID: 722399022}
-  - {fileID: 1603995894}
-  - {fileID: 1112440458}
-  - {fileID: 438419159}
-  - {fileID: 1324365325}
-  - {fileID: 1716322090}
-  - {fileID: 552439304}
-  - {fileID: 92352981}
-  - {fileID: 174783904}
-  - {fileID: 1966240979}
-  - {fileID: 553415970}
-  - {fileID: 772552460}
-  - {fileID: 694813786}
-  - {fileID: 1036503849}
-  - {fileID: 1791452565}
-  - {fileID: 2045567346}
-  - {fileID: 2070143115}
-  - {fileID: 1332494914}
-  - {fileID: 1406897834}
-  - {fileID: 1565609067}
-  - {fileID: 196862330}
-  - {fileID: 1626881952}
-  - {fileID: 1650638683}
-  - {fileID: 1492777146}
-  - {fileID: 747277344}
-  - {fileID: 1850744413}
-  - {fileID: 1150540179}
-  - {fileID: 1024927029}
-  - {fileID: 1786071385}
-  - {fileID: 9502093}
-  - {fileID: 392615389}
-  - {fileID: 2069070959}
-  - {fileID: 259840816}
-  - {fileID: 1310112199}
-  - {fileID: 306609829}
-  - {fileID: 652102324}
+  - {fileID: 84472280}
+  - {fileID: 677614503}
+  - {fileID: 1444061016}
+  - {fileID: 1722883361}
+  - {fileID: 1816670674}
+  - {fileID: 1262922036}
+  - {fileID: 1694145826}
+  - {fileID: 988152504}
+  - {fileID: 1139574966}
+  - {fileID: 2051717922}
+  - {fileID: 1334983196}
+  - {fileID: 645656850}
+  - {fileID: 1065407486}
+  - {fileID: 344210745}
+  - {fileID: 754499342}
+  - {fileID: 1494749003}
+  - {fileID: 884208516}
+  - {fileID: 1612389355}
+  - {fileID: 1323789896}
+  - {fileID: 1700857077}
+  - {fileID: 230373620}
+  - {fileID: 266610385}
+  - {fileID: 326568778}
+  - {fileID: 370132921}
+  - {fileID: 1317640859}
+  - {fileID: 1959594069}
+  - {fileID: 681945873}
+  - {fileID: 373932793}
+  - {fileID: 1613449909}
+  - {fileID: 1747358290}
+  - {fileID: 1235151240}
+  - {fileID: 1079433305}
+  - {fileID: 171989155}
+  - {fileID: 717318930}
+  - {fileID: 709124259}
+  - {fileID: 1467201023}
+  - {fileID: 1461643262}
+  - {fileID: 1348078562}
+  - {fileID: 1151806887}
+  - {fileID: 469994967}
+  - {fileID: 1995322802}
+  - {fileID: 1062561670}
+  - {fileID: 1967499055}
+  - {fileID: 827029897}
+  - {fileID: 42561401}
+  - {fileID: 465185797}
+  - {fileID: 857668253}
+  - {fileID: 1833686854}
+  - {fileID: 1379492449}
+  - {fileID: 1672045735}
   numberOfLevel: 50
+  numberOfList: 5
   activeLevel: 0
+  listSprite:
+  - {fileID: 21300000, guid: 8df85c9d852197447a8ea44355af487d, type: 3}
+  - {fileID: 21300000, guid: 2e498a1fe1c84044f9e18b0e5e0dafa8, type: 3}
+  - {fileID: 21300000, guid: d42f8c4f1db8e9d44966c179463670c1, type: 3}
+  - {fileID: 21300000, guid: baa750bb48f5e184686cfcf5a6fe988a, type: 3}
+  - {fileID: 21300000, guid: e7481a8399f6780428c1b6cfaf14cfba, type: 3}
   typeSoal: 0
---- !u!114 &514433891
+--- !u!114 &509494319
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -2200,15 +2150,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  idSoal: 33
-  typeSoal: 0
-  soal: Soal No 33
-  answer: Pilihan 1
+  idSoal: 28
+  typeSoal: 1
+  soal: Ewer merupakan pakaian adat khas Papua Barat yang terbuat dari...
+  answer: Kain tenun
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Kulit kayu
+  - Jerami yang dikeringkan
+  - Kain tenun
+  - Kain polos
   image: {fileID: 0}
 --- !u!114 &514951402
 MonoBehaviour:
@@ -2223,36 +2173,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 8
-  typeSoal: 0
-  soal: Soal No 8
-  answer: Pilihan 1
+  typeSoal: 2
+  soal: Nama alat musik tradisional pada gambar diatas adalah...
+  answer: Gendang
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
-  image: {fileID: 0}
---- !u!114 &532512994
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  idSoal: 20
-  typeSoal: 0
-  soal: Soal No 20
-  answer: Pilihan 1
-  pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Gendang
+  - Kecapi
+  - Calung
+  - Gamelan
   image: {fileID: 0}
 --- !u!114 &536478623
 MonoBehaviour:
@@ -2267,36 +2195,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 19
-  typeSoal: 0
-  soal: Soal No 19
-  answer: Pilihan 1
+  typeSoal: 2
+  soal: Keso-keso adalah alat musik khas Sulawesi Selatan yang dimainkan dengan cara...
+  answer: Menggesekkan alat khusus pada alat musik
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
-  image: {fileID: 0}
---- !u!114 &541518253
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  idSoal: 16
-  typeSoal: 0
-  soal: Soal No 16
-  answer: Pilihan 1
-  pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Menggesekkan alat khusus pada alat musik
+  - Dipetik dan dipukul
+  - Digoyang
+  - Ditiup dan dipetik
   image: {fileID: 0}
 --- !u!114 &543866235
 MonoBehaviour:
@@ -2311,16 +2217,16 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 35
-  typeSoal: 0
-  soal: Soal No 35
-  answer: Pilihan 1
+  typeSoal: 4
+  soal: Tari Gandrung Lombok berasal dari daerah...
+  answer: Nusa Tenggara Barat
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Nusa Tenggara Barat
+  - Nusa Tenggara Timur
+  - Papua
+  - Jawa Tengah
   image: {fileID: 0}
---- !u!114 &552439304
+--- !u!114 &545733368
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -2332,15 +2238,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  idSoal: 21
-  typeSoal: 0
-  soal: Soal No 21
-  answer: Pilihan 1
+  idSoal: 47
+  typeSoal: 1
+  soal: Baju adat yang berasal dari Papua, Papua Selatan, Papua Tengah adalah...
+  answer: Koteka
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Ewer
+  - Bodo
+  - Amarasi
+  - Koteka
   image: {fileID: 0}
 --- !u!1 &552951061
 GameObject:
@@ -2425,7 +2331,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls: []
---- !u!114 &553415970
+--- !u!114 &559888647
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -2437,38 +2343,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  idSoal: 25
-  typeSoal: 0
-  soal: Soal No 25
-  answer: Pilihan 1
+  idSoal: 3
+  typeSoal: 1
+  soal: "Perhatikan gambar dibawah ini!\nPakian adat disamping berasal dari\u2026"
+  answer: Sulawesi selatan
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
-  image: {fileID: 0}
---- !u!114 &565315498
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  idSoal: 5
-  typeSoal: 0
-  soal: Soal No 5
-  answer: Pilihan 1
-  pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
-  image: {fileID: 0}
+  - Jambi
+  - Aceh
+  - Sulawesi selatan
+  - Sulawesi utara
+  image: {fileID: 21300000, guid: 2e2574e57f7701c4b928a57b18552e75, type: 3}
 --- !u!114 &577377986
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2482,14 +2366,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 44
-  typeSoal: 0
-  soal: Soal No 44
-  answer: Pilihan 1
+  typeSoal: 2
+  soal: Alat musik Aramba, Gonrang, dan Garantung berasal dari daerah...
+  answer: Sumatera Barat
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Sumatera Barat
+  - Jawa Tengah
+  - Papua
+  - Sumatera Utara
   image: {fileID: 0}
 --- !u!1 &579515329
 GameObject:
@@ -2567,28 +2451,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 579515329}
   m_CullTransparentMesh: 1
---- !u!114 &582494724
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  idSoal: 45
-  typeSoal: 0
-  soal: Soal No 45
-  answer: Pilihan 1
-  pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
-  image: {fileID: 0}
 --- !u!114 &583894982
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2602,37 +2464,15 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 27
-  typeSoal: 0
-  soal: Soal No 27
-  answer: Pilihan 1
+  typeSoal: 3
+  soal: Sebutkan asal daerah dan nama makanan pada gambar diatas...
+  answer: Sulawesi Selatan, Pijang iji
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
-  image: {fileID: 0}
---- !u!114 &586976578
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  idSoal: 21
-  typeSoal: 0
-  soal: Soal No 21
-  answer: Pilihan 1
-  pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
-  image: {fileID: 0}
+  - Surabaya, Rawon
+  - Sulawesi Selatan, Pijang iji
+  - Aceh, Mie aceh
+  - Papua, Papeda
+  image: {fileID: 21300000, guid: 92b847b6f71b851459bf47821b885259, type: 3}
 --- !u!114 &589504529
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2646,14 +2486,15 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 7
-  typeSoal: 0
-  soal: Soal No 7
-  answer: Pilihan 1
+  typeSoal: 2
+  soal: Musik tradisional yang memiliki lirik masih kental dengan Islam dan menjadi
+    bagian dari media menjalankan dakwah di Riau dinamakan sebagai...
+  answer: Gambus
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Gamelan
+  - Samrah
+  - Gambang Rancang
+  - Gambus
   image: {fileID: 0}
 --- !u!114 &591358629
 MonoBehaviour:
@@ -2668,14 +2509,15 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 43
-  typeSoal: 0
-  soal: Soal No 43
-  answer: Pilihan 1
+  typeSoal: 2
+  soal: Serunai merupakan alat musik tradisional dari Sumatera Barat yang digunakan
+    untuk...
+  answer: Tanam padi dan Pesta Panen
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Pada musik keroncong hingga dangdut
+  - Ritual Penyembuhan
+  - Tanam padi dan Pesta Panen
+  - Penghias lagu
   image: {fileID: 0}
 --- !u!114 &594271145
 MonoBehaviour:
@@ -2690,14 +2532,59 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 21
-  typeSoal: 0
-  soal: Soal No 21
-  answer: Pilihan 1
+  typeSoal: 4
+  soal: Tari bungong jeumpa merupakan tarian daerah yang berasal dari...
+  answer: Aceh
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Aceh
+  - Sumatera Utara
+  - Sumatera Barat
+  - Riau
+  image: {fileID: 0}
+--- !u!114 &608877036
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 49
+  typeSoal: 1
+  soal: "Baju adat Ta\u2019a dan sapei sapaq berasal dari daerah..."
+  answer: Kalimantan Utara
+  pilihan:
+  - Kalimantan Timur
+  - Kalimantan Barat
+  - Kalimantan Selatan
+  - Kalimantan Utara
+  image: {fileID: 0}
+--- !u!114 &623194674
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 17
+  typeSoal: 1
+  soal: Baju adat Kemeja putih pria Bali yang sering dikenakan saat pergi ke pura
+    atau bersembahyang merupakan simbol...
+  answer: Kesucian
+  pilihan:
+  - Kesucian
+  - Kematian
+  - Gagah
+  - Indah
   image: {fileID: 0}
 --- !u!1 &640304693
 GameObject:
@@ -2782,7 +2669,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls: []
---- !u!114 &643946465
+--- !u!114 &645656850
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -2794,17 +2681,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  idSoal: 50
+  idSoal: 12
   typeSoal: 0
-  soal: Soal No 50
-  answer: Pilihan 1
+  soal: "Dibawah ini yang termasuk rumah tradisional dari Kalimantan Timur\u2026"
+  answer: Rumah Lamin
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Rumah Adat Lamin
+  - Rumah adat Joglo
+  - Rumah Adat panggong
+  - Rumah adat Limas
   image: {fileID: 0}
---- !u!114 &652102324
+--- !u!114 &666568345
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -2816,59 +2703,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  idSoal: 50
-  typeSoal: 0
-  soal: Soal No 50
-  answer: Pilihan 1
+  idSoal: 30
+  typeSoal: 1
+  soal: Baju adat Amarasi berasal dari daerah...
+  answer: Nusa Tenggara Timur
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
-  image: {fileID: 0}
---- !u!114 &652179052
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  idSoal: 10
-  typeSoal: 0
-  soal: Soal No 10
-  answer: Pilihan 1
-  pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
-  image: {fileID: 0}
---- !u!114 &669441784
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  idSoal: 29
-  typeSoal: 0
-  soal: Soal No 29
-  answer: Pilihan 1
-  pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Nusa Tenggara Barat
+  - Nusa Tenggara Timur
+  - Maluku
+  - Papua
   image: {fileID: 0}
 --- !u!114 &674852959
 MonoBehaviour:
@@ -2883,14 +2726,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 31
-  typeSoal: 0
-  soal: Soal No 31
-  answer: Pilihan 1
+  typeSoal: 3
+  soal: Bika Ambon makanan khas dari daerah...
+  answer: Sumatera Utara
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Sumatera Utara
+  - Aceh
+  - Jawa Tengah
+  - Jawa Barat
   image: {fileID: 0}
 --- !u!1 &677572607
 GameObject:
@@ -2970,6 +2813,28 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 677572607}
   m_CullTransparentMesh: 1
+--- !u!114 &677614503
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 2
+  typeSoal: 0
+  soal: Rumah adat Krong Brade berasal dari daerah...
+  answer: Aceh
+  pilihan:
+  - Aceh
+  - Sumatera Utara
+  - Sumatera Barat
+  - Riau
+  image: {fileID: 0}
 --- !u!114 &678833595
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2983,14 +2848,37 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 11
-  typeSoal: 0
-  soal: Soal No 11
-  answer: Pilihan 1
+  typeSoal: 4
+  soal: Tari yang berasal dari Sumatra Barat yang ditarikan berpasangan dan bermakna
+    wujud perlindungan dan kasih sayang seorang kekasih pada pasangannya adalah tari...
+  answer: Tari payung
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Tari cakalele
+  - Tari pedang
+  - Tari perang
+  - Tari payung
+  image: {fileID: 0}
+--- !u!114 &681945873
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 27
+  typeSoal: 0
+  soal: "Rumah adat Gapura Candi Bentar merupakan rumah adat yang berasal dari\u2026"
+  answer: Bali
+  pilihan:
+  - Sulawesi Selatan
+  - Aceh
+  - Lampung
+  - Bali
   image: {fileID: 0}
 --- !u!114 &683854843
 MonoBehaviour:
@@ -3005,14 +2893,36 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 10
-  typeSoal: 0
-  soal: Soal No 10
-  answer: Pilihan 1
+  typeSoal: 4
+  soal: Tari yang diringi dengan gamelan dinamakan tari...
+  answer: Tari piring
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Tari Mentawai
+  - Tari seriping
+  - Tari jaipong
+  - Tari piring
+  image: {fileID: 0}
+--- !u!114 &684206028
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 19
+  typeSoal: 1
+  soal: Pakaian adat wanita minang disebut...
+  answer: Limpahpeh nan gadang
+  pilihan:
+  - Limpahpeh rumah nan gadang
+  - Limpahpeh nan gadang
+  - Limpahpeh nan rumah gadang
+  - Limpahpeh dan rumah nan gadang
   image: {fileID: 0}
 --- !u!1 &686351117
 GameObject:
@@ -3149,28 +3059,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 686351117}
   m_CullTransparentMesh: 1
---- !u!114 &694813786
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  idSoal: 27
-  typeSoal: 0
-  soal: Soal No 27
-  answer: Pilihan 1
-  pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
-  image: {fileID: 0}
 --- !u!114 &706260676
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3184,14 +3072,36 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 44
-  typeSoal: 0
-  soal: Soal No 44
-  answer: Pilihan 1
+  typeSoal: 3
+  soal: Bubur Pedas khas dari daerah...
+  answer: Kalimantan Barat
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Kalimantan Barat
+  - Kalimantan Utara
+  - Kalimantan Selatan
+  - Kalimantan Timur
+  image: {fileID: 0}
+--- !u!114 &709124259
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 35
+  typeSoal: 0
+  soal: Rumah adat Panjang berasal dari daerah...
+  answer: Kalimantan Barat
+  pilihan:
+  - Jawa Timur
+  - Kalimantan Barat
+  - Jawa Tengah
+  - Kalimantan Tengah
   image: {fileID: 0}
 --- !u!114 &709807327
 MonoBehaviour:
@@ -3206,16 +3116,105 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 29
-  typeSoal: 0
-  soal: Soal No 29
-  answer: Pilihan 1
+  typeSoal: 2
+  soal: Ketiupung merupakan alat musik tradisional yang berasal dari Jawa Timur yang
+    dimainkan dengan cara...
+  answer: Ditiup
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Ditup
+  - Dipetik
+  - Dipukul
+  - Ditabah
   image: {fileID: 0}
---- !u!114 &722399022
+--- !u!114 &713107588
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 32
+  typeSoal: 1
+  soal: Baju adat Nggemben berasal dari daerah...
+  answer: Aceh
+  pilihan:
+  - Aceh
+  - Riau
+  - Bali
+  - Sulawesi Tengah
+  image: {fileID: 0}
+--- !u!114 &717318930
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 34
+  typeSoal: 0
+  soal: Rumah adat Jawa Barat disebut rumah...
+  answer: Rumah Kasepuhan
+  pilihan:
+  - Rumah Kasepuhan
+  - Rumah Kebaya
+  - Rumah Baduy
+  - Rumah Rakit
+  image: {fileID: 0}
+--- !u!114 &737242705
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 4
+  typeSoal: 1
+  soal: "Pakaian adat Babu Ngawi berasal dari provinsi\u2026"
+  answer: Sulawesi Tenggara
+  pilihan:
+  - Sulawesi Selatan
+  - Sulawesi Tenggara
+  - Sulawesi utara
+  - Kalimantan
+  image: {fileID: 0}
+--- !u!114 &746175447
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 31
+  typeSoal: 1
+  soal: Baju adat Bundo Kaduang berasal dari daerah...
+  answer: Sumatera Barat
+  pilihan:
+  - Sumatera Utara
+  - Jawa Tengah
+  - Sumatera Barat
+  - Kalimantan Utara
+  image: {fileID: 0}
+--- !u!114 &754499342
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -3229,57 +3228,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   idSoal: 15
   typeSoal: 0
-  soal: Soal No 15
-  answer: Pilihan 1
+  soal: "Rumah Panggung Selaso Jatuh Kembar berasal dari daerah\u2026"
+  answer: Jawa Barat
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
-  image: {fileID: 0}
---- !u!114 &724559050
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  idSoal: 3
-  typeSoal: 0
-  soal: Soal No 3
-  answer: Pilihan 1
-  pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
-  image: {fileID: 21300000, guid: 8df85c9d852197447a8ea44355af487d, type: 3}
---- !u!114 &747277344
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  idSoal: 39
-  typeSoal: 0
-  soal: Soal No 39
-  answer: Pilihan 1
-  pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Riau
+  - Sulawesi Utara
+  - Jawa Timur
+  - Jawa Barat
   image: {fileID: 0}
 --- !u!1 &755195162
 GameObject:
@@ -3519,7 +3474,7 @@ MonoBehaviour:
           m_StringArgument: MenuUtama
           m_BoolArgument: 0
         m_CallState: 2
---- !u!114 &766250066
+--- !u!114 &762541937
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -3531,37 +3486,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  idSoal: 12
-  typeSoal: 0
-  soal: Soal No 12
-  answer: Pilihan 1
+  idSoal: 23
+  typeSoal: 1
+  soal: Pegon adalah pakaian adat Indonesia dari provinsi Nusa Tenggara Barat yang
+    terbuat dari...
+  answer: Kain songket dan kain pegon yang berwarna hitam
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
-  image: {fileID: 0}
---- !u!114 &772552460
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  idSoal: 26
-  typeSoal: 0
-  soal: Soal No 26
-  answer: Pilihan 1
-  pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Kain tenun
+  - Kain polos
+  - Kain songket dan kain pegon yang berwarna hitam
+  - Kain tenun dan polos
   image: {fileID: 0}
 --- !u!114 &779676288
 MonoBehaviour:
@@ -3576,36 +3510,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 42
-  typeSoal: 0
-  soal: Soal No 42
-  answer: Pilihan 1
+  typeSoal: 3
+  soal: Kue Tat khas dari daerah...
+  answer: Yogyakarta
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
-  image: {fileID: 0}
---- !u!114 &784588781
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  idSoal: 19
-  typeSoal: 0
-  soal: Soal No 19
-  answer: Pilihan 1
-  pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Bengkulu
+  - DKI Jakarta
+  - Papua
+  - Yogyakarta
   image: {fileID: 0}
 --- !u!1 &788200050
 GameObject:
@@ -3755,14 +3667,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 13
-  typeSoal: 0
-  soal: Soal No 13
-  answer: Pilihan 1
+  typeSoal: 4
+  soal: Tari-tarian daerah pada masa sekarang ini banyak digunakan untuk acara...
+  answer: Penyambutan tamu
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Keagamaan
+  - Sesaji
+  - Penyambutan tamu
+  - Syukran
   image: {fileID: 0}
 --- !u!114 &796020090
 MonoBehaviour:
@@ -3777,14 +3689,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 7
-  typeSoal: 0
-  soal: Soal No 7
-  answer: Pilihan 1
+  typeSoal: 3
+  soal: Sop konro makanan tradisional dari provinsi ...
+  answer: Sulawesi Selatan
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Sulawesi Selatan
+  - Gorontalo
+  - Kalimantan Selatan
+  - Sulawesi Utara
   image: {fileID: 0}
 --- !u!114 &820931798
 MonoBehaviour:
@@ -3799,14 +3711,36 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 23
-  typeSoal: 0
-  soal: Soal No 23
-  answer: Pilihan 1
+  typeSoal: 2
+  soal: Sampe merupakan alat musik tradisional yang berasal dari daerah...
+  answer: Kalimantan Timur
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Jawa Barat
+  - Maluku
+  - Kalimantan Timur
+  - Aceh
+  image: {fileID: 0}
+--- !u!114 &827029897
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 44
+  typeSoal: 0
+  soal: Rumah adat Sulawesi Utara disebut rumah...
+  answer: Rumah Tongkonan
+  pilihan:
+  - Rumah Souraja
+  - Rumah Walewangko
+  - Rumah Tongkonan
+  - Rumah Gadang
   image: {fileID: 0}
 --- !u!114 &836993826
 MonoBehaviour:
@@ -3821,14 +3755,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 38
-  typeSoal: 0
-  soal: Soal No 38
-  answer: Pilihan 1
+  typeSoal: 3
+  soal: Karedok khas dari daerah...
+  answer: Jawa Barat
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Jawa Barat
+  - Jawa Timur
+  - Jawa Tengah
+  - DKI Jakarta
   image: {fileID: 0}
 --- !u!1 &844337914
 GameObject:
@@ -3983,7 +3917,7 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 856460452}
   m_CullTransparentMesh: 1
---- !u!114 &856706027
+--- !u!114 &857668253
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -3995,15 +3929,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  idSoal: 23
+  idSoal: 47
   typeSoal: 0
-  soal: Soal No 23
-  answer: Pilihan 1
+  soal: Rumah adat Kariwari berasal dari daerah...
+  answer: Papua
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Gorontalo
+  - Bali
+  - DKI Jakarta
+  - Papua
   image: {fileID: 0}
 --- !u!114 &860661045
 MonoBehaviour:
@@ -4018,14 +3952,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 3
-  typeSoal: 0
-  soal: Soal No 3
-  answer: Pilihan 1
+  typeSoal: 2
+  soal: Nama alat musik tradisional pada gambar disamping adalah...
+  answer: Gamelan
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Angklung
+  - Calung
+  - Gendang
+  - Gamelan
   image: {fileID: 0}
 --- !u!1 &864881180
 GameObject:
@@ -4121,10 +4055,15 @@ MonoBehaviour:
   - {fileID: 28314774}
   - {fileID: 274183523}
   - {fileID: 1995290825}
-  - {fileID: 390094286}
+  - {fileID: 313988981}
   numberOfLevel: 50
+  numberOfList: 3
   activeLevel: 0
-  typeSoal: 0
+  listSprite:
+  - {fileID: 21300000, guid: 9a8a624cd9fe74c4a9cbf5f07a3e291e, type: 3}
+  - {fileID: 21300000, guid: a1ffec5f2e20351419c3be28b07525fa, type: 3}
+  - {fileID: 21300000, guid: 8437175e15e351e4dafc7c7aa844d54a, type: 3}
+  typeSoal: 2
 --- !u!1 &883926619
 GameObject:
   m_ObjectHideFlags: 0
@@ -4260,6 +4199,28 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 883926619}
   m_CullTransparentMesh: 1
+--- !u!114 &884208516
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 17
+  typeSoal: 0
+  soal: "Rumah adat dari Kepulauan Riau adalah\u2026"
+  answer: Rumah Atap Limas Potong
+  pilihan:
+  - Rumah Atap Limas Potong
+  - Rumah banjar
+  - Rumah limas
+  - Rumah Hanoi
+  image: {fileID: 0}
 --- !u!114 &899428662
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4273,36 +4234,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 33
-  typeSoal: 0
-  soal: Soal No 33
-  answer: Pilihan 1
+  typeSoal: 3
+  soal: Tempoyak Ikan Patin khas dari Daerah...
+  answer: Jambi
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
-  image: {fileID: 0}
---- !u!114 &902708778
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  idSoal: 32
-  typeSoal: 0
-  soal: Soal No 32
-  answer: Pilihan 1
-  pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Jambi
+  - Sumatera Utara
+  - Sumatera Selatan
+  - Sumatera Barat
   image: {fileID: 0}
 --- !u!114 &904077051
 MonoBehaviour:
@@ -4317,14 +4256,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 45
-  typeSoal: 0
-  soal: Soal No 45
-  answer: Pilihan 1
+  typeSoal: 3
+  soal: Kalumpe khas dari daerah...
+  answer: Kalimantan Barat
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Kalimantan Tengah
+  - Kalimantan Barat
+  - Kalimantan Utara
+  - Kalimantan Timur
   image: {fileID: 0}
 --- !u!1 &917966944
 GameObject:
@@ -4459,7 +4398,7 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 917966944}
   m_CullTransparentMesh: 1
---- !u!114 &940540494
+--- !u!114 &953156142
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -4471,16 +4410,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  idSoal: 6
-  typeSoal: 0
-  soal: Soal No 6
-  answer: Pilihan 1
+  idSoal: 46
+  typeSoal: 1
+  soal: Baju adat Ewer berasal dari daerah...
+  answer: Papua Barat
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
-  image: {fileID: 21300000, guid: d42f8c4f1db8e9d44966c179463670c1, type: 3}
+  - Papua Selatan
+  - Papua Barat
+  - Nusa Tenggara Timur
+  - Nusa Tenggara Barat
+  image: {fileID: 0}
 --- !u!114 &971006668
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4494,14 +4433,36 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 46
-  typeSoal: 0
-  soal: Soal No 46
-  answer: Pilihan 1
+  typeSoal: 3
+  soal: Kuah Pilek dari daerah...
+  answer: Aceh
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Aceh
+  - Kalimantan Utara
+  - Kalimantan Barat
+  - Kalimantan Timur
+  image: {fileID: 0}
+--- !u!114 &982914638
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 7
+  typeSoal: 1
+  soal: "Berikut ini adalah pakaian adat yang berasal dari Bali\u2026"
+  answer: Payas Agung
+  pilihan:
+  - Pegon
+  - Amarasi
+  - Payas Agung
+  - Upak Nyamu
   image: {fileID: 0}
 --- !u!1 &983323907
 GameObject:
@@ -4599,14 +4560,37 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 24
-  typeSoal: 0
-  soal: Soal No 24
-  answer: Pilihan 1
+  typeSoal: 4
+  soal: Tari gambyong merupakan tari yang berasal dari daerah Jawa Tengah, tari ini
+    bertujuan untuk...
+  answer: Upacara ritual pertanian yang bertujuan untuk kesuburan padi
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Upacara kematian
+  - Upacara penjemput
+  - Upacara ritual pertanian yang bertujuan untuk kesuburan padi
+  - Upacara pernikahan
+  image: {fileID: 0}
+--- !u!114 &988152504
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 8
+  typeSoal: 0
+  soal: "Berikut ini adalah rumah adat yang berasal dari provinsi Bengkulu\u2026"
+  answer: Bubungan Lima
+  pilihan:
+  - Bubungan Lima
+  - Limas
+  - Nuwo
+  - Badui
   image: {fileID: 0}
 --- !u!114 &989099287
 MonoBehaviour:
@@ -4621,14 +4605,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 14
-  typeSoal: 0
-  soal: Soal No 14
-  answer: Pilihan 1
+  typeSoal: 3
+  soal: Berikut ini adalah makanan khas yang berasal dari daerah Sumatra Utara
+  answer: Bika Ambon
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Serabi
+  - Mie Aceh
+  - Empek-empek
+  - Bika Ambon
   image: {fileID: 0}
 --- !u!1 &993975696
 GameObject:
@@ -4752,36 +4736,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 37
-  typeSoal: 0
-  soal: Soal No 37
-  answer: Pilihan 1
+  typeSoal: 3
+  soal: Mie Lendir khas dari daerah...
+  answer: Papua
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
-  image: {fileID: 0}
---- !u!114 &998411916
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  idSoal: 1
-  typeSoal: 0
-  soal: Soal No 1
-  answer: Pilihan 1
-  pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Kepulauan Riau
+  - Papua
+  - Bali
+  - Jambi
   image: {fileID: 0}
 --- !u!114 &1002279542
 MonoBehaviour:
@@ -4796,14 +4758,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 35
-  typeSoal: 0
-  soal: Soal No 35
-  answer: Pilihan 1
+  typeSoal: 3
+  soal: Seruit khas dari daerah...
+  answer: Banten
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Lampung
+  - Banten
+  - Jambi
+  - Bali
   image: {fileID: 0}
 --- !u!1 &1002592132
 GameObject:
@@ -4850,81 +4812,65 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   bankSoal:
-  - {fileID: 998411916}
-  - {fileID: 180111142}
-  - {fileID: 1611995084}
-  - {fileID: 2128446329}
-  - {fileID: 565315498}
-  - {fileID: 259827703}
-  - {fileID: 1686066467}
-  - {fileID: 1341266005}
-  - {fileID: 1345313267}
-  - {fileID: 1016786525}
-  - {fileID: 45425274}
-  - {fileID: 1099684138}
-  - {fileID: 1452755412}
-  - {fileID: 2079894844}
-  - {fileID: 273311487}
-  - {fileID: 541518253}
-  - {fileID: 1393547710}
-  - {fileID: 366985434}
-  - {fileID: 784588781}
-  - {fileID: 532512994}
-  - {fileID: 586976578}
-  - {fileID: 1389178194}
-  - {fileID: 856706027}
-  - {fileID: 475280666}
-  - {fileID: 320629682}
-  - {fileID: 35419159}
-  - {fileID: 1209859821}
-  - {fileID: 1671269184}
-  - {fileID: 669441784}
-  - {fileID: 1955056048}
-  - {fileID: 1047706381}
-  - {fileID: 902708778}
-  - {fileID: 514433891}
-  - {fileID: 506106537}
-  - {fileID: 1008133162}
-  - {fileID: 2119873246}
-  - {fileID: 1443545406}
-  - {fileID: 182787950}
-  - {fileID: 1790252904}
-  - {fileID: 7672240}
-  - {fileID: 2069163232}
-  - {fileID: 417271285}
-  - {fileID: 97385722}
-  - {fileID: 178141330}
-  - {fileID: 582494724}
-  - {fileID: 1358540504}
-  - {fileID: 126949810}
-  - {fileID: 1778925769}
-  - {fileID: 350014974}
-  - {fileID: 259725440}
+  - {fileID: 1834754124}
+  - {fileID: 154058727}
+  - {fileID: 559888647}
+  - {fileID: 737242705}
+  - {fileID: 1431709718}
+  - {fileID: 101047184}
+  - {fileID: 982914638}
+  - {fileID: 1760740712}
+  - {fileID: 1029557157}
+  - {fileID: 423931241}
+  - {fileID: 1903458368}
+  - {fileID: 1671875461}
+  - {fileID: 1702373548}
+  - {fileID: 1774199556}
+  - {fileID: 1656623054}
+  - {fileID: 186756897}
+  - {fileID: 623194674}
+  - {fileID: 1465615832}
+  - {fileID: 684206028}
+  - {fileID: 506860420}
+  - {fileID: 1535451424}
+  - {fileID: 1756560326}
+  - {fileID: 762541937}
+  - {fileID: 357173131}
+  - {fileID: 2044283811}
+  - {fileID: 15252868}
+  - {fileID: 2132337456}
+  - {fileID: 509494319}
+  - {fileID: 1035505172}
+  - {fileID: 666568345}
+  - {fileID: 746175447}
+  - {fileID: 713107588}
+  - {fileID: 225639807}
+  - {fileID: 146829616}
+  - {fileID: 1870475371}
+  - {fileID: 311863381}
+  - {fileID: 119554813}
+  - {fileID: 1063982642}
+  - {fileID: 1366662256}
+  - {fileID: 1244393749}
+  - {fileID: 91730050}
+  - {fileID: 1861222412}
+  - {fileID: 1451862401}
+  - {fileID: 1329597035}
+  - {fileID: 1227118849}
+  - {fileID: 953156142}
+  - {fileID: 545733368}
+  - {fileID: 169969782}
+  - {fileID: 608877036}
+  - {fileID: 1360126809}
   numberOfLevel: 50
+  numberOfList: 4
   activeLevel: 0
-  typeSoal: 0
---- !u!114 &1008133162
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  idSoal: 35
-  typeSoal: 0
-  soal: Soal No 35
-  answer: Pilihan 1
-  pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
-  image: {fileID: 0}
+  listSprite:
+  - {fileID: 21300000, guid: 63845431361223640963023838e4bfd2, type: 3}
+  - {fileID: 21300000, guid: df997419c658bf0488519ba92632c551, type: 3}
+  - {fileID: 21300000, guid: 2e2574e57f7701c4b928a57b18552e75, type: 3}
+  - {fileID: 0}
+  typeSoal: 1
 --- !u!114 &1013594509
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4938,58 +4884,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 26
-  typeSoal: 0
-  soal: Soal No 26
-  answer: Pilihan 1
+  typeSoal: 2
+  soal: Alat musik Kenong dimainkan dengan cara...
+  answer: Dipukul
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
-  image: {fileID: 0}
---- !u!114 &1016786525
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  idSoal: 10
-  typeSoal: 0
-  soal: Soal No 10
-  answer: Pilihan 1
-  pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
-  image: {fileID: 0}
---- !u!114 &1024927029
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  idSoal: 42
-  typeSoal: 0
-  soal: Soal No 42
-  answer: Pilihan 1
-  pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Dipukul
+  - Diketik
+  - Ditabuh
+  - Digoyang
   image: {fileID: 0}
 --- !u!114 &1026952973
 MonoBehaviour:
@@ -5004,16 +4906,16 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 29
-  typeSoal: 0
-  soal: Soal No 29
-  answer: Pilihan 1
+  typeSoal: 3
+  soal: Kepiting Soko adalah makanan khas dari daerah...
+  answer: Kalimantan Timur
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Kalimantan Utara
+  - Kalimantan Timur
+  - Aceh
+  - Minangkabau
   image: {fileID: 0}
---- !u!114 &1036503849
+--- !u!114 &1029557157
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -5025,15 +4927,39 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  idSoal: 28
-  typeSoal: 0
-  soal: Soal No 28
-  answer: Pilihan 1
+  idSoal: 9
+  typeSoal: 1
+  soal: Baju adat yang dipenuhi hiasan benag emas yang melambangkan kekayaan Minangkabau
+    disebut
+  answer: Batabue
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Batabue
+  - Batabua
+  - Batabea
+  - Batubea
+  image: {fileID: 0}
+--- !u!114 &1035505172
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 29
+  typeSoal: 1
+  soal: Pakaian adat dari provinsi Papua Selatan yang digunakan pria adalah Pummi,
+    rok yang terbuat dari...
+  answer: Dari anyaman sagu
+  pilihan:
+  - Jerami yang dikeringkan
+  - Kain sutra
+  - Kulit kayu dikeringkan
+  - Dari anyaman sagu
   image: {fileID: 0}
 --- !u!114 &1046415107
 MonoBehaviour:
@@ -5048,36 +4974,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 41
-  typeSoal: 0
-  soal: Soal No 41
-  answer: Pilihan 1
+  typeSoal: 2
+  soal: Alat musik Siter berasal dari daerah...
+  answer: Jawa Tengah
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
-  image: {fileID: 0}
---- !u!114 &1047706381
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  idSoal: 31
-  typeSoal: 0
-  soal: Soal No 31
-  answer: Pilihan 1
-  pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Jawa Tengah
+  - Sumatera Utara
+  - Jawa Barat
+  - Sulawesi Selatan
   image: {fileID: 0}
 --- !u!1 &1049358487
 GameObject:
@@ -5162,6 +5066,50 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls: []
+--- !u!114 &1062561670
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 42
+  typeSoal: 0
+  soal: Rumah adat Sulawesi Barat disebut rumah...
+  answer: Rumah Boyang
+  pilihan:
+  - Rumah Boyang
+  - Rumah Joglo
+  - Rumah Kebaya
+  - Rumah Rakit
+  image: {fileID: 0}
+--- !u!114 &1063982642
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 38
+  typeSoal: 1
+  soal: Baju adat Tulang Bawang berasal dari daerah...
+  answer: Lampung
+  pilihan:
+  - Banten
+  - Lampung
+  - DKI Jakarta
+  - Jambi
+  image: {fileID: 0}
 --- !u!1 &1064592263
 GameObject:
   m_ObjectHideFlags: 0
@@ -5230,7 +5178,7 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1099684138
+--- !u!114 &1065407486
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -5242,15 +5190,37 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  idSoal: 12
+  idSoal: 13
   typeSoal: 0
-  soal: Soal No 12
-  answer: Pilihan 1
+  soal: "Rumah Rakit adalah rumah adat dari daerah\u2026"
+  answer: Bangka Belitung
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Papua
+  - Bangka Belitung
+  - DKI Jakarta
+  - Sulawesi Selatan
+  image: {fileID: 0}
+--- !u!114 &1079433305
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 32
+  typeSoal: 0
+  soal: Rumah adat Lampung disebut rumah...
+  answer: Rumah Bubungan Lima
+  pilihan:
+  - Rumah Atap Limas Potong
+  - Rumah Bubungan Lima
+  - Rumah Panggung
+  - Rumah Nuwo Sesat
   image: {fileID: 0}
 --- !u!114 &1100327971
 MonoBehaviour:
@@ -5265,16 +5235,16 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 28
-  typeSoal: 0
-  soal: Soal No 28
-  answer: Pilihan 1
+  typeSoal: 3
+  soal: Gambar diatas merupakan makanan khas dari daerah...
+  answer: Minangkabau
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
-  image: {fileID: 0}
---- !u!114 &1112440458
+  - Sulawesi Selatan
+  - Aceh
+  - DKI Jakarta
+  - Minangkabau
+  image: {fileID: 21300000, guid: aff1ae9c5f3a9ed4f9750cca3a1bdb69, type: 3}
+--- !u!114 &1139574966
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -5286,37 +5256,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  idSoal: 17
+  idSoal: 9
   typeSoal: 0
-  soal: Soal No 17
-  answer: Pilihan 1
+  soal: "Rumah adat Sasadu berasal dari provinsi\u2026"
+  answer: Maluku Utara
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
-  image: {fileID: 0}
---- !u!114 &1130206318
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  idSoal: 1
-  typeSoal: 0
-  soal: Soal No 1
-  answer: Pilihan 1
-  pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Bangka Belitung
+  - Maluku Utara
+  - Kalimantan timur
+  - Sulawesi barat
   image: {fileID: 0}
 --- !u!114 &1139844254
 MonoBehaviour:
@@ -5331,15 +5279,19 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 27
-  typeSoal: 0
-  soal: Soal No 27
-  answer: Pilihan 1
+  typeSoal: 4
+  soal: 'Perhatikan gambar dibawah ini!
+
+
+    Gambar diatas merupakan tari Sekapur
+    Siri yang berasal dari daerah...'
+  answer: Jambi
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
-  image: {fileID: 0}
+  - Jawa Barat
+  - Jawa Tengah
+  - Jambi
+  - Aceh
+  image: {fileID: 21300000, guid: 418bfcf80fb8d6f4bb57a962647dc454, type: 3}
 --- !u!114 &1141616376
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5353,14 +5305,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 35
-  typeSoal: 0
-  soal: Soal No 35
-  answer: Pilihan 1
+  typeSoal: 2
+  soal: Alat musik Pupuik Tanduak berasal dari daerah...
+  answer: Sumatera Barat
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Riau
+  - Kalimantan Timur
+  - Sumatera Barat
+  - Toraja
   image: {fileID: 0}
 --- !u!114 &1143182167
 MonoBehaviour:
@@ -5375,16 +5327,16 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 16
-  typeSoal: 0
-  soal: Soal No 16
-  answer: Pilihan 1
+  typeSoal: 4
+  soal: Berikut ini adalah tari-tari dari daerah Jawa Tengah, kecuali...
+  answer: Jaipong
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Beksan Wireng
+  - Jaipong
+  - Gamboyong
+  - Bedaya
   image: {fileID: 0}
---- !u!114 &1150540179
+--- !u!114 &1151806887
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -5396,15 +5348,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  idSoal: 41
+  idSoal: 39
   typeSoal: 0
-  soal: Soal No 41
-  answer: Pilihan 1
+  soal: Rumah adat Kalimantan Utara disebut rumah...
+  answer: Rumah Bubungan Tinggi
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Rumah Betang
+  - Rumah Bubungan Tinggi
+  - Rumah Lamin
+  - Rumah Baloy
   image: {fileID: 0}
 --- !u!114 &1155715769
 MonoBehaviour:
@@ -5419,14 +5371,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 15
-  typeSoal: 0
-  soal: Soal No 15
-  answer: Pilihan 1
+  typeSoal: 3
+  soal: Berikut ini adalah makanan khas yang berasal dari Bengkulu
+  answer: Pendap
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Gulai ikan
+  - Pendap
+  - Serabi
+  - Sop Konro
   image: {fileID: 0}
 --- !u!114 &1161580487
 MonoBehaviour:
@@ -5441,14 +5393,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 30
-  typeSoal: 0
-  soal: Soal No 30
-  answer: Pilihan 1
+  typeSoal: 2
+  soal: Alat musik Ganda berasal dari daerah...
+  answer: Sulawesi Selatan
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Jawa Timur
+  - Gorontalo
+  - Jawa Barat
+  - Sulawesi Selatan
   image: {fileID: 0}
 --- !u!114 &1164234093
 MonoBehaviour:
@@ -5463,15 +5415,19 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 10
-  typeSoal: 0
-  soal: Soal No 10
-  answer: Pilihan 1
+  typeSoal: 3
+  soal: 'Perhatikan gambar di bawah ini!
+
+
+    Nama kue tradisional pada gambar di
+    samping adalah...'
+  answer: Klepon / onde-onde
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
-  image: {fileID: 0}
+  - Klepon / onde-onde
+  - Pisang ijo
+  - Pisang eppe
+  - Surabi
+  image: {fileID: 21300000, guid: 335de3ca22609f44da9cde59e2270ff1, type: 3}
 --- !u!114 &1186701561
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5485,36 +5441,15 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 3
-  typeSoal: 0
-  soal: Soal No 3
-  answer: Pilihan 1
+  typeSoal: 4
+  soal: Siti dan teman-temanya sedang berlatih tari tradisional dari suku Aceh yang
+    bernama...
+  answer: Tari saman
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
-  image: {fileID: 0}
---- !u!114 &1209859821
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  idSoal: 27
-  typeSoal: 0
-  soal: Soal No 27
-  answer: Pilihan 1
-  pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Tari saman
+  - Tari piring
+  - Tari kecak
+  - Tari selamat datang
   image: {fileID: 0}
 --- !u!114 &1214815471
 MonoBehaviour:
@@ -5529,36 +5464,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 49
-  typeSoal: 0
-  soal: Soal No 49
-  answer: Pilihan 1
+  typeSoal: 3
+  soal: Kue Sagu khas dari daerah...
+  answer: Sulawesi Selatan
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
-  image: {fileID: 0}
---- !u!114 &1217074642
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  idSoal: 5
-  typeSoal: 0
-  soal: Soal No 5
-  answer: Pilihan 1
-  pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Papua Tengah
+  - Sulawesi Selatan
+  - Sulawesi Barat
+  - Sulawesi Utara
   image: {fileID: 0}
 --- !u!114 &1220145546
 MonoBehaviour:
@@ -5573,14 +5486,80 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 5
-  typeSoal: 0
-  soal: Soal No 5
-  answer: Pilihan 1
+  typeSoal: 4
+  soal: Tari daerah yang berasal dari daerah Jambi adalah...
+  answer: Tari Sekapur Sirih
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Tari Gambyong
+  - Tari Jaipong
+  - Tari Balumpa
+  - Tari Sekapur Sirih
+  image: {fileID: 0}
+--- !u!114 &1227118849
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 45
+  typeSoal: 1
+  soal: Baju adat Billu dan Makuta berasal dari daerah...
+  answer: Gorontalo
+  pilihan:
+  - Gorontalo
+  - Papua
+  - Bali
+  - Aceh
+  image: {fileID: 0}
+--- !u!114 &1235151240
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 31
+  typeSoal: 0
+  soal: Rumah adat Panggung berasal dari daerah...
+  answer: Jambi
+  pilihan:
+  - Riau
+  - Bengkulu
+  - Aceh
+  - Jambi
+  image: {fileID: 0}
+--- !u!114 &1244393749
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 40
+  typeSoal: 1
+  soal: Baju adat Kebaya Encim berasal dari daerah...
+  answer: DKI Jakarta
+  pilihan:
+  - Jawa Barat
+  - Daerah Istimewa Yogyakarta
+  - Jawa Tengah
+  - DKI Jakarta
   image: {fileID: 0}
 --- !u!114 &1248812115
 MonoBehaviour:
@@ -5595,14 +5574,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 47
-  typeSoal: 0
-  soal: Soal No 47
-  answer: Pilihan 1
+  typeSoal: 4
+  soal: Tari Sajojo berasal dari daerah...
+  answer: Papua
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Papua
+  - Nusa Tenggara Timur
+  - Nusa Tenggara Barat
+  - Yogyakarta
   image: {fileID: 0}
 --- !u!114 &1257566234
 MonoBehaviour:
@@ -5617,14 +5596,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 1
-  typeSoal: 0
-  soal: Soal No 1
-  answer: Pilihan 1
+  typeSoal: 4
+  soal: Berikut ini adalah tarian yang berasal dari daerah Sumatera Utara...
+  answer: Tari tor-tor
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Tari saman
+  - Tari tor-tor
+  - Tari enggang
+  - Tari monong
   image: {fileID: 0}
 --- !u!114 &1259823819
 MonoBehaviour:
@@ -5639,15 +5618,38 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 43
-  typeSoal: 0
-  soal: Soal No 43
-  answer: Pilihan 1
+  typeSoal: 4
+  soal: Tari Saureka Reka berasal dari daerah...
+  answer: Jambi
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Maluku
+  - Jawa Timur
+  - Jawa Tengah
+  - Jambi
   image: {fileID: 0}
+--- !u!114 &1262922036
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 6
+  typeSoal: 0
+  soal: "Perhatikan gambar dibawah ini!\nGambar diatas termasuk rumah tradisional
+    yang berasal dari daerah NTT adalah\u2026"
+  answer: Rumah adat Kariwari
+  pilihan:
+  - Rumah adat Musalaki
+  - Rumah adat Kariwari
+  - Rumah adat Tambi
+  - Rumah adat Gadang
+  image: {fileID: 21300000, guid: d42f8c4f1db8e9d44966c179463670c1, type: 3}
 --- !u!114 &1263459385
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5661,14 +5663,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 11
-  typeSoal: 0
-  soal: Soal No 11
-  answer: Pilihan 1
+  typeSoal: 2
+  soal: Sasando merupakan alat musik tradisional yang berasal dari daerah...
+  answer: NTT
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Jawa Barat
+  - Jawa Tengah
+  - NTT
+  - Papua
   image: {fileID: 0}
 --- !u!114 &1272616915
 MonoBehaviour:
@@ -5683,14 +5685,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 38
-  typeSoal: 0
-  soal: Soal No 38
-  answer: Pilihan 1
+  typeSoal: 2
+  soal: Alat musik Karinding berasal dari daerah...
+  answer: Jawa Barat
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Sumatera Utara
+  - Jawa Barat
+  - Sumatera Barat
+  - Jawa Tengah
   image: {fileID: 0}
 --- !u!1 &1276803100
 GameObject:
@@ -5781,14 +5783,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 40
-  typeSoal: 0
-  soal: Soal No 40
-  answer: Pilihan 1
+  typeSoal: 2
+  soal: Alat musik Kuriding berasal dari daerah...
+  answer: Kalimantan Selatan
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Bali
+  - Toraja
+  - Papua
+  - Kalimantan Selatan
   image: {fileID: 0}
 --- !u!114 &1284562590
 MonoBehaviour:
@@ -5803,14 +5805,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 13
-  typeSoal: 0
-  soal: Soal No 13
-  answer: Pilihan 1
+  typeSoal: 2
+  soal: Angklung dimainkan dengan cara...
+  answer: Digoyang
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Dipetik
+  - Digoyang
+  - Dipukul
+  - Ditiup
   image: {fileID: 0}
 --- !u!114 &1285481052
 MonoBehaviour:
@@ -5825,14 +5827,15 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 6
-  typeSoal: 0
-  soal: Soal No 6
-  answer: Pilihan 1
+  typeSoal: 3
+  soal: Ikan tenggiri menjadi bahan baku makanan dari daerah Sumatera Selatan, makanan
+    tradisional ini disebut...
+  answer: Mpek-mpek
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Surabi
+  - Pisang ijo
+  - Jalangkote
+  - Mpek-mpek
   image: {fileID: 0}
 --- !u!114 &1287513378
 MonoBehaviour:
@@ -5847,14 +5850,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 21
-  typeSoal: 0
-  soal: Soal No 21
-  answer: Pilihan 1
+  typeSoal: 2
+  soal: Berikut ini alat tradisional dari Jawa Barat, kecuali...
+  answer: Anakbacing
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Angklung
+  - Kecapi
+  - Calung
+  - Anakbacing
   image: {fileID: 0}
 --- !u!114 &1289129343
 MonoBehaviour:
@@ -5869,14 +5872,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 21
-  typeSoal: 0
-  soal: Soal No 21
-  answer: Pilihan 1
+  typeSoal: 3
+  soal: Barongko adalah makanan khas dari daerah...
+  answer: Sulawesi Selatan
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - DKI Jakarta
+  - Papua
+  - Sumatera Barat
+  - Sulawesi Selatan
   image: {fileID: 0}
 --- !u!1 &1300231126
 GameObject:
@@ -5967,14 +5970,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 2
-  typeSoal: 0
-  soal: Soal No 2
-  answer: Pilihan 1
+  typeSoal: 4
+  soal: Tari cakalele berasal dari daerah...
+  answer: Maluku
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Maluku
+  - Jawa Barat
+  - Sulawesi Utara
+  - Kalimantan Tengah
   image: {fileID: 0}
 --- !u!114 &1307673677
 MonoBehaviour:
@@ -5989,16 +5992,16 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 17
-  typeSoal: 0
-  soal: Soal No 17
-  answer: Pilihan 1
+  typeSoal: 2
+  soal: Panting merupakan alat musik khas Kalimantan Selatan yang terbuat dari...
+  answer: Kayu Rawali
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Kayu Rawali
+  - Bambu
+  - Besi
+  - Kertas
   image: {fileID: 0}
---- !u!114 &1310112199
+--- !u!114 &1317640859
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -6010,17 +6013,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  idSoal: 48
+  idSoal: 25
   typeSoal: 0
-  soal: Soal No 48
-  answer: Pilihan 1
+  soal: "Bagaimana bentuk rumah adat Badaui yang berasal dari Banten\u2026"
+  answer: Menyerupai tanduk kerbau
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Bundar
+  - Segitiga
+  - Julang Ngpak (panggung)
+  - Menyerupai tanduk kerbau
   image: {fileID: 0}
---- !u!114 &1324365325
+--- !u!114 &1323789896
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -6034,15 +6037,15 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   idSoal: 19
   typeSoal: 0
-  soal: Soal No 19
-  answer: Pilihan 1
+  soal: "Rumah adat yang hanya digunakan unruk acara adat saja adalah\u2026"
+  answer: Rumah Bubungan Lima
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Rumah Bubungan Lima
+  - Rumah Panggung
+  - Rumah Atap Limas Potong
+  - Rumah Limas
   image: {fileID: 0}
---- !u!114 &1332494914
+--- !u!114 &1329597035
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -6054,16 +6057,39 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  idSoal: 32
-  typeSoal: 0
-  soal: Soal No 32
-  answer: Pilihan 1
+  idSoal: 44
+  typeSoal: 1
+  soal: Baju adat Amarasi berasal dari daerah...
+  answer: Nusa Tenggara Timur
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Papua
+  - Bali
+  - Nusa Tenggara Barat
+  - Nusa Tenggara Timur
   image: {fileID: 0}
+--- !u!114 &1334983196
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 11
+  typeSoal: 0
+  soal: "Perhatikan gambar dibawah ini!\nGambar diatas merupakan rumah adat Honai
+    yang berasal dari daerah\u2026"
+  answer: Papua
+  pilihan:
+  - Aceh
+  - Maluku
+  - Sulawesi Selatan
+  - Papua
+  image: {fileID: 21300000, guid: baa750bb48f5e184686cfcf5a6fe988a, type: 3}
 --- !u!114 &1335422125
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6077,16 +6103,17 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 36
-  typeSoal: 0
-  soal: Soal No 36
-  answer: Pilihan 1
+  typeSoal: 2
+  soal: Alat musik tradisional Pupuik Tanduak yang berasal dari Sumatera Barat terbuat
+    dari...
+  answer: Kulit Kerbau
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Kulit Sapi
+  - Tanduk Badak
+  - Kulit Kerbau
+  - Tanduk Kerbau
   image: {fileID: 0}
---- !u!114 &1341266005
+--- !u!114 &1348078562
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -6098,59 +6125,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  idSoal: 8
+  idSoal: 38
   typeSoal: 0
-  soal: Soal No 8
-  answer: Pilihan 1
+  soal: Rumah adat Betang berasal dari daerah...
+  answer: Kalimantan Tengah
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
-  image: {fileID: 0}
---- !u!114 &1345313267
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  idSoal: 9
-  typeSoal: 0
-  soal: Soal No 9
-  answer: Pilihan 1
-  pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
-  image: {fileID: 0}
---- !u!114 &1358540504
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  idSoal: 46
-  typeSoal: 0
-  soal: Soal No 46
-  answer: Pilihan 1
-  pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Aceh
+  - Bali
+  - Kalimantan Tengah
+  - Papua
   image: {fileID: 0}
 --- !u!114 &1359180468
 MonoBehaviour:
@@ -6165,14 +6148,36 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 36
-  typeSoal: 0
-  soal: Soal No 36
-  answer: Pilihan 1
+  typeSoal: 3
+  soal: Mie Bangka khas dari daerah...
+  answer: Bangka Belitung
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Bangka Belitung
+  - Kalimantan Utara
+  - Kalimantan Selatan
+  - Kalimantan Tengah
+  image: {fileID: 0}
+--- !u!114 &1360126809
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 50
+  typeSoal: 1
+  soal: Baju adat Pattuqduq Towaine berasal dari daerah...
+  answer: Sulawesi Barat
+  pilihan:
+  - Sulawesi Barat
+  - Sulawesi Selatan
+  - Sulawesi Tengah
+  - Sulawesi Utara
   image: {fileID: 0}
 --- !u!114 &1364380631
 MonoBehaviour:
@@ -6187,14 +6192,36 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 10
-  typeSoal: 0
-  soal: Soal No 10
-  answer: Pilihan 1
+  typeSoal: 2
+  soal: Tifa merupakan alat musik tradisional yang berasal dari daerah...
+  answer: Papua
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Papua
+  - Jawa Barat
+  - Sulawesi Selatan
+  - Sulawesi Barat
+  image: {fileID: 0}
+--- !u!114 &1366662256
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 39
+  typeSoal: 1
+  soal: Baju adat Pangsi berasal dari daerah...
+  answer: Banten
+  pilihan:
+  - Lampung
+  - Banten
+  - DKI Jakarta
+  - Jambi
   image: {fileID: 0}
 --- !u!114 &1371403754
 MonoBehaviour:
@@ -6209,14 +6236,36 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 47
-  typeSoal: 0
-  soal: Soal No 47
-  answer: Pilihan 1
+  typeSoal: 3
+  soal: Gance Ruan khas dari daerah...
+  answer: Kalimantan Selatan
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Kalimantan Timur
+  - Kalimantan Selatan
+  - Kalimantan Utara
+  - Kalimantan Barat
+  image: {fileID: 0}
+--- !u!114 &1379492449
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 49
+  typeSoal: 0
+  soal: Rumah adat Hanoi berasal dari daerah...
+  answer: NTT
+  pilihan:
+  - Papua
+  - NTT
+  - NTB
+  - Maluku
   image: {fileID: 0}
 --- !u!114 &1380687793
 MonoBehaviour:
@@ -6231,58 +6280,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 41
-  typeSoal: 0
-  soal: Soal No 41
-  answer: Pilihan 1
+  typeSoal: 4
+  soal: Tari Tide Tide berasal dari daerah...
+  answer: Maluku Utara
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
-  image: {fileID: 0}
---- !u!114 &1389178194
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  idSoal: 22
-  typeSoal: 0
-  soal: Soal No 22
-  answer: Pilihan 1
-  pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
-  image: {fileID: 0}
---- !u!114 &1393547710
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  idSoal: 17
-  typeSoal: 0
-  soal: Soal No 17
-  answer: Pilihan 1
-  pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Maluku Utara
+  - Sulawesi Tenggara
+  - Sumatera Selatan
+  - Kalimantan Timur
   image: {fileID: 0}
 --- !u!114 &1393967614
 MonoBehaviour:
@@ -6297,14 +6302,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 22
-  typeSoal: 0
-  soal: Soal No 22
-  answer: Pilihan 1
+  typeSoal: 4
+  soal: Tari ketuk tilu dipentaskan dalam berapa orang penari...
+  answer: 6 orang
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - 4 orang
+  - 6 orang
+  - 12 orang
+  - 10 orang
   image: {fileID: 0}
 --- !u!114 &1400405130
 MonoBehaviour:
@@ -6319,14 +6324,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 24
-  typeSoal: 0
-  soal: Soal No 24
-  answer: Pilihan 1
+  typeSoal: 2
+  soal: Alat musik Sampe dimainkan dengan cara...
+  answer: Dipetik
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Dipetik
+  - Dipukul
+  - Digoyang
+  - Ditiup
   image: {fileID: 0}
 --- !u!1 &1405050900
 GameObject:
@@ -6455,7 +6460,7 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1405050900}
   m_CullTransparentMesh: 1
---- !u!114 &1406897834
+--- !u!114 &1415410178
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -6467,15 +6472,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  idSoal: 33
-  typeSoal: 0
-  soal: Soal No 33
-  answer: Pilihan 1
+  idSoal: 50
+  typeSoal: 3
+  soal: Bolu Paranggi khas dari daerah...
+  answer: Sulawesi Selatan
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Sulawesi Barat
+  - Sulawesi Selatan
+  - Sulawesi Tengah
+  - Sulawesi Utara
   image: {fileID: 0}
 --- !u!114 &1415517742
 MonoBehaviour:
@@ -6490,14 +6495,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 15
-  typeSoal: 0
-  soal: Soal No 15
-  answer: Pilihan 1
+  typeSoal: 2
+  soal: Tifa dimainkan dengan cara...
+  answer: Dipukul
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Dipukul
+  - Digoyang
+  - Dipetik
+  - Ditiup
   image: {fileID: 0}
 --- !u!114 &1427540804
 MonoBehaviour:
@@ -6512,16 +6517,16 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 3
-  typeSoal: 0
-  soal: Soal No 3
-  answer: Pilihan 1
+  typeSoal: 3
+  soal: Gudeg adalah salah satu makanan khas dari daerah...
+  answer: Yogyakarta
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Sumatra Barat
+  - Papua
+  - Sulawesi Selatan
+  - Yogyakarta
   image: {fileID: 0}
---- !u!114 &1443545406
+--- !u!114 &1431709718
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -6533,17 +6538,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  idSoal: 37
-  typeSoal: 0
-  soal: Soal No 37
-  answer: Pilihan 1
+  idSoal: 5
+  typeSoal: 1
+  soal: "Pakaian adat kesatrian ageng berasal dari provinsi\u2026"
+  answer: Istimewa Yogyakarta
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Jawa Timur
+  - Jawa Barat
+  - Istimewa Yogyakarta
+  - Banten
   image: {fileID: 0}
---- !u!114 &1452755412
+--- !u!114 &1444061016
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -6555,15 +6560,37 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  idSoal: 13
+  idSoal: 3
   typeSoal: 0
-  soal: Soal No 13
-  answer: Pilihan 1
+  soal: "Perhatikan gambar dibawah ini!\nRumah Gadang adalah rumah adat dari provinsi\u2026"
+  answer: Sumatera Barat
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Sulawesi Selatan
+  - Maluku
+  - Aceh
+  - Sumatera Barat
+  image: {fileID: 21300000, guid: 8df85c9d852197447a8ea44355af487d, type: 3}
+--- !u!114 &1451862401
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 43
+  typeSoal: 1
+  soal: Baju adat Pegon berasal dari daerah...
+  answer: Nusa Tenggara Barat
+  pilihan:
+  - Papua
+  - Bali
+  - Nusa Tenggara Barat
+  - Aceh
   image: {fileID: 0}
 --- !u!114 &1456339603
 MonoBehaviour:
@@ -6578,15 +6605,19 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 9
-  typeSoal: 0
-  soal: Soal No 9
-  answer: Pilihan 1
+  typeSoal: 3
+  soal: 'Perhatikan gambar di bawah ini!
+
+
+    Gambar disamping merupakan makanan
+    khas dari...'
+  answer: Jawa Tengah
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
-  image: {fileID: 0}
+  - Jambi
+  - Jawa Barat
+  - Jawa Tengah
+  - Yogyakarta
+  image: {fileID: 21300000, guid: 72531fef30f61624e8cbc4678e9db55a, type: 3}
 --- !u!114 &1457835320
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6600,14 +6631,81 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 25
-  typeSoal: 0
-  soal: Soal No 25
-  answer: Pilihan 1
+  typeSoal: 4
+  soal: Tari pakarrena merupakan tari yang berasal dari Sulawesi Selatan, tari ini
+    menceritakan tentang...
+  answer: Tentang perpisahan dunia kayangan dan bumi
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Menceritakan pergaulan remaja
+  - Menceritakan tentang burung elang
+  - Tentang penjajahan
+  - Tentang perpisahan dunia kayangan dan bumi
+  image: {fileID: 0}
+--- !u!114 &1461643262
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 37
+  typeSoal: 0
+  soal: Ornamen yang ada pada bagian atap Rumah Lamin Kalimantan Timur adalah...
+  answer: Kepala Naga
+  pilihan:
+  - Ayam
+  - Kepala Kerbau
+  - Kepala Naga
+  - Tanduk Banteng
+  image: {fileID: 0}
+--- !u!114 &1465615832
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 18
+  typeSoal: 1
+  soal: Berikut ini adalah contoh pakaian adat yang benar sesuai daerah asalnya adalah...
+  answer: Beskap dari Sumatra Utara
+  pilihan:
+  - Ulos dari Jawa Barat
+  - Beskap dari Sumatra Utara
+  - Baju Kurung dari Sumatra Barat
+  - Kebaya dari Kalimantan Selatan
+  image: {fileID: 0}
+--- !u!114 &1467201023
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 36
+  typeSoal: 0
+  soal: Rumah adat Kalimantan Timur disebut rumah...
+  answer: Rumah Lamin
+  pilihan:
+  - Rumah Panjang
+  - Rumah Lamin
+  - Rumah Kasepuhan
+  - Rumah Baduy
   image: {fileID: 0}
 --- !u!114 &1476235744
 MonoBehaviour:
@@ -6622,14 +6720,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 38
-  typeSoal: 0
-  soal: Soal No 38
-  answer: Pilihan 1
+  typeSoal: 4
+  soal: Tari Caci berasal dari daerah...
+  answer: Nusa Tenggara Timur
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Nusa Tenggara Timur
+  - Nusa Tenggara Barat
+  - Papua
+  - Sulawesi Tenggara
   image: {fileID: 0}
 --- !u!114 &1480411225
 MonoBehaviour:
@@ -6644,14 +6742,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 23
-  typeSoal: 0
-  soal: Soal No 23
-  answer: Pilihan 1
+  typeSoal: 3
+  soal: Nasi Bekepor adalah makanan khas dari daerah...
+  answer: Kalimantan Timur
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Aceh
+  - Kalimantan Timur
+  - Kalimtan Tengah
+  - Kalimtan Selatan
   image: {fileID: 0}
 --- !u!114 &1487298140
 MonoBehaviour:
@@ -6666,16 +6764,16 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 39
-  typeSoal: 0
-  soal: Soal No 39
-  answer: Pilihan 1
+  typeSoal: 3
+  soal: Sop Semarang khas dari daerah...
+  answer: Jawa Tengah
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Jawa Tengah
+  - Jawa Barat
+  - Jawa Timur
+  - Yogyakarta
   image: {fileID: 0}
---- !u!114 &1491686616
+--- !u!114 &1494749003
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -6687,37 +6785,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  idSoal: 4
+  idSoal: 16
   typeSoal: 0
-  soal: Soal No 4
-  answer: Pilihan 1
+  soal: "Rumah adat Kalimantan Selatan adalah\u2026"
+  answer: Rumah Bubungan Tinggi
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
-  image: {fileID: 21300000, guid: 2e498a1fe1c84044f9e18b0e5e0dafa8, type: 3}
---- !u!114 &1492777146
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  idSoal: 38
-  typeSoal: 0
-  soal: Soal No 38
-  answer: Pilihan 1
-  pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Rumah Bubungan Tinggi
+  - Rumah batik
+  - Rumah Joglo
+  - Rumah igloo
   image: {fileID: 0}
 --- !u!114 &1506097849
 MonoBehaviour:
@@ -6732,14 +6808,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 37
-  typeSoal: 0
-  soal: Soal No 37
-  answer: Pilihan 1
+  typeSoal: 4
+  soal: Tarian yang penarinya mencambuk satu sama lain disebut tarian...
+  answer: Tari Caci
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Tari Caci
+  - Tari Tempurung
+  - Tari Gandrung Lombok
+  - Tari Pring
   image: {fileID: 0}
 --- !u!114 &1513569731
 MonoBehaviour:
@@ -6754,14 +6830,36 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 20
-  typeSoal: 0
-  soal: Soal No 20
-  answer: Pilihan 1
+  typeSoal: 3
+  soal: Pisang ijo adalah makanan khas dari daerah...
+  answer: Sulawesi Selatan
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Sulawesi Selatan
+  - Maluku
+  - Papua
+  - Sumatera Barat
+  image: {fileID: 0}
+--- !u!114 &1535451424
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 21
+  typeSoal: 1
+  soal: Warna pakaian adat Paksian yang berasal dari provinsi Bangka Belitung...
+  answer: Warna coklat dan hijau
+  pilihan:
+  - Warna kuning
+  - Warna hitam
+  - Warna coklat dan hijau
+  - Warna merah dan kuning keemasan
   image: {fileID: 0}
 --- !u!114 &1542062980
 MonoBehaviour:
@@ -6776,15 +6874,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 6
-  typeSoal: 0
-  soal: Soal No 6
-  answer: Pilihan 1
+  typeSoal: 4
+  soal: 'Perhatikan gambar dibawah ini!
+
+
+    Tari cerana adalah tari adat dari daerah...'
+  answer: Papua
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
-  image: {fileID: 0}
+  - Maluku
+  - Papua
+  - Sulawesi Selatan
+  - NTT
+  image: {fileID: 21300000, guid: 79e57d52b480e1a47946e8f898678ce3, type: 3}
 --- !u!114 &1542512037
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6798,14 +6899,15 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 34
-  typeSoal: 0
-  soal: Soal No 34
-  answer: Pilihan 1
+  typeSoal: 2
+  soal: Lalove merupakan alat musik tradisional dari suku Kaili Sulawesi Tengah yang
+    digunakan untuk...
+  answer: Ritual Penyembuhan
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Pada musik keroncong hingga dangdut
+  - Ritual Penyembuhan
+  - Merayakan pesta panen
+  - Penghias lagu
   image: {fileID: 0}
 --- !u!1 &1542587791
 GameObject:
@@ -6942,28 +7044,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1542587791}
   m_CullTransparentMesh: 1
---- !u!114 &1543678055
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  idSoal: 8
-  typeSoal: 0
-  soal: Soal No 8
-  answer: Pilihan 1
-  pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
-  image: {fileID: 0}
 --- !u!114 &1545684787
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6977,14 +7057,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 11
-  typeSoal: 0
-  soal: Soal No 11
-  answer: Pilihan 1
+  typeSoal: 3
+  soal: Empek-empek makanan khas dari daerah...
+  answer: Sumatra Selatan
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Lampung
+  - Sumatra Selatan
+  - Sumatra Barat
+  - Sulawesi Selatan
   image: {fileID: 0}
 --- !u!114 &1546734611
 MonoBehaviour:
@@ -6999,14 +7079,15 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 20
-  typeSoal: 0
-  soal: Soal No 20
-  answer: Pilihan 1
+  typeSoal: 2
+  soal: Rebab merupakan alat musik gesek tradisional dari kayu yang sering digunakan
+    untuk...
+  answer: Mengiringi wayang golek hingga tarian jaipong
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Mengiringi wayang golek hingga tarian jaipong
+  - Mengiringi upacara adat
+  - Pada musik keroncong hingga dangdut
+  - Penghias lagu
   image: {fileID: 0}
 --- !u!114 &1562746135
 MonoBehaviour:
@@ -7021,16 +7102,16 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 22
-  typeSoal: 0
-  soal: Soal No 22
-  answer: Pilihan 1
+  typeSoal: 2
+  soal: Alat musik berikut ini yang berasal dari daerah Nusa Tenggara Timur adalah...
+  answer: Sasando
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Bonang
+  - Gendang Beleq
+  - Popondi
+  - Sasando
   image: {fileID: 0}
---- !u!114 &1565609067
+--- !u!114 &1612389355
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -7042,59 +7123,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  idSoal: 34
+  idSoal: 18
   typeSoal: 0
-  soal: Soal No 34
-  answer: Pilihan 1
+  soal: "Rumah joglo merupakan rumah adat dari daerah, kecuali\u2026"
+  answer: Jawa Timur
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
-  image: {fileID: 0}
---- !u!114 &1603995894
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  idSoal: 16
-  typeSoal: 0
-  soal: Soal No 16
-  answer: Pilihan 1
-  pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
-  image: {fileID: 0}
---- !u!114 &1611995084
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  idSoal: 3
-  typeSoal: 0
-  soal: Soal No 3
-  answer: Pilihan 1
-  pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Jawa Tengah
+  - D.I. Yogyakarta
+  - Jawa barat
+  - Jawa Timur
   image: {fileID: 0}
 --- !u!114 &1612587755
 MonoBehaviour:
@@ -7109,14 +7146,37 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 25
-  typeSoal: 0
-  soal: Soal No 25
-  answer: Pilihan 1
+  typeSoal: 2
+  soal: Doli-doli dimainkan dengan cara...
+  answer: Dipukul
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Ditiup
+  - Dipetik
+  - Digoyang
+  - Dipukul
+  image: {fileID: 0}
+--- !u!114 &1613449909
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 29
+  typeSoal: 0
+  soal: "Rumah adat Dalam Loka yang berasal dari NTB, berapa tiang rumah adat tersebut
+    yang melambangkan sifat Allah\u2026"
+  answer: 99 tiang
+  pilihan:
+  - 100 tiang
+  - 20 tiang
+  - 99 tiang
+  - 10 tiang
   image: {fileID: 0}
 --- !u!1 &1619474236
 GameObject:
@@ -7340,14 +7400,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 9
-  typeSoal: 0
-  soal: Soal No 9
-  answer: Pilihan 1
+  typeSoal: 4
+  soal: Tari Jaipong merupakan tarian yang berasal dari daerah...
+  answer: Jawa Barat
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Sumatra Barat
+  - Jawa Tengah
+  - Jawa Barat
+  - Jawa Timur
   image: {fileID: 0}
 --- !u!114 &1623985929
 MonoBehaviour:
@@ -7362,36 +7422,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 14
-  typeSoal: 0
-  soal: Soal No 14
-  answer: Pilihan 1
+  typeSoal: 4
+  soal: Tari merak berasal dari daerah...
+  answer: Jawa Barat
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
-  image: {fileID: 0}
---- !u!114 &1626881952
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  idSoal: 36
-  typeSoal: 0
-  soal: Soal No 36
-  answer: Pilihan 1
-  pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Bali
+  - Banten
+  - Jawa Barat
+  - Sumatera Selatan
   image: {fileID: 0}
 --- !u!114 &1637085045
 MonoBehaviour:
@@ -7406,14 +7444,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 18
-  typeSoal: 0
-  soal: Soal No 18
-  answer: Pilihan 1
+  typeSoal: 3
+  soal: Mie gomak adalah makanan khas suku...
+  answer: Batak
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Bugis
+  - Batak
+  - Mandar
+  - Fak fak
   image: {fileID: 0}
 --- !u!114 &1645827104
 MonoBehaviour:
@@ -7428,16 +7466,16 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 46
-  typeSoal: 0
-  soal: Soal No 46
-  answer: Pilihan 1
+  typeSoal: 4
+  soal: Tari Selamat Datang berasal dari daerah...
+  answer: Bali
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Papua Timur
+  - Sulawesi Tengah
+  - Bali
+  - DKI Jakarta
   image: {fileID: 0}
---- !u!114 &1650638683
+--- !u!114 &1656623054
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -7449,16 +7487,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  idSoal: 37
-  typeSoal: 0
-  soal: Soal No 37
-  answer: Pilihan 1
+  idSoal: 15
+  typeSoal: 1
+  soal: 'Perhatikan gambar dibawah ini!
+
+
+    Gambar diatas merupakan baju adat jawi
+    jangkep yang berasal dari daerah...'
+  answer: Sulawesi Selatan
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
-  image: {fileID: 0}
+  - Sulawesi Selatan
+  - Sulawesi Utara
+  - Jambi
+  - Jawa Tengah
+  image: {fileID: 21300000, guid: b1e45d6f8a52ee34bb60887d2a045271, type: 3}
 --- !u!114 &1669826525
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7472,16 +7514,17 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 42
-  typeSoal: 0
-  soal: Soal No 42
-  answer: Pilihan 1
+  typeSoal: 4
+  soal: Tarian Tide Tide yang berasal dari Maluku Utara merupakan salah satu tarian
+    daerah yang menggambarkan...
+  answer: Pergaulan antara Wanita dan Pria
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Pergaulan antara Wanita dan Pria
+  - Perjuangan
+  - Peperangan
+  - Panen
   image: {fileID: 0}
---- !u!114 &1671269184
+--- !u!114 &1671875461
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -7493,17 +7536,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  idSoal: 28
-  typeSoal: 0
-  soal: Soal No 28
-  answer: Pilihan 1
+  idSoal: 12
+  typeSoal: 1
+  soal: Ulos salah satu pakaian adat dari daerah...
+  answer: Sumatera Utara
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Sumatera Utara
+  - Sumatera Selatan
+  - Sulawesi Selatan
+  - Jawa Tengah
   image: {fileID: 0}
---- !u!114 &1686066467
+--- !u!114 &1672045735
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -7515,15 +7558,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  idSoal: 7
+  idSoal: 50
   typeSoal: 0
-  soal: Soal No 7
-  answer: Pilihan 1
+  soal: Rumah adat Papua Selatan disebut rumah...
+  answer: Rumah Karapao
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Rumah Jew
+  - Rumah Hanoi
+  - Rumah Karapao
+  - Rumah Kariwari
   image: {fileID: 0}
 --- !u!114 &1692945361
 MonoBehaviour:
@@ -7538,14 +7581,81 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 6
-  typeSoal: 0
-  soal: Soal No 6
-  answer: Pilihan 1
+  typeSoal: 2
+  soal: Berikut ini adalah alat musik tradisional yang berasal dari Sulawesi Selatan
+    yaitu...
+  answer: Basing Bugis
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Kasapi
+  - Kecapi
+  - Basing Bugis
+  - Popandi
+  image: {fileID: 0}
+--- !u!114 &1694145826
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 7
+  typeSoal: 0
+  soal: "Berikut ini adalah rumah adat yang berasal dari provinsi Jambi\u2026"
+  answer: Panggung
+  pilihan:
+  - Krong Bade
+  - Bolon
+  - Rumah Gadang
+  - Panggung
+  image: {fileID: 0}
+--- !u!114 &1700857077
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 20
+  typeSoal: 0
+  soal: Rumah adat Betawi disebut rumah ...
+  answer: Rumah Kebaya
+  pilihan:
+  - Rumah Joglo
+  - Rumah Kebaya
+  - Rumah Panggung
+  - Rumah Tongkonan
+  image: {fileID: 0}
+--- !u!114 &1702373548
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 13
+  typeSoal: 1
+  soal: Baju kurung pakaian adat yang berasal dari provinsi...
+  answer: Jambi
+  pilihan:
+  - Bangka Belitung
+  - Jambi
+  - Lampung
+  - DKI Jakarta
   image: {fileID: 0}
 --- !u!114 &1707704789
 MonoBehaviour:
@@ -7560,36 +7670,15 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 7
-  typeSoal: 0
-  soal: Soal No 7
-  answer: Pilihan 1
+  typeSoal: 4
+  soal: Tari Topeng dipentaskan dalam berapa orang yang mengenakan beberapa jenis
+    topeng berjumlah...
+  answer: 4 orang
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
-  image: {fileID: 0}
---- !u!114 &1716322090
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  idSoal: 20
-  typeSoal: 0
-  soal: Soal No 20
-  answer: Pilihan 1
-  pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - 4 orang
+  - 6 orang
+  - 5 orang
+  - 10 orang
   image: {fileID: 0}
 --- !u!114 &1722462181
 MonoBehaviour:
@@ -7604,15 +7693,37 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 28
-  typeSoal: 0
-  soal: Soal No 28
-  answer: Pilihan 1
+  typeSoal: 2
+  soal: Alat musik gendang beleq dimainkan dengan cara...
+  answer: Dipukul
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Dipukul
+  - Ditambah
+  - Ditiup
+  - Digoyang
   image: {fileID: 0}
+--- !u!114 &1722883361
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 4
+  typeSoal: 0
+  soal: "Perhatikan gambar di bawah ini!\nRumah adat di atas berasal dari suku\u2026"
+  answer: Toraja
+  pilihan:
+  - Jawa
+  - Batak
+  - Sunda
+  - Toraja
+  image: {fileID: 21300000, guid: 2e498a1fe1c84044f9e18b0e5e0dafa8, type: 3}
 --- !u!114 &1727758445
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7626,14 +7737,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 31
-  typeSoal: 0
-  soal: Soal No 31
-  answer: Pilihan 1
+  typeSoal: 4
+  soal: Tari Kecak, Tari Pendet, dan Tari Legong berasal dari daerah...
+  answer: Bali
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Maluku
+  - Bali
+  - Jawa Tengah
+  - Riau
   image: {fileID: 0}
 --- !u!114 &1728650695
 MonoBehaviour:
@@ -7648,14 +7759,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 30
-  typeSoal: 0
-  soal: Soal No 30
-  answer: Pilihan 1
+  typeSoal: 4
+  soal: Tari Kabasaran berasal dari daerah...
+  answer: Sulawesi Utara
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Maluku
+  - Sulawesi Utara
+  - Sumatera Selatan
+  - Sulawesi Tengah
   image: {fileID: 0}
 --- !u!114 &1737250944
 MonoBehaviour:
@@ -7670,14 +7781,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 12
-  typeSoal: 0
-  soal: Soal No 12
-  answer: Pilihan 1
+  typeSoal: 2
+  soal: Sasando dimainkan dengan cara...
+  answer: Dipetik
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Dipukul
+  - Dipetik
+  - Ditiup
+  - Digoyang
   image: {fileID: 0}
 --- !u!1 &1739388643
 GameObject:
@@ -7814,6 +7925,28 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1739388643}
   m_CullTransparentMesh: 1
+--- !u!114 &1747358290
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 30
+  typeSoal: 0
+  soal: Rumah adat Bengkulu disebut rumah ...
+  answer: Rumah Bubungan Lima
+  pilihan:
+  - Rumah Panggung
+  - Rumah Limas
+  - Rumah Bubungan Lima
+  - Rumah Joglo
+  image: {fileID: 0}
 --- !u!114 &1752877404
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7827,14 +7960,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 19
-  typeSoal: 0
-  soal: Soal No 19
-  answer: Pilihan 1
+  typeSoal: 3
+  soal: Dibawah ini makanan khas Lampung yang tidak benar yaitu...
+  answer: bejak enjak
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - gagodoh
+  - pisro
+  - bubur mengguh
+  - bejak enjak
   image: {fileID: 0}
 --- !u!114 &1756500661
 MonoBehaviour:
@@ -7849,14 +7982,59 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 4
-  typeSoal: 0
-  soal: Soal No 4
-  answer: Pilihan 1
+  typeSoal: 3
+  soal: Gambar dibawah ini yang merupakan makan khas yang berasal dari Sulawesi Selatan
+    adalah ...
+  answer: Sup Konro
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Kepiting Soka
+  - Bubur Manado
+  - Palumara
+  - Sup Konro
+  image: {fileID: 0}
+--- !u!114 &1756560326
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 22
+  typeSoal: 1
+  soal: "Pakaian adat Pesa\u2019an dari daerah Madura, Jawa Timur mencerminkan karakter..."
+  answer: Berani, kuat, dan tegas
+  pilihan:
+  - Berani, kuat, dan tegas
+  - Cantik
+  - Berani
+  - Cantik dan Gagah
+  image: {fileID: 0}
+--- !u!114 &1760740712
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 8
+  typeSoal: 1
+  soal: "Berikut ini adalah pakian adat yang berasal dari provinsi Kalimatan Timur\u2026"
+  answer: Kustin
+  pilihan:
+  - Kustin
+  - Pattuqduq
+  - Laku tepu
+  - Upak Nyamu
   image: {fileID: 0}
 --- !u!1 &1762345657
 GameObject:
@@ -7952,11 +8130,17 @@ MonoBehaviour:
   - {fileID: 1248812115}
   - {fileID: 55574007}
   - {fileID: 1892854549}
-  - {fileID: 643946465}
+  - {fileID: 1788011917}
   numberOfLevel: 50
+  numberOfList: 4
   activeLevel: 0
-  typeSoal: 0
---- !u!114 &1768284873
+  listSprite:
+  - {fileID: 21300000, guid: 79e57d52b480e1a47946e8f898678ce3, type: 3}
+  - {fileID: 21300000, guid: d3d54dcd2770bbb49a8d7c8229c65e29, type: 3}
+  - {fileID: 21300000, guid: 418bfcf80fb8d6f4bb57a962647dc454, type: 3}
+  - {fileID: 21300000, guid: 286963f2939696c4c83ad05e6672e087, type: 3}
+  typeSoal: 4
+--- !u!114 &1774199556
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -7969,14 +8153,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 14
-  typeSoal: 0
-  soal: Soal No 14
-  answer: Pilihan 1
+  typeSoal: 1
+  soal: Kebaya encim pakaian adat dari daerah...
+  answer: DKI Jakarta
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - DKI Jakarta
+  - Sulawesi Selatan
+  - Lampung
+  - Jambi
   image: {fileID: 0}
 --- !u!114 &1777833604
 MonoBehaviour:
@@ -7991,16 +8175,16 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 30
-  typeSoal: 0
-  soal: Soal No 30
-  answer: Pilihan 1
+  typeSoal: 3
+  soal: Ikan asar adalah makanan khas dari daerah...
+  answer: Aceh
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Maluku
+  - Maluku utara
+  - Jawa barat
+  - Aceh
   image: {fileID: 0}
---- !u!114 &1778925769
+--- !u!114 &1788011917
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -8012,81 +8196,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  idSoal: 48
-  typeSoal: 0
-  soal: Soal No 48
-  answer: Pilihan 1
+  idSoal: 50
+  typeSoal: 4
+  soal: Tari Rnup Lampuan berasal dari daerah...
+  answer: Aceh
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
-  image: {fileID: 0}
---- !u!114 &1786071385
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  idSoal: 43
-  typeSoal: 0
-  soal: Soal No 43
-  answer: Pilihan 1
-  pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
-  image: {fileID: 0}
---- !u!114 &1790252904
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  idSoal: 39
-  typeSoal: 0
-  soal: Soal No 39
-  answer: Pilihan 1
-  pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
-  image: {fileID: 0}
---- !u!114 &1791452565
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  idSoal: 29
-  typeSoal: 0
-  soal: Soal No 29
-  answer: Pilihan 1
-  pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Aceh
+  - Riau
+  - Jambi
+  - Bali
   image: {fileID: 0}
 --- !u!114 &1795590166
 MonoBehaviour:
@@ -8101,14 +8219,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 42
-  typeSoal: 0
-  soal: Soal No 42
-  answer: Pilihan 1
+  typeSoal: 2
+  soal: Alat musik Serunai berasal dari daerah...
+  answer: Sumatera Barat
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Bali
+  - Sumatera Barat
+  - Papua
+  - Kalimantan Selatan
   image: {fileID: 0}
 --- !u!114 &1799596856
 MonoBehaviour:
@@ -8123,14 +8241,36 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 33
-  typeSoal: 0
-  soal: Soal No 33
-  answer: Pilihan 1
+  typeSoal: 4
+  soal: Tari Kancet Ledo/Tari Gong berasal dari daerah...
+  answer: Kalimantan Selatan
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Kalimantan Timur
+  - Kalimantan Selatan
+  - Kalimantan Utara
+  - Kalimantan Barat
+  image: {fileID: 0}
+--- !u!114 &1816670674
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 5
+  typeSoal: 0
+  soal: "Rumah Bolon adalah rumah adat dari daerah\u2026"
+  answer: Sumatera Utara
+  pilihan:
+  - Bangka Belitung
+  - Sumatera Utara
+  - Bali
+  - Papua
   image: {fileID: 0}
 --- !u!114 &1824026114
 MonoBehaviour:
@@ -8145,14 +8285,17 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 26
-  typeSoal: 0
-  soal: Soal No 26
-  answer: Pilihan 1
+  typeSoal: 4
+  soal: Tari Reog Ponorogo merupakan tari yang berasal dari Jawa Timur, tari ini
+    menceritakan tentang...
+  answer: Tari ini mengisahkan bagaimana Ki Ajeng Mutu melawan Raja Kertabhumi dan
+    seisi kerajaannya
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Tari ini mengisahkan bagaimana Ki Ajeng Mutu melawan Raja Kertabhumi dan seisi
+    kerajaannya
+  - Tari ini mengisahkan bagaimana berbicara dengan roh
+  - Tentang penjajahan
+  - Menceritakan pergaulan remaja
   image: {fileID: 0}
 --- !u!114 &1824578896
 MonoBehaviour:
@@ -8167,15 +8310,60 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 40
-  typeSoal: 0
-  soal: Soal No 40
-  answer: Pilihan 1
+  typeSoal: 3
+  soal: Gohu Ika khas dari daerah...
+  answer: Maluku Utara
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Maluku Utara
+  - Banten
+  - Riau
+  - Bali
   image: {fileID: 0}
+--- !u!114 &1833686854
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 48
+  typeSoal: 0
+  soal: Rumah adat Papua Barat disebut rumah...
+  answer: Rumah Mod Aki Aksa
+  pilihan:
+  - Rumah Limas
+  - Rumah Rakit
+  - Rumah Tongkonan
+  - Rumah Mod Aki Aksa
+  image: {fileID: 0}
+--- !u!114 &1834754124
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 1
+  typeSoal: 1
+  soal: "Perhatikan Gambar dibawah ini!\nPakaian adat seperti gambar disamping berasal
+    dari provinsi\u2026"
+  answer: Jawa Barat
+  pilihan:
+  - Lampung
+  - DKI Jakarta
+  - Jawa Barat
+  - Jawa Tengah
+  image: {fileID: 21300000, guid: 63845431361223640963023838e4bfd2, type: 3}
 --- !u!114 &1839482725
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -8189,14 +8377,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 17
-  typeSoal: 0
-  soal: Soal No 17
-  answer: Pilihan 1
+  typeSoal: 4
+  soal: Tari topeng merupakan tarian dari daerah...
+  answer: Jawa Tengah
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - DKI Jakarta
+  - Kalimantan
+  - Aceh
+  - Jawa Tengah
   image: {fileID: 0}
 --- !u!114 &1850144850
 MonoBehaviour:
@@ -8211,36 +8399,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 18
-  typeSoal: 0
-  soal: Soal No 18
-  answer: Pilihan 1
+  typeSoal: 2
+  soal: Suling dimainkan dengan cara...
+  answer: Ditiup
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
-  image: {fileID: 0}
---- !u!114 &1850744413
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  idSoal: 40
-  typeSoal: 0
-  soal: Soal No 40
-  answer: Pilihan 1
-  pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Ditiup
+  - Dipetik
+  - Digoyang
+  - Dipukul
   image: {fileID: 0}
 --- !u!114 &1856049080
 MonoBehaviour:
@@ -8255,14 +8421,38 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 2
-  typeSoal: 0
-  soal: Soal No 2
-  answer: Pilihan 1
+  typeSoal: 3
+  soal: Makanan ini sangat digemari oleh masyarakat Aceh karena berbahan dasar mie
+    yang dimasak menggunakan bumbu rempah-rempah khas Aceh dan disajikan dengan sambal
+    dan krupuk. Makanan khas Aceh tersebut adalah...
+  answer: Mie Aceh
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Mie kocok
+  - Mie Aceh
+  - Mie ayam
+  - Mie bakso
+  image: {fileID: 0}
+--- !u!114 &1861222412
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 42
+  typeSoal: 1
+  soal: Baju adat Payas Agung berasal dari daerah...
+  answer: Bali
+  pilihan:
+  - Aceh
+  - Bali
+  - Jambi
+  - Riau
   image: {fileID: 0}
 --- !u!114 &1864355106
 MonoBehaviour:
@@ -8277,14 +8467,16 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 1
-  typeSoal: 0
-  soal: Soal No 1
-  answer: Pilihan 1
+  typeSoal: 3
+  soal: Saat berkunjung ke Papua, saya menikmati makanan khas Papua yang terbuat
+    dari tepung sagu dan diolah menggunakan kuah ikan. Makanan tradisional tersebut
+    bernama...
+  answer: Papeda
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Kerak telor
+  - Jojorong
+  - Papeda
+  - Ketoprak
   image: {fileID: 0}
 --- !u!114 &1867863023
 MonoBehaviour:
@@ -8299,16 +8491,16 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 4
-  typeSoal: 0
-  soal: Soal No 4
-  answer: Pilihan 1
+  typeSoal: 4
+  soal: Tari kipas berasal dari daerah...
+  answer: Sulawesi Selatan
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Sumatra Utara
+  - Sulawesi Selatan
+  - NTT
+  - Kalimantan Utara
   image: {fileID: 0}
---- !u!114 &1871778103
+--- !u!114 &1870475371
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -8320,37 +8512,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  idSoal: 13
-  typeSoal: 0
-  soal: Soal No 13
-  answer: Pilihan 1
+  idSoal: 35
+  typeSoal: 1
+  soal: Baju adat Betabur berasal dari daerah...
+  answer: Lampung
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
-  image: {fileID: 0}
---- !u!114 &1873866921
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  idSoal: 50
-  typeSoal: 0
-  soal: Soal No 50
-  answer: Pilihan 1
-  pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Lampung
+  - Banten
+  - Bengkulu
+  - Riau
   image: {fileID: 0}
 --- !u!114 &1892854549
 MonoBehaviour:
@@ -8365,14 +8535,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 49
-  typeSoal: 0
-  soal: Soal No 49
-  answer: Pilihan 1
+  typeSoal: 4
+  soal: Tari Awaijale Rilejale, Tari Sajojo, dan Tari Yospan berasal dari daerah...
+  answer: Papua
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Papua
+  - Jawa Barat
+  - Jawa Timur
+  - Jawa Tengah
   image: {fileID: 0}
 --- !u!114 &1897383487
 MonoBehaviour:
@@ -8387,14 +8557,36 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 19
-  typeSoal: 0
-  soal: Soal No 19
-  answer: Pilihan 1
+  typeSoal: 4
+  soal: Tari zapin berasal dari daerah...
+  answer: Riau
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Jawa Barat
+  - Riau
+  - Sumatera Utara
+  - NTT
+  image: {fileID: 0}
+--- !u!114 &1903458368
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 11
+  typeSoal: 1
+  soal: Pakaian adat dari daerah Maluku adalah...
+  answer: Baju cele
+  pilihan:
+  - Kebaya jawa
+  - Baju cele
+  - Baju bodo
+  - Pakaian mantere lamo
   image: {fileID: 0}
 --- !u!114 &1922127030
 MonoBehaviour:
@@ -8409,16 +8601,16 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 36
-  typeSoal: 0
-  soal: Soal No 36
-  answer: Pilihan 1
+  typeSoal: 4
+  soal: Tari Indung, Tari Piring, dan Tari Lilin berasal dari daerah...
+  answer: Sumatera Barat
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Sumatera Barat
+  - Sumatera Selatan
+  - Sumatera Utara
+  - Kepulauan Riau
   image: {fileID: 0}
---- !u!114 &1955056048
+--- !u!114 &1959594069
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -8430,15 +8622,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  idSoal: 30
+  idSoal: 26
   typeSoal: 0
-  soal: Soal No 30
-  answer: Pilihan 1
+  soal: "Bagaimana bentuk rumah adat Joglo yang berasal dari daerah Jawa Tengah\u2026"
+  answer: Berbentuk limas atau gepak
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Dengan ciri atap berbentuk piramida yang mengacu pada bentuk gunung
+  - Panggung
+  - Berbentuk limas atau gepak
+  - Berbentuk bundar
   image: {fileID: 0}
 --- !u!114 &1962910701
 MonoBehaviour:
@@ -8453,16 +8645,16 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 22
-  typeSoal: 0
-  soal: Soal No 22
-  answer: Pilihan 1
+  typeSoal: 3
+  soal: Tahu petis adalah makanan khas dari daerah...
+  answer: Semarang
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Papua
+  - Sulawesi Selatan
+  - Semarang
+  - Aceh
   image: {fileID: 0}
---- !u!114 &1966240979
+--- !u!114 &1967499055
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -8474,15 +8666,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  idSoal: 24
+  idSoal: 43
   typeSoal: 0
-  soal: Soal No 24
-  answer: Pilihan 1
+  soal: Rumah adat Souraja berasal dari daerah...
+  answer: Sulawesi Tengah
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Riau
+  - Sulawesi Tengah
+  - Kalimantan Timur
+  - Papua
   image: {fileID: 0}
 --- !u!114 &1975418942
 MonoBehaviour:
@@ -8497,14 +8689,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 5
-  typeSoal: 0
-  soal: Soal No 5
-  answer: Pilihan 1
+  typeSoal: 3
+  soal: Daerah pembuatan makanan khas daerah rendang yaitu...
+  answer: Sumatra
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Kalimantan Timur
+  - Sulawesi Selatan
+  - Sumatra
+  - Sumatera Selatan
   image: {fileID: 0}
 --- !u!114 &1995290825
 MonoBehaviour:
@@ -8519,14 +8711,36 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 49
-  typeSoal: 0
-  soal: Soal No 49
-  answer: Pilihan 1
+  typeSoal: 2
+  soal: Alat musik Arumba berasal dari daerah...
+  answer: Kalimantan Selatan
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Jawa Barat
+  - Sumatera Barat
+  - Papua
+  - Kalimantan Selatan
+  image: {fileID: 0}
+--- !u!114 &1995322802
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 41
+  typeSoal: 0
+  soal: Rumah adat Dulohupa berasal dari daerah...
+  answer: Nusa Tenggara Timur
+  pilihan:
+  - Gorontalo
+  - Bengkulu
+  - Papua
+  - Nusa Tenggara Timur
   image: {fileID: 0}
 --- !u!114 &2002482861
 MonoBehaviour:
@@ -8541,14 +8755,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 26
-  typeSoal: 0
-  soal: Soal No 26
-  answer: Pilihan 1
+  typeSoal: 3
+  soal: Sokkol ubi adalah makanan khas dari daerah...
+  answer: Sulawesi Selatan
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Sulawesi Barat
+  - Sulawesi Selatan
+  - Aceh
+  - Jawa Tengah
   image: {fileID: 0}
 --- !u!114 &2004706437
 MonoBehaviour:
@@ -8563,14 +8777,15 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 12
-  typeSoal: 0
-  soal: Soal No 12
-  answer: Pilihan 1
+  typeSoal: 4
+  soal: Tari pakarena merupakan tari khas Sulawesi. Tari ini melambangkan kecantikan
+    Sulawesi. Tari ini sangat dikenal dengan propertinya, yaitu...
+  answer: Kipas
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Kipas
+  - Keris
+  - Cundrik
+  - Tameng
   image: {fileID: 0}
 --- !u!1 &2023305285
 GameObject:
@@ -8798,14 +9013,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 40
-  typeSoal: 0
-  soal: Soal No 40
-  answer: Pilihan 1
+  typeSoal: 4
+  soal: Tari Caci dan Tari Lego Lego berasal dari daerah...
+  answer: Nusa Tenggara Timur
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Nusa Tenggara Timur
+  - Sulawesi Barat
+  - Sumatera Utara
+  - Kalimantan Selatan
   image: {fileID: 0}
 --- !u!114 &2033367869
 MonoBehaviour:
@@ -8820,36 +9035,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 28
-  typeSoal: 0
-  soal: Soal No 28
-  answer: Pilihan 1
+  typeSoal: 4
+  soal: Tari dana-dana berasal dari daerah...
+  answer: Gorontalo
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
-  image: {fileID: 0}
---- !u!114 &2040013184
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  idSoal: 2
-  typeSoal: 0
-  soal: Soal No 2
-  answer: Pilihan 1
-  pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Gorontalo
+  - Sulawesi Selatan
+  - DKI Jakarta
+  - Aceh
   image: {fileID: 0}
 --- !u!114 &2042402209
 MonoBehaviour:
@@ -8864,16 +9057,17 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 8
-  typeSoal: 0
-  soal: Soal No 8
-  answer: Pilihan 1
+  typeSoal: 3
+  soal: Beberapa daerah mempunyai makanan tradisional bernama soto. Soto Banjar berasal
+    dari daerah...
+  answer: Kalimantan Selatan
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Sumatra Selatan
+  - Aceh
+  - Sulawesi Selatan
+  - Kalimantan Selatan
   image: {fileID: 0}
---- !u!114 &2045567346
+--- !u!114 &2044283811
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -8885,15 +9079,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  idSoal: 30
-  typeSoal: 0
-  soal: Soal No 30
-  answer: Pilihan 1
+  idSoal: 25
+  typeSoal: 1
+  soal: Apa nama pakaian adat ini merupakan busana adat perempuan yang terdiri dari
+    ikat kepala yang terbuat dari panda.
+  answer: Pakaian Nggembe
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - "Pakaian Ta\u2019a"
+  - Pakaian Kustin
+  - Pakaian Nggembe
+  - Pakaian Kebaya
   image: {fileID: 0}
 --- !u!114 &2048409900
 MonoBehaviour:
@@ -8908,14 +9103,36 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 25
-  typeSoal: 0
-  soal: Soal No 25
-  answer: Pilihan 1
+  typeSoal: 3
+  soal: Berikut ini yang termasuk makanan tradisional dari Nusa Tenggara Barat adalah...
+  answer: Ayam Taliwang
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Ayam Taliwang
+  - Soto Banjar
+  - Ikan bakar
+  - Nasi uduk
+  image: {fileID: 0}
+--- !u!114 &2051717922
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  idSoal: 10
+  typeSoal: 0
+  soal: "Dibawah ini yang termasuk rumah adat dari Suku Tojara\u2026"
+  answer: Tongkonan
+  pilihan:
+  - Tongkonan
+  - Badui
+  - Bolon
+  - Rumah Gadang
   image: {fileID: 0}
 --- !u!114 &2053952641
 MonoBehaviour:
@@ -8930,14 +9147,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 16
-  typeSoal: 0
-  soal: Soal No 16
-  answer: Pilihan 1
+  typeSoal: 3
+  soal: Rujak cingur adalah makanan khas dari...
+  answer: Jawa Timur
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Jawa Barat
+  - Jawa Tengah
+  - Jawa Timur
+  - Yogyakarta
   image: {fileID: 0}
 --- !u!1 &2056511285
 GameObject:
@@ -8993,72 +9210,31 @@ MonoBehaviour:
   gTari: {fileID: 1762345657}
   gAlatMusik: {fileID: 864881180}
   gMakanan: {fileID: 104209188}
---- !u!114 &2069070959
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  idSoal: 46
-  typeSoal: 0
-  soal: Soal No 46
-  answer: Pilihan 1
-  pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
-  image: {fileID: 0}
---- !u!114 &2069163232
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  idSoal: 41
-  typeSoal: 0
-  soal: Soal No 41
-  answer: Pilihan 1
-  pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
-  image: {fileID: 0}
---- !u!114 &2070143115
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  idSoal: 31
-  typeSoal: 0
-  soal: Soal No 31
-  answer: Pilihan 1
-  pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
-  image: {fileID: 0}
+  sRumah:
+  - {fileID: 21300000, guid: 8df85c9d852197447a8ea44355af487d, type: 3}
+  - {fileID: 21300000, guid: 2e498a1fe1c84044f9e18b0e5e0dafa8, type: 3}
+  - {fileID: 21300000, guid: d42f8c4f1db8e9d44966c179463670c1, type: 3}
+  - {fileID: 21300000, guid: baa750bb48f5e184686cfcf5a6fe988a, type: 3}
+  - {fileID: 21300000, guid: e7481a8399f6780428c1b6cfaf14cfba, type: 3}
+  sBaju:
+  - {fileID: 21300000, guid: 63845431361223640963023838e4bfd2, type: 3}
+  - {fileID: 21300000, guid: df997419c658bf0488519ba92632c551, type: 3}
+  - {fileID: 21300000, guid: 2e2574e57f7701c4b928a57b18552e75, type: 3}
+  - {fileID: 21300000, guid: b1e45d6f8a52ee34bb60887d2a045271, type: 3}
+  sTari:
+  - {fileID: 21300000, guid: 79e57d52b480e1a47946e8f898678ce3, type: 3}
+  - {fileID: 21300000, guid: d3d54dcd2770bbb49a8d7c8229c65e29, type: 3}
+  - {fileID: 21300000, guid: 418bfcf80fb8d6f4bb57a962647dc454, type: 3}
+  - {fileID: 21300000, guid: 286963f2939696c4c83ad05e6672e087, type: 3}
+  sAlatMusik:
+  - {fileID: 21300000, guid: 9a8a624cd9fe74c4a9cbf5f07a3e291e, type: 3}
+  - {fileID: 21300000, guid: a1ffec5f2e20351419c3be28b07525fa, type: 3}
+  - {fileID: 21300000, guid: 8437175e15e351e4dafc7c7aa844d54a, type: 3}
+  sMakanan:
+  - {fileID: 21300000, guid: 72531fef30f61624e8cbc4678e9db55a, type: 3}
+  - {fileID: 21300000, guid: 335de3ca22609f44da9cde59e2270ff1, type: 3}
+  - {fileID: 21300000, guid: feac846b88eefc94ba55bde1b4351f37, type: 3}
+  - {fileID: 21300000, guid: aff1ae9c5f3a9ed4f9750cca3a1bdb69, type: 3}
 --- !u!114 &2074747945
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -9072,36 +9248,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 44
-  typeSoal: 0
-  soal: Soal No 44
-  answer: Pilihan 1
+  typeSoal: 4
+  soal: Berapakah jumlah penari laki-laki dan perempuan dalam Tarian Saureka Reka...
+  answer: 4 Laki-laki dan 4 Perempuan
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
-  image: {fileID: 0}
---- !u!114 &2079894844
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  idSoal: 14
-  typeSoal: 0
-  soal: Soal No 14
-  answer: Pilihan 1
-  pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - 4 Laki-laki dan 4 Perempuan
+  - 5 Laki-laki dan 5 Perempuan
+  - 6 Laki-laki dan 6 Perempuan
+  - 7 Laki-laki dan 7 Perempuan
   image: {fileID: 0}
 --- !u!114 &2093703170
 MonoBehaviour:
@@ -9116,14 +9270,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 8
-  typeSoal: 0
-  soal: Soal No 8
-  answer: Pilihan 1
+  typeSoal: 4
+  soal: Jenis tari berikut ini yang mengisahkan tentang cinta kasih yaitu tari...
+  answer: Tari saudati
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Tari jaipong
+  - Tari saudati
+  - Tari inai
+  - Tari serampang 12
   image: {fileID: 0}
 --- !u!114 &2096228380
 MonoBehaviour:
@@ -9138,16 +9292,16 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 23
-  typeSoal: 0
-  soal: Soal No 23
-  answer: Pilihan 1
+  typeSoal: 4
+  soal: Tari andun berasal dari daerah...
+  answer: Jawa Barat
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - DKI Jakarta
+  - Jawa Barat
+  - Jawa Tengah
+  - Bengkulu
   image: {fileID: 0}
---- !u!114 &2119873246
+--- !u!114 &2132337456
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -9159,37 +9313,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  idSoal: 36
-  typeSoal: 0
-  soal: Soal No 36
-  answer: Pilihan 1
+  idSoal: 27
+  typeSoal: 1
+  soal: Baju adat Gorontalo memiliki 4 jenis warna yaitu...
+  answer: Kuning, ungu, dan abu
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
-  image: {fileID: 0}
---- !u!114 &2128446329
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 157011afd46401142b2b2294532e88c2, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  idSoal: 4
-  typeSoal: 0
-  soal: Soal No 4
-  answer: Pilihan 1
-  pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Kuning, ungu, dan abu
+  - Merah, hitam, dan kuning
+  - Kuning, coklat, dan abu
+  - Hijau, merah, dan kuning keemasan
   image: {fileID: 0}
 --- !u!114 &2134930403
 MonoBehaviour:
@@ -9204,12 +9336,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   idSoal: 32
-  typeSoal: 0
-  soal: Soal No 32
-  answer: Pilihan 1
+  typeSoal: 3
+  soal: Gulai makanan khas dari daerah...
+  answer: Riau
   pilihan:
-  - Pilihan 1
-  - Pilihan 2
-  - Pilihan 3
-  - Pilihan 4
+  - Riau
+  - Jambi
+  - Aceh
+  - Bali
   image: {fileID: 0}

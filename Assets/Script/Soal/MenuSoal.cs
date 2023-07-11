@@ -24,15 +24,30 @@ public class MenuSoal : MonoBehaviour
     [SerializeField] GameObject gTari;
     [SerializeField] GameObject gAlatMusik;
     [SerializeField] GameObject gMakanan;
+    [Header("Image")]
+    [SerializeField] public List<Sprite> sRumah = null;
+    [SerializeField] public List<Sprite> sBaju = null;
+    [SerializeField] public List<Sprite> sTari = null;
+    [SerializeField] public List<Sprite> sAlatMusik = null;
+    [SerializeField] public List<Sprite> sMakanan = null;
+
+    private static MenuSoal instance;
 
     void Awake()
     {
+        if (instance == null)
+        {
+            instance = this;
+        }
+
         Rumah.GetComponent<Button>().onClick.AddListener(delegate { onClick(gRumah); });
         Baju.GetComponent<Button>().onClick.AddListener(delegate { onClick(gBaju); });
         Tari.GetComponent<Button>().onClick.AddListener(delegate { onClick(gTari); });
         AlatMusik.GetComponent<Button>().onClick.AddListener(delegate { onClick(gAlatMusik); });
         Makanan.GetComponent<Button>().onClick.AddListener(delegate { onClick(gMakanan); });
     }
+
+    public static MenuSoal get() { return instance; }
 
     void onClick(GameObject g)
     {
