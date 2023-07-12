@@ -108,8 +108,8 @@ public class TileSpawn : MonoBehaviour
     {
         level = m.levelSetting.dif;
         ori = m.levelSetting.oriImage;
-        preview.sprite = ori;
-        previewFinish.sprite = ori;
+        preview.sprite = m.levelSetting.oriImage;
+        previewFinish.sprite = m.levelSetting.oriImage;
         originalImage = m.levelSetting.image;
         judul.text = m.levelSetting.judul;
         penjelasan.text = m.levelSetting.penjelasan;

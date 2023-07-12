@@ -7,6 +7,8 @@ using UnityEngine.UI;
 public class MainSoal : MonoBehaviour
 {
     [SerializeField] TextMeshProUGUI soal;
+    [SerializeField] TextMeshProUGUI soalGambar;
+    [SerializeField] Image image;
     [SerializeField] TextMeshProUGUI[] jawaban;
     [SerializeField] TextMeshProUGUI scoreGame;
 
@@ -55,6 +57,8 @@ public class MainSoal : MonoBehaviour
     void set(Soal s)
     {
         soal.text = s.soal;
+        soalGambar.text = s.soal;
+        image.sprite =s.image;
         List<int> pilihan = new List<int> { 0, 1, 2, 3 };
         for (int i = 0; i < s.pilihan.Length; i++)
         {

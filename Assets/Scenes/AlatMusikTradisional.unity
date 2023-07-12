@@ -7142,10 +7142,10 @@ RectTransform:
   m_Father: {fileID: 1683991608}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0.000045776}
-  m_SizeDelta: {x: 1920, y: 1080}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1671387531
 MonoBehaviour:
@@ -7200,8 +7200,18 @@ MonoBehaviour:
   level: 3
   levelSetting:
     dif: 0
-    judul: 
-    penjelasan: 
+    judul: Kecapi
+    penjelasan: 'Kecapi termasuk sebagai alat musik kordofon yang berasal dari Jawa
+      Barat. Kordofon merupakan alat musik yang mengeluarkan suara dari sebuah senar
+      atau dawai. Salah satu alat music tradisonal yang berfungsi untuk mengharmoniskan
+      atau menyelaraskan anatara melodi dan ritme.
+
+      Kecapi sendiri merupakan
+      alat musik tradisional yang berasal dari Sunda yang dimainkan sebagai alat
+      musik utama dalam Tembang Sunda atau Mamaos Cianjuran dan Kacapi suling. Cara
+      memainkan alat musik kecapi adalah dengan dipetik bagian senarnya.
+
+'
     oriImage: {fileID: 0}
     image: {fileID: 0}
 --- !u!1 &1683991604
@@ -7252,10 +7262,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_UiScaleMode: 0
+  m_UiScaleMode: 1
   m_ReferencePixelsPerUnit: 100
   m_ScaleFactor: 1
-  m_ReferenceResolution: {x: 800, y: 600}
+  m_ReferenceResolution: {x: 2160, y: 3840}
   m_ScreenMatchMode: 0
   m_MatchWidthOrHeight: 0
   m_PhysicalUnit: 3
@@ -7874,10 +7884,13 @@ MonoBehaviour:
   level: 1
   levelSetting:
     dif: 0
-    judul: 
-    penjelasan: 
-    oriImage: {fileID: 0}
-    image: {fileID: 0}
+    judul: Gong
+    penjelasan: Kamu tentu sudah tidak asing dengan alat musik tradisional gong.
+      Gong merupakan salah satu alat musik tradisional Jawa Tengah. Gong termasuk
+      ke dalam alat musik idiofon, yang maksudnya menghasilkan suara dari getaran
+      keseluruhan alat musik itu sendiri.
+    oriImage: {fileID: 21300000, guid: 3840704d140099a49a1ded84e577c587, type: 3}
+    image: {fileID: 2800000, guid: 3840704d140099a49a1ded84e577c587, type: 3}
 --- !u!114 &1742671810
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7893,10 +7906,14 @@ MonoBehaviour:
   level: 2
   levelSetting:
     dif: 0
-    judul: 
-    penjelasan: 
-    oriImage: {fileID: 0}
-    image: {fileID: 0}
+    judul: Rebab
+    penjelasan: Alat musik tradisional yang berbentuk seperti busur panah ini bernama
+      rebab. Rebab merupakan alat musik tradisional dari Jawa Barat. Rebab merupakan
+      alat musik gesek tradisonal dari kayu yang sering digunakan untuk Mengiringi
+      wayang golek hingga tarian jaipong Kamu bisa memainkan alat musik rebab dengan
+      digesek seperti biola.
+    oriImage: {fileID: 21300000, guid: 916fd542b1d2b054aa99c4f72cb4c39e, type: 3}
+    image: {fileID: 2800000, guid: 916fd542b1d2b054aa99c4f72cb4c39e, type: 3}
 --- !u!1 &1745796509
 GameObject:
   m_ObjectHideFlags: 0

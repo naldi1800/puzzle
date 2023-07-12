@@ -1636,8 +1636,21 @@ MonoBehaviour:
   level: 1
   levelSetting:
     dif: 0
-    judul: Ulee Balang
-    penjelasan: Ini baju adat 1
+    judul: Ulee Balang Dari Provinsi Aceh
+    penjelasan: 'Macam pakaian adat yang pertama Mamikos bahas berasal dari Aceh
+      yang bernama Ulee Balang. Busana yang dikenakan pria disebut Linto Baro, sedangkan
+      busana perempuan dinamai Daro Baro.
+
+      Busana adat ini terdiri dari 3
+      bagian, yakni atas, tengah dan bawah. Pada bagian atas ada penutup kepala atau
+      mahkota yang disebut meukeutop.
+
+      Meukeutop ini berbentuk lonjong ke
+      atas serta dilengkapi dengan lilitan berbahan dasar kain sutera yang bernama
+      tengkulok. Di bagian tengah ada meukasah atau baju yang tertutup pada bagian
+      kerah dan disulam atau dijahit dengan benang emas.
+
+'
     oriImage: {fileID: 21300000, guid: 9dfec677dce95154fb49aea556043346, type: 3}
     image: {fileID: 2800000, guid: 9dfec677dce95154fb49aea556043346, type: 3}
 --- !u!1 &454737383
@@ -2283,10 +2296,19 @@ MonoBehaviour:
   level: 3
   levelSetting:
     dif: 0
-    judul: 
-    penjelasan: 
-    oriImage: {fileID: 0}
-    image: {fileID: 0}
+    judul: Ulos Dari Sumatera Utara
+    penjelasan: 'Baju adat asal Sumatera Utara yang dikenal dengan nama ulos dan
+      memiliki perpaduan warna yang sangat indah serta penuh dengan makna filosofis.
+
+      Warna
+      yang paling dominan dari pakaian adat satu ini adalah merah, hitam, dan putih.
+      Ketiga warna tersebut memiliki pemaknaan akan sebuah simbol nilai yang ingin
+      disampaikan dalam sebuah pesan yang tak langsung. Salah satu pakaian adat suku
+      Batak yang dipakai oleh pria sebagai penutup kepala bulang-bulang
+
+'
+    oriImage: {fileID: 21300000, guid: d180d8d1f0cdab54996029819aaf3aaf, type: 3}
+    image: {fileID: 2800000, guid: d180d8d1f0cdab54996029819aaf3aaf, type: 3}
 --- !u!1 &613353913
 GameObject:
   m_ObjectHideFlags: 0
@@ -7000,10 +7022,10 @@ RectTransform:
   m_Father: {fileID: 1683991608}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0.000045776}
-  m_SizeDelta: {x: 1920, y: 1080}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1671387531
 MonoBehaviour:
@@ -7091,10 +7113,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_UiScaleMode: 0
+  m_UiScaleMode: 1
   m_ReferencePixelsPerUnit: 100
   m_ScaleFactor: 1
-  m_ReferenceResolution: {x: 800, y: 600}
+  m_ReferenceResolution: {x: 2160, y: 3840}
   m_ScreenMatchMode: 0
   m_MatchWidthOrHeight: 0
   m_PhysicalUnit: 3
@@ -7713,8 +7735,21 @@ MonoBehaviour:
   level: 2
   levelSetting:
     dif: 0
-    judul: Bundo Kanduang
-    penjelasan: Ini ke 2
+    judul: Bundo Kanduang Dari Sumatra Barat
+    penjelasan: 'Baju daerah dari Provinsi Sumatera Barat. Untuk baju asal Sumatera
+      Barat ini sering disebut dengan nama Padang Bundo Kanduang. Perlu diketahui
+      bahwa pakaian adat Indonesia asal Sumatera Barat ini umumnya dibagi menjadi
+      dua macam atau kategori yakni pakaian adat dan pakaian penghulu. Pakaian adat
+      wanita minang disebut juga dengan Limpahpeh rumah nan gadang
+
+      Jika dilihat
+      dari segi aksesoris yang digunakan memiliki nilai filosofi yang erat kaitannya
+      dengan seorang ibu dan keluarga. Sehingga tidak heran jika nama pakaian adatnya
+      adalah Padang Bundo Kanduang yang berarti ibu dari raja-raja. Salah satu keunikan
+      dari baju asli Sumatera Barat ini yaitu pada bagian penutup kepalanya yang
+      hampir menyerupai dua tanduk.
+
+'
     oriImage: {fileID: 21300000, guid: 5be067617a7fdee4f93f31b773fda081, type: 3}
     image: {fileID: 2800000, guid: 5be067617a7fdee4f93f31b773fda081, type: 3}
 --- !u!1 &1762757524
