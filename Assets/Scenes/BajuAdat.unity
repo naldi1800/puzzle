@@ -123,6 +123,29 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+--- !u!114 &20064770
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 8
+  levelSetting:
+    dif: 0
+    judul: Baju Adat Karung Dari Provinsi Jambi
+    penjelasan: "Baju Kurung yang terbuat dari bahan beludru, saten atau santung
+      berwarna merah, emas, biru dan warna lain, serta memakai sulaman benang emas.\r\nMotif
+      bajunya bermacam-macam mulai dari bunga tanjung, bunga teratai, bunga kangkung,
+      bunga pucuk paku atau pakis, dan bunga pucuk rebung. Untuk paduan busananya
+      adalah kain songket Jambi dengan motif serupa.\r"
+    oriImage: {fileID: 21300000, guid: 049f51708ba8d204085876a3f6cb128d, type: 3}
+    image: {fileID: 2800000, guid: 049f51708ba8d204085876a3f6cb128d, type: 3}
 --- !u!1 &26725472
 GameObject:
   m_ObjectHideFlags: 0
@@ -759,6 +782,29 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 150485249}
   m_CullTransparentMesh: 1
+--- !u!114 &175533188
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 16
+  levelSetting:
+    dif: 1
+    judul: "Baju Adat Pesa\u2019an Dari Provinsi Jawa Timur"
+    penjelasan: "Pakaian adat Jawa Timur ini asalnya dari Madura. Pesa\u2019an Madura
+      adalah pakaian khas yang dipakai oleh kaum pria. Pakaian pesa\u2019an ini mencermunkan
+      karakter yang berani, kuat dan tegas.\r\nBusana ini terdiri dari kaus bergaris
+      merah dan putih, baju luar lengan panjang warna hitam, serta celana longgar
+      yang juga berwarna hitam.\r\n\r\n"
+    oriImage: {fileID: 21300000, guid: 8f0bc33fa2940164ba26c4f8aea3eb34, type: 3}
+    image: {fileID: 2800000, guid: 8f0bc33fa2940164ba26c4f8aea3eb34, type: 3}
 --- !u!1 &231420354
 GameObject:
   m_ObjectHideFlags: 0
@@ -1029,6 +1075,36 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 256873254}
   m_CullTransparentMesh: 1
+--- !u!114 &258561021
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 5
+  levelSetting:
+    dif: 0
+    judul: Baju Adat Teluk Balanga Dari Kepulauan Riau
+    penjelasan: '
+
+      Kepulauan Riau yang memiliki baju adat bernama Teluk Belanga.
+      Bagi laki-laki baju adat ini disebut Teluk Belanga, sementara untuk perempuan
+      namanya adalah Kebaya Labuh. Model pakaiannya berkerah serta berkancing, yang
+      biasanya adalah kancing emas atau kancing permata.
+
+      Lengan bajunyanya
+      identik agak lebar, agak longgar dan memiliki panjang hingga menutup pergelangan
+      tangan.
+
+'
+    oriImage: {fileID: 21300000, guid: c77a427c7eb835244aad1e23d82ec9e2, type: 3}
+    image: {fileID: 2800000, guid: c77a427c7eb835244aad1e23d82ec9e2, type: 3}
 --- !u!1 &274638753
 GameObject:
   m_ObjectHideFlags: 0
@@ -1409,6 +1485,32 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 353831645}
   m_CullTransparentMesh: 1
+--- !u!114 &381796790
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 31
+  levelSetting:
+    dif: 3
+    judul: 'Baju Adat Cele Dari Maluku '
+    penjelasan: 'Baju Cele merupakan kain kebaya yang dikombinasikan dengan kain
+      salele di pinggang. Motif baju ini dapat berupa garis-garis geometris atau
+      kotak-kotak kecil.
+
+      Umumnya busana adat khas Maluki ini memiliki corak
+      warna merah dan memiliki nilai keceriaan, berani, dan cekatan.
+
+'
+    oriImage: {fileID: 21300000, guid: e6c5b54d6390b5443a4aef760749aa15, type: 3}
+    image: {fileID: 2800000, guid: e6c5b54d6390b5443a4aef760749aa15, type: 3}
 --- !u!1 &411853611
 GameObject:
   m_ObjectHideFlags: 0
@@ -1544,6 +1646,31 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 411853611}
   m_CullTransparentMesh: 1
+--- !u!114 &412021311
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 13
+  levelSetting:
+    dif: 1
+    judul: Kebaya Sunda Dari Provinsi Jawa Barat
+    penjelasan: 'Pakaian tradisional dari Jawa Barat adalah kebaya Sunda. Kebaya
+      Sunda umumnya memiliki warna yang cerah seperti putih, merah marun, atau ungu.
+
+      Sementara
+      itu pria Sunda menggunakan jas beludru denganwarna putih dan sulam benang emas.
+
+'
+    oriImage: {fileID: 21300000, guid: cfaafcbaf4553e540b78b7e10056251a, type: 3}
+    image: {fileID: 2800000, guid: cfaafcbaf4553e540b78b7e10056251a, type: 3}
 --- !u!1 &436329602
 GameObject:
   m_ObjectHideFlags: 0
@@ -1641,14 +1768,14 @@ MonoBehaviour:
       yang bernama Ulee Balang. Busana yang dikenakan pria disebut Linto Baro, sedangkan
       busana perempuan dinamai Daro Baro.
 
-      Busana adat ini terdiri dari 3
-      bagian, yakni atas, tengah dan bawah. Pada bagian atas ada penutup kepala atau
-      mahkota yang disebut meukeutop.
+      Busana adat ini terdiri dari 3 bagian,
+      yakni atas, tengah dan bawah. Pada bagian atas ada penutup kepala atau mahkota
+      yang disebut meukeutop.
 
-      Meukeutop ini berbentuk lonjong ke
-      atas serta dilengkapi dengan lilitan berbahan dasar kain sutera yang bernama
-      tengkulok. Di bagian tengah ada meukasah atau baju yang tertutup pada bagian
-      kerah dan disulam atau dijahit dengan benang emas.
+      Meukeutop ini berbentuk lonjong ke atas serta
+      dilengkapi dengan lilitan berbahan dasar kain sutera yang bernama tengkulok.
+      Di bagian tengah ada meukasah atau baju yang tertutup pada bagian kerah dan
+      disulam atau dijahit dengan benang emas.
 
 '
     oriImage: {fileID: 21300000, guid: 9dfec677dce95154fb49aea556043346, type: 3}
@@ -1825,7 +1952,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 1}
   m_AnchorMax: {x: 0.5, y: 1}
   m_AnchoredPosition: {x: 0, y: -15}
-  m_SizeDelta: {x: 850, y: 175}
+  m_SizeDelta: {x: 700, y: 100}
   m_Pivot: {x: 0.5, y: 1}
 --- !u!114 &483923352
 MonoBehaviour:
@@ -1998,6 +2125,32 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 498239686}
   m_CullTransparentMesh: 1
+--- !u!114 &530258472
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 4
+  levelSetting:
+    dif: 0
+    judul: Baju Adat  Aesan Gede Dari Sumatera Selatan
+    penjelasan: "Aesan gede merupakan macam pakaian adat yang berasal dari Sumatera
+      Selatan yang biasanya akan dipergunakan dalam sebuah upacara pernikahan.\r\nPenamaan
+      Aesan Gede ini berkaitan erat dengan julukan Sumatera sebagai swarnadwipa atau
+      pulau emas. Indikasi tersebut sangat tampak dari beberapa kelengkapan yang
+      dikenakan pada pakaian adat yang didominasi perhiasan bercitra keemasan.\r\nPakaian
+      adat satu ini termasuk salah satu jenis kain songket yang dulunya hanya dapat
+      dipergunakan para kaum bangsawan saja. Tak hanya itu, dalam pakaian adat ini
+      juga terdapat unsur Hindu Buddha lo.\r"
+    oriImage: {fileID: 21300000, guid: 99df114a77a3fed4da6df782ad512b67, type: 3}
+    image: {fileID: 2800000, guid: 99df114a77a3fed4da6df782ad512b67, type: 3}
 --- !u!1 &540150322
 GameObject:
   m_ObjectHideFlags: 0
@@ -2133,8 +2286,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 3, y: -20}
-  m_SizeDelta: {x: 1388, y: 660}
+  m_AnchoredPosition: {x: 25, y: -15}
+  m_SizeDelta: {x: 950, y: 430}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &562310284
 MonoBehaviour:
@@ -2204,6 +2357,51 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 562310282}
   m_CullTransparentMesh: 1
+--- !u!114 &564510694
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 12
+  levelSetting:
+    dif: 1
+    judul: 'Baju Adat Kebaya Encim Dari DKI Jakarta '
+    penjelasan: "Kebaya Encim adalah pakaian tradisional daerah yang asalnya dari
+      suku Betawi yang berada di Provinsi DKI Jakarta.\r\nKebaya Encim adalah busana
+      tradisional dari perpaduan dua kebudayaan, yakni Tionghoa dan Betawi. Selain
+      itu, ada beberapa busana adat lainnya yang juga memiliki sentuhan Tionghoa,
+      India dan Arab.\r\n\u2022\tBeberapa jenis pakaian adat Betawi antara lain adalah:\r\n\u2022\tBaju
+      Sadariah\r\n\u2022\tBaju Demang\r\n\u2022\tBaju Tikim dan Celana Pangsi\r\n"
+    oriImage: {fileID: 21300000, guid: a975010e91f671e4890819e33a40948d, type: 3}
+    image: {fileID: 2800000, guid: a975010e91f671e4890819e33a40948d, type: 3}
+--- !u!114 &572032066
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 32
+  levelSetting:
+    dif: 3
+    judul: "31.\tBaju Adat Matereen Lamo Dari Maluku Utara"
+    penjelasan: Jika merunut sejarah, konon pakaian adat ini dikenakan oleh para
+      sultan kerajaan di Maluku Utara. Secara visual, bentuk dan bagian dari Manteren
+      Lamo ini terdiri dari jas warna merah dengan bordir emas di tepiannya.
+    oriImage: {fileID: 21300000, guid: ba94f9dc0506c9d41b4b9003869d561d, type: 3}
+    image: {fileID: 2800000, guid: ba94f9dc0506c9d41b4b9003869d561d, type: 3}
 --- !u!1 &588780848
 GameObject:
   m_ObjectHideFlags: 0
@@ -2444,6 +2642,32 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 613353913}
   m_CullTransparentMesh: 1
+--- !u!114 &617501614
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 34
+  levelSetting:
+    dif: 3
+    judul: Baju Adat Koteka Dari Papua, Papua Pengunungan Dan Papua Tengah
+    penjelasan: 'Koteka adalah bagian dari pakaian adat Papua yang fungsinya untuk
+      menutupi kemaluan penduduk pria Papua. Sementara untuk bagian tubuh lain dibiarkan
+      terbuka.
+
+      Koteka memiliki makna yang secara harfiah berarti pakaian.
+      Koteka juga dikenal dengan istilah horim atau bobbe.
+
+'
+    oriImage: {fileID: 21300000, guid: ff1176ea3c61fb7438e042e42b161d19, type: 3}
+    image: {fileID: 2800000, guid: ff1176ea3c61fb7438e042e42b161d19, type: 3}
 --- !u!1 &636282940
 GameObject:
   m_ObjectHideFlags: 0
@@ -2675,6 +2899,33 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 643374242}
   m_CullTransparentMesh: 1
+--- !u!114 &650418606
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 27
+  levelSetting:
+    dif: 2
+    judul: Baju Adat  Laku Tepu Dari Provinsi Sulawesi Utara
+    penjelasan: 'Laku tepu merupakan pakaian adat Sulawesi Utara khas suku Sangihe
+      yang dikenakan oleh laki-laki dan perempuan. Ciri khas dari busana ini adalah
+      dari bentuknya yang berupa terusan panjang.
+
+      Baju yang dipakai pria akan
+      mencapai lutut dan telapak kaki, serta dilengkapi dengan ikat kepala bernama
+      paporong.
+
+'
+    oriImage: {fileID: 21300000, guid: 786218833d8314547ab6b5f5057347f8, type: 3}
+    image: {fileID: 2800000, guid: 786218833d8314547ab6b5f5057347f8, type: 3}
 --- !u!1 &690464092
 GameObject:
   m_ObjectHideFlags: 0
@@ -3269,7 +3520,7 @@ MonoBehaviour:
   m_ChildAlignment: 0
   m_StartCorner: 0
   m_StartAxis: 0
-  m_CellSize: {x: 200, y: 200}
+  m_CellSize: {x: 120, y: 120}
   m_Spacing: {x: 35, y: 25}
   m_Constraint: 1
   m_ConstraintCount: 6
@@ -3371,7 +3622,7 @@ MonoBehaviour:
   m_HandleRect: {fileID: 1404297680}
   m_Direction: 2
   m_Value: 1
-  m_Size: 0.49811321
+  m_Size: 0.5088757
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
@@ -3549,6 +3800,27 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 828487136}
   m_CullTransparentMesh: 1
+--- !u!114 &964185775
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 19
+  levelSetting:
+    dif: 1
+    judul: Baju Adat Amarasi Dari Nusa Tenggara Timur
+    penjelasan: "Pakaian adat Indonesia dari Nusa Tenggara Timur adalah Amarasi yang
+      merupakan baju tradisional suku Dawan. Baju adat Amarasi khusus dikenakan pria
+      yang terdiri dari selimut kain tenun ikat dan Baju Bodo.\r"
+    oriImage: {fileID: 21300000, guid: 3d804aa52e5fb2840a01220d4343baf2, type: 3}
+    image: {fileID: 2800000, guid: 3d804aa52e5fb2840a01220d4343baf2, type: 3}
 --- !u!1 &975979349
 GameObject:
   m_ObjectHideFlags: 0
@@ -4002,11 +4274,43 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 077799404ed58854a971e9e35d984434, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  numberOfLevel: 3
+  numberOfLevel: 35
   mainLevels:
   - {fileID: 439855768}
   - {fileID: 1756626258}
   - {fileID: 606520294}
+  - {fileID: 530258472}
+  - {fileID: 258561021}
+  - {fileID: 1797719856}
+  - {fileID: 1766004626}
+  - {fileID: 20064770}
+  - {fileID: 1169437642}
+  - {fileID: 1232692193}
+  - {fileID: 1382303583}
+  - {fileID: 564510694}
+  - {fileID: 412021311}
+  - {fileID: 1123171572}
+  - {fileID: 1895843411}
+  - {fileID: 175533188}
+  - {fileID: 1961220197}
+  - {fileID: 1986573602}
+  - {fileID: 964185775}
+  - {fileID: 2052097962}
+  - {fileID: 1684855910}
+  - {fileID: 1375976337}
+  - {fileID: 1107311970}
+  - {fileID: 1082905908}
+  - {fileID: 2134457363}
+  - {fileID: 1140489534}
+  - {fileID: 650418606}
+  - {fileID: 1041249195}
+  - {fileID: 1481410164}
+  - {fileID: 1086632931}
+  - {fileID: 381796790}
+  - {fileID: 572032066}
+  - {fileID: 1912421794}
+  - {fileID: 617501614}
+  - {fileID: 2135516299}
   main: {fileID: 798333695}
   buttons: []
   activeLevel: 0
@@ -4025,6 +4329,39 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1041249195
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 28
+  levelSetting:
+    dif: 2
+    judul: Baju Adat Babu Ngawi Dari Provinsi Sulawesi Tenggara
+    penjelasan: 'Babu Nggawi adalah pakaian adat Indonesia asal Sulawesi Tenggara,
+      khususnya dari Suku Tolaki.
+
+      Busana tradisional ini sering dipakai dalam
+      upacara adat atau upacara resmi misalnya pernikahan ataupun acara resmi lainnya.
+
+      Pakaian
+      Babu Nggawi ini dari atasan yang sering disebut Lipa Hinoru. Sementara untuk
+      bawahannya mengenakan Roo Mendaa dengan bentuk rok panjang hingga mata kaki.
+
+      Warna
+      Lipa Hinoru selalu disesuaikan dengan warna Roo Mendaa. Contohnya jika mengenakan
+      Lipa Hinoru berwarna merah, maka Roo Mendaanya juga akan berwarna merah.
+
+'
+    oriImage: {fileID: 21300000, guid: 60e6f33f0dfc4424697249acc0abbbe3, type: 3}
+    image: {fileID: 2800000, guid: 60e6f33f0dfc4424697249acc0abbbe3, type: 3}
 --- !u!1 &1041384553
 GameObject:
   m_ObjectHideFlags: 0
@@ -4237,6 +4574,57 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1041747895}
   m_CullTransparentMesh: 1
+--- !u!114 &1082905908
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 24
+  levelSetting:
+    dif: 2
+    judul: Baju Adat Kustin Dari Kalimantan Timur
+    penjelasan: 'Kustin adalah pakaian adat asal Kalimantan Timur dari Suku Kutai
+      dan berasal dari bahasa kutai yang artinya adalah busana.
+
+      Kustin juga
+      dimaknai sebagai pakaian kebesaran yang bahan dasarnya terbuat dari beludru
+      hitam dan dipakai saat upacara pernikahan masyarakat yang strata ekonominya
+      menengah ke atas.
+
+'
+    oriImage: {fileID: 21300000, guid: 1d9117a732454a142b8ae419e71f492e, type: 3}
+    image: {fileID: 2800000, guid: 1d9117a732454a142b8ae419e71f492e, type: 3}
+--- !u!114 &1086632931
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 30
+  levelSetting:
+    dif: 2
+    judul: Baju Adat Billu Dan Makuta Dari Gorontalo
+    penjelasan: "Mukuta dan Biliu adalah sepasang busana adat Gorontalo yang pada
+      dasarnya hanya dipakai saat ada upacara pernikahan. Mukuta dan Biliu memiliki
+      nuansa sentuhan keagamaan khususnya Islam.\r\nPakaian Biliu atau pakaian adat
+      untuk perempuan Gorontalo ini memiliki banyak sekali aksesoris berupa hiasan
+      pernak-pernik. Hal itu membuat perempuan Gorontalo yang mengenakan pakaian
+      adat tersebut terlihat sangat glamor dan tetap memesona.\r"
+    oriImage: {fileID: 21300000, guid: 4b69c2f8958784945a90ca0582799474, type: 3}
+    image: {fileID: 2800000, guid: 4b69c2f8958784945a90ca0582799474, type: 3}
 --- !u!1 &1090440675
 GameObject:
   m_ObjectHideFlags: 0
@@ -4372,6 +4760,112 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1090440675}
   m_CullTransparentMesh: 1
+--- !u!114 &1107311970
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 23
+  levelSetting:
+    dif: 2
+    judul: Baju Adat Bagajah Gamuling Baular Lulut Dari Provinsi Kalimantan Selatan
+    penjelasan: Bagajah Gamuling Baular Lulut adalah baju adat yang berupa busana
+      pengantin klasik yang sudah berkembang sejak zaman kerajaan Hindu dan berasal
+      dariKalimantan Selatan. Nantinya pengantin wanita hanya akan memakai kemben
+      yang disebut Udat
+    oriImage: {fileID: 21300000, guid: 8f358968d6099c84f9be8cc2b3ee1507, type: 3}
+    image: {fileID: 2800000, guid: 8f358968d6099c84f9be8cc2b3ee1507, type: 3}
+--- !u!114 &1123171572
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 14
+  levelSetting:
+    dif: 1
+    judul: Baju Adat Kesatrian Ageng Daerah Istimewa  Yogyakarta
+    penjelasan: 'Pakaian adat Yogyakarta jadi macam pakaian adat berikutnya yang
+      Mamikos bahas. Nama busana adat DI. Yogyakarta memiliki nama Kesatriaan Ageng.
+
+      Pakaian
+      adat Indonesia satu ini terdiri dari beberapa bagian baju antara lain adalah
+      Surjan sebagai atasan, celana panjang hitam untuk bawahan, kain batik di pinggang
+      yang dililitkan sampai atas lutut dan hiasan kepala.
+
+'
+    oriImage: {fileID: 21300000, guid: 5564e159a77137b48a38c57a00ebe537, type: 3}
+    image: {fileID: 2800000, guid: 5564e159a77137b48a38c57a00ebe537, type: 3}
+--- !u!114 &1140489534
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 26
+  levelSetting:
+    dif: 2
+    judul: Baju Adat Nggemben Dari Sulawesi Tengah
+    penjelasan: 'Pakaian adat suku Kaili yang dikenakan oleh wanita disebut dengan
+      Nggembe. Pakaian adat yang dikenakan wanita ini memiliki bentuk unik dan menarik.
+      Umumnya busana yang akan dipakai wanita memiliki beberapa pilihan warna.
+
+      Pilihan
+      warnanya antara lain adalah warna merah atau warna kuning yang dikombinasikan
+      dengan corak warna hitam atau cokelat. Model baju ini adalah baju terusan yang
+      longgar serta berlengan pendek.'
+    oriImage: {fileID: 21300000, guid: 9403c9568aa0c75499f4ebcb1c9a940e, type: 3}
+    image: {fileID: 2800000, guid: 9403c9568aa0c75499f4ebcb1c9a940e, type: 3}
+--- !u!114 &1169437642
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 9
+  levelSetting:
+    dif: 0
+    judul: Baju adat Paksian Dari Bangka Belitung
+    penjelasan: 'Paksian merupakan busana pengantin khas dari kota Pangkal Pinang.
+      Pakaian untuk mempelai wanita dikenal sebagai Baju Kurung Merah yang terbuat
+      dari bahan sutra atau beludru yang dulunya disebut baju Seting.
+
+      Kain
+      yang dipakai biasanya adalah kain besusur, kain lasem, atau disebut juga kain
+      cual. Bagian kepalanya memakai mahkota yang dinamakan Paksian.
+
+      Sementara
+      mempelai laki-laki akan memakai sorban yang disebut sungkon. Pakaian ini konon
+      dipengaruhi oleh budaya Tiongkok dan Arab.
+
+'
+    oriImage: {fileID: 21300000, guid: 96b72480316efc046955d3537cb66828, type: 3}
+    image: {fileID: 2800000, guid: 96b72480316efc046955d3537cb66828, type: 3}
 --- !u!1 &1176493242
 GameObject:
   m_ObjectHideFlags: 0
@@ -4804,7 +5298,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 72
+  m_fontSize: 58.3
   m_fontSizeBase: 36
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -4989,6 +5483,34 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1225335189}
   m_CullTransparentMesh: 1
+--- !u!114 &1232692193
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 10
+  levelSetting:
+    dif: 0
+    judul: Baju Adat Tulang Bawang Dari Provinsi Lampung
+    penjelasan: 'Baju adat Tulang Bawang sangat kental dengan tradisi ketimuran dan
+      memiliki model baju yang tertutup.
+
+      Untuk pria akan mengenakan atasan
+      putih berlengan panjang dengan bawahan celana berwarna serupa. Selain itu,
+      di bagian pinggangnya akan dililitkan sarung hingga sepanjang lutut. Biasanya
+      sarung tersebut didominasi warna merah dan emas. Sedangkan wanita akan menggunakan
+      siger atau mahkota emas.
+
+'
+    oriImage: {fileID: 21300000, guid: 2ae8834ebce137a408480b2c0bc03b3f, type: 3}
+    image: {fileID: 2800000, guid: 2ae8834ebce137a408480b2c0bc03b3f, type: 3}
 --- !u!1 &1247653254
 GameObject:
   m_ObjectHideFlags: 0
@@ -5563,7 +6085,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 1500, y: 850}
+  m_SizeDelta: {x: 1000, y: 600}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1343684184
 MonoBehaviour:
@@ -5578,7 +6100,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 0.92156863}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -5738,6 +6260,30 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1346979618}
   m_CullTransparentMesh: 1
+--- !u!114 &1375976337
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 22
+  levelSetting:
+    dif: 2
+    judul: "Baju Adat Ta\u2019a Dan Sapei Sapaq Dari Provinsi Kalimantan Utara"
+    penjelasan: "Pakaian Ta\u2019a adalah pakaian yang dipakai perempuan, sementara
+      Sapei Sapaq adalah pakaian yang dipakai oleh laki-laki.\r\nPakaian Ta\u2019a
+      berupa kain sarung yang diberi anyaman manik kecil berwarna-warni dan memiliki
+      motif khusus dan juga memiliki hiasa yang terdiri dari ikat kepala yang terbuat
+      dari panda. \r\nSementara Sapei Sapaq adalah baju berbentuk khusus yang terdapat
+      hiasan manik motif tertentu serta gigi dan taring macan\r\n"
+    oriImage: {fileID: 21300000, guid: ed2ca6face9c133469635ad932c5d630, type: 3}
+    image: {fileID: 2800000, guid: ed2ca6face9c133469635ad932c5d630, type: 3}
 --- !u!1 &1377294055
 GameObject:
   m_ObjectHideFlags: 0
@@ -5873,6 +6419,33 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1377294055}
   m_CullTransparentMesh: 1
+--- !u!114 &1382303583
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 11
+  levelSetting:
+    dif: 1
+    judul: Baju Adat Pangsi Dari Banten
+    penjelasan: 'Baju adat Pangsi adalah setelan busana berupa baju kemeja polos
+      yang sedikit longgar serta celana yang juga longgar dan memiliki panjang tidak
+      melebihi mata kaki.
+
+      Pakaian adat Indonesia satu ini umumnya dipakai
+      laki-laki dan merupakan pakaian khas dari beberapa suku di Indonesia, antara
+      lain Betawi dan Sunda.
+
+'
+    oriImage: {fileID: 21300000, guid: ec8a900878a33f649a77e9d057721bb9, type: 3}
+    image: {fileID: 2800000, guid: ec8a900878a33f649a77e9d057721bb9, type: 3}
 --- !u!1 &1404297679
 GameObject:
   m_ObjectHideFlags: 0
@@ -6103,6 +6676,31 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1423329436}
   m_CullTransparentMesh: 1
+--- !u!114 &1481410164
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 29
+  levelSetting:
+    dif: 2
+    judul: 'Baju Bodo Dari Provinsi Sulawesi Selatan '
+    penjelasan: "Baju Bodo merupakan busana tradisional perempuan Suku Makassar,
+      Sulawesi. Baju Bodo juga dikenal sebagai salah satu busana tertua yang ada
+      di dunia.\r\nPakaian adat Sulawesi Selatan ini memiliki bentuk segi empat,
+      dan biasanya berlengan pendek. Pakaian ini umumnya dipakai untuk acara adat
+      dan resmi seperti upacara pernikahan.\r\nTetapi di masa kini, Baju Bodo mulai
+      direvitalisasi melalui acara lain seperti lomba menari atau menyambut tamu
+      agung dan penting.\r"
+    oriImage: {fileID: 21300000, guid: 773f83e112c64ba49a4c9cca4f95501d, type: 3}
+    image: {fileID: 2800000, guid: 773f83e112c64ba49a4c9cca4f95501d, type: 3}
 --- !u!1 &1570092678
 GameObject:
   m_ObjectHideFlags: 0
@@ -7116,7 +7714,7 @@ MonoBehaviour:
   m_UiScaleMode: 1
   m_ReferencePixelsPerUnit: 100
   m_ScaleFactor: 1
-  m_ReferenceResolution: {x: 2160, y: 3840}
+  m_ReferenceResolution: {x: 1560, y: 720}
   m_ScreenMatchMode: 0
   m_MatchWidthOrHeight: 0
   m_PhysicalUnit: 3
@@ -7170,6 +7768,33 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0, y: 0}
+--- !u!114 &1684855910
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 21
+  levelSetting:
+    dif: 2
+    judul: Baju Adat Upak Nyamu Dari Provinsi Kalimantan Tengah
+    penjelasan: 'Pakaian upak nyamu merupakan busana adat tradisional yang asa bahannya
+      adalah kulit kayu nyamu yang dipipihkan. Karena prosesnya tersebut makanya
+      kulit kayu nyamu ini bisa digunakan sebagai bahan pembuat pakaian dan ewah
+      (cawat).
+
+      Busana yang terbuat dari kulit kayu nyamu ini sesekali dibentuk
+      seperti rompi, kadang juga dibentuk baju tanpa lengan.
+
+'
+    oriImage: {fileID: 21300000, guid: f5c647205c901bc47ba298769aeb3cc5, type: 3}
+    image: {fileID: 2800000, guid: f5c647205c901bc47ba298769aeb3cc5, type: 3}
 --- !u!1 &1707516261
 GameObject:
   m_ObjectHideFlags: 0
@@ -7887,6 +8512,27 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1762757524}
   m_CullTransparentMesh: 1
+--- !u!114 &1766004626
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 7
+  levelSetting:
+    dif: 0
+    judul: Baju Adat Betabur Dari Bengkulu
+    penjelasan: "Baju Betabur yang dipakai oleh pengantin perempuan. Busana ini akan
+      dipadukan dengan rok songket.\r\nUntuk pengantin laki-lakinya juga akan memakai
+      baju betabur, celana dan kain songket berbahan beludru dan songket.\r"
+    oriImage: {fileID: 21300000, guid: 8b5c6e24a8f3bea49937f0d717c65648, type: 3}
+    image: {fileID: 2800000, guid: 8b5c6e24a8f3bea49937f0d717c65648, type: 3}
 --- !u!1 &1778246951
 GameObject:
   m_ObjectHideFlags: 0
@@ -7964,6 +8610,28 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1778246951}
   m_CullTransparentMesh: 1
+--- !u!114 &1797719856
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 6
+  levelSetting:
+    dif: 0
+    judul: 'Baju Adat Kebaya Laboh Dan Kurung Cekak Musang Dari Provinsi Riau '
+    penjelasan: "Baju adat Riau bernama Kebaya Laboh dan Kurung Cekak Musang yang
+      biasanya hanya dikenakan pada acara-acara formal, seperti acara pemerintahan
+      atau kunjungan kerajaan.\r\nBagi para wanita aan memakai Kebaya Laboh. Sementara
+      untuk pria adalah baju Kurung Cekak Musang.\r"
+    oriImage: {fileID: 21300000, guid: 10d4e655caaf7274c852ba9b5fe3ad57, type: 3}
+    image: {fileID: 2800000, guid: 10d4e655caaf7274c852ba9b5fe3ad57, type: 3}
 --- !u!1 &1801201394
 GameObject:
   m_ObjectHideFlags: 0
@@ -8446,6 +9114,84 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1890152208}
   m_CullTransparentMesh: 1
+--- !u!114 &1895843411
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 15
+  levelSetting:
+    dif: 1
+    judul: Baju Adat Jawi Jangkep Dari Provinsi Jawa Tengah
+    penjelasan: 'Pakaian adat asal Jawa Tengah yang dipakai pada acara resmi adalah
+      pakaian Jawi Jangkep. Baju adat satu ini didominasi oleh warna hitam untuk
+      atasannya dan lazimnya digunakan oleh pria.
+
+      Pasangan pakaian ini adalah
+      Kebaya Jawa Tengah yang dikenakan para wanita yang menyertai pasangannya di
+      acara resmi saat mengenakan pakaian Jawi Jangkep.
+
+'
+    oriImage: {fileID: 21300000, guid: 410504fbfce68a14880a675ec83fbef5, type: 3}
+    image: {fileID: 2800000, guid: 410504fbfce68a14880a675ec83fbef5, type: 3}
+--- !u!114 &1912421794
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 33
+  levelSetting:
+    dif: 3
+    judul: Baju Adat  Ewer Dari Papua Barat
+    penjelasan: "Nama busana adat Indonesia bagian Papua Barat ini disebut sebagai
+      pakaian adat Ewer. Pakaian ini murni terbuat dari bahan-bahan alami seperti
+      jerami yang dikeringkan.\r\nDengan kemajuan dan adanya pengaruh modernisasi,
+      pakaian adat satu ini kemudian dilengkapi dengan kain di bagian atasan.\r"
+    oriImage: {fileID: 21300000, guid: 3d6c114b1e5b9cd4a8fe0f9b4e10107b, type: 3}
+    image: {fileID: 2800000, guid: 3d6c114b1e5b9cd4a8fe0f9b4e10107b, type: 3}
+--- !u!114 &1961220197
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 17
+  levelSetting:
+    dif: 1
+    judul: Baju Adat Payas Agung Dari Bali
+    penjelasan: 'Payas agung merupakan pakaian adat Bali yang biasanya dipakai saat
+      pelaksanaan upacara pernikahan atau potong gigi.
+
+      Pakaian adat ini mempunyai
+      kesan yang mewah dan spesial, maka tak mengherankan jika Payas Agung tidak
+      dipakai di semua aktivitas. Selain baju adat Payas Agung, masih ada beberapa
+      baju adat dari Bali lainnya yakni Baju Safari, Payas Madya, Payas Alit, dan
+      Kebaya Bali. Baju adat Kemeja putih pria Bali yang sering dikenakan saat pergi
+      ke pura atau bersembahyang merupakan simbol kesucian.
+
+'
+    oriImage: {fileID: 21300000, guid: 80af08a2dbe4e4e43bfdde0bf9760603, type: 3}
+    image: {fileID: 2800000, guid: 80af08a2dbe4e4e43bfdde0bf9760603, type: 3}
 --- !u!1 &1985727105
 GameObject:
   m_ObjectHideFlags: 0
@@ -8581,6 +9327,33 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1985727105}
   m_CullTransparentMesh: 1
+--- !u!114 &1986573602
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 18
+  levelSetting:
+    dif: 0
+    judul: Baju Adat Pegon Dari Nusa Tenggara Barat
+    penjelasan: 'Pakaian adat asal suku sasak ini dikenal sebagai Pegon yang konon
+      mendapat pengaruh dari busana Eropa.
+
+      Berbeda dengan pakaian Sasak lain
+      yang terbuat dari kain songket, asal bahan pembuatan busana Pegon menggunakan
+      kain songket dan kain pegon yang berwarna hitam. yang juga kemungkinan adalah
+      hasil akulturasi dengan tradisi Jawa.
+
+'
+    oriImage: {fileID: 21300000, guid: f36a106b541f7cd4fb684ed6f3298f21, type: 3}
+    image: {fileID: 2800000, guid: f36a106b541f7cd4fb684ed6f3298f21, type: 3}
 --- !u!1 &2005497264
 GameObject:
   m_ObjectHideFlags: 0
@@ -8793,6 +9566,36 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2007197231}
   m_CullTransparentMesh: 1
+--- !u!114 &2052097962
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 20
+  levelSetting:
+    dif: 1
+    judul: Baju Adat King Bibinge Dan King Baba Dari Provinsi Kalimantan Barat
+    penjelasan: 'King Baba adalah busana adat untuk laki-laki Suku Dayak yang berada
+      di Kalimantan Barat. Sementara pakaian adat yang dipakai perempuan adalah King
+      Bibinge.
+
+      Pakaian adat King Baba memiliki bentuk seperti rompi yang menggunakan
+      kain khas yang terbuat dari kulit kayu kapuo yang dihiasi manik-manik berwarna
+      jingga dan merah.
+
+      Sementara untuk pakaian adat King Bibinge terbuat
+      dari bahan yang serupa dan menutupi hingga bagian dada dan pundak.
+
+'
+    oriImage: {fileID: 21300000, guid: dd798ed553ad08545b8a11f5131cc50b, type: 3}
+    image: {fileID: 2800000, guid: dd798ed553ad08545b8a11f5131cc50b, type: 3}
 --- !u!1 &2054779458
 GameObject:
   m_ObjectHideFlags: 0
@@ -9005,3 +9808,65 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2073920556}
   m_CullTransparentMesh: 1
+--- !u!114 &2134457363
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 25
+  levelSetting:
+    dif: 2
+    judul: Baju Adat Pattuqduq Towaine Dari Sulawesi Barat
+    penjelasan: 'Nama pakaian adat Sulawesi Barat dan khususnya berasal dari suku
+      Mandar ini disebut dengan nama Pattuqduq Towaine yang dipakai oleh wanita.
+
+      Pattuqduq
+      Towaine ini terdiri dari beberapa komponen antara lain adalah: atasan berupa
+      rawang boko, sarung khas Mandar bernama Lipaq Saqbe untuk bawahan, dilengkapi
+      dengan sarung lainnya yaitu Lipaq Aqdi Diratter Duattdong.
+
+      Lalu untuk
+      aksesorisnya ada beberapa aksesoris yang dikenakan yakni hiasan kepala, kalung,
+      ikat pinggang disebut dengan kliki dan gelang.
+
+'
+    oriImage: {fileID: 21300000, guid: 76ef36a2ce75bc246a5bccaf46dad19f, type: 3}
+    image: {fileID: 2800000, guid: 76ef36a2ce75bc246a5bccaf46dad19f, type: 3}
+--- !u!114 &2135516299
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 35
+  levelSetting:
+    dif: 3
+    judul: "34.\tBaju Adat Pummi Dari Papua Selatan"
+    penjelasan: 'Pakaian adat Pummi adalah rok mini yang terbuat dari anyaman daun
+      sagu. Rumbai-rumbai pummi dilepas begitu saja sehingga terurai disekeliling
+      pinggul dan paha pemakainya.
+
+      Lazimnya, Pummi ini dipakai oleh laki-laki.
+      Untuk perempuan akan memakai Tok yang adalah cawat atau celana dalam.
+
+      Tok
+      ini merupakan Pummi yang terdapat rumbai-rumbai di bagian depan yang dikumpulkan
+      kemudian ditarik ke bagian belakang pinggul melalui celah paha sehingga menyerupai
+      cawat.
+
+'
+    oriImage: {fileID: 21300000, guid: da647d2dcb5696f41a4905eb6a1bf45d, type: 3}
+    image: {fileID: 2800000, guid: da647d2dcb5696f41a4905eb6a1bf45d, type: 3}

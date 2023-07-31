@@ -783,6 +783,29 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 150485249}
   m_CullTransparentMesh: 1
+--- !u!114 &205919775
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 14
+  levelSetting:
+    dif: 1
+    judul: 'Rumah Adat Jawa Tengah: Rumah Joglo'
+    penjelasan: Rumah adat dari Jawa Tengah yang sering disebut sebagai Rumah joglo
+      ini. Biasanya, bagian depan rumah akan ada pendopo untuk menjamu tamu. Rumah
+      adat Jawa Tengah ini memiliki empat tiang penopang dengan ciri atap berbentuk
+      piramida yang mengacu pada bentuk gunung. Selain itu, Anda juga bisa melihat
+      sentuhan kejawen dari suku Jawa di sisi-sisi rumah.
+    oriImage: {fileID: 21300000, guid: 7af6403ddfb9def4c999452bf44d9e11, type: 3}
+    image: {fileID: 2800000, guid: 7af6403ddfb9def4c999452bf44d9e11, type: 3}
 --- !u!1 &231420354
 GameObject:
   m_ObjectHideFlags: 0
@@ -1053,6 +1076,51 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 256873254}
   m_CullTransparentMesh: 1
+--- !u!114 &257800963
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 26
+  levelSetting:
+    dif: 2
+    judul: 'Rumah Adat Sulawesi Tenggara: Rumah Buton'
+    penjelasan: Rumah Buton ini terbagi ke dalam tiga strata sesuai pemilik rumahnya.
+      Pertama adalah Kamali (Malige), yang biasanya berfungsi sebagai tempat tinggal
+      keluarga sultan. Kedua, Tare Pata Pale, yaitu untuk pejabat pengadilan. Terakhir,
+      adalah Tare Talu Pale untuk masyarakat biasa.
+    oriImage: {fileID: 21300000, guid: 8379709477daa1c4ca99d3bcdbca0bb9, type: 3}
+    image: {fileID: 2800000, guid: 8379709477daa1c4ca99d3bcdbca0bb9, type: 3}
+--- !u!114 &261149838
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 16
+  levelSetting:
+    dif: 1
+    judul: 'Rumah Adat Jawa Timur: Rumah Joglo'
+    penjelasan: Memang merupakan ciri khas dari Rumah Joglo memiliki 4 tiang penopang.
+      Ini pula yang terlihat dari rumah adat Jawa Timur. Ciri khas dari Rumah Joglo
+      ini terletak pada bentuk dan ukurannya yang unik dan juga makna seni yang tinggi.
+      Umumnya, rumah joglo di daerah ini tidak hanya digunakan sebagai tempat tinggal,
+      tetapi juga untuk menyimpan peninggalan sejarah.
+    oriImage: {fileID: 21300000, guid: 0d5211ea1fcce6048be0745997d286c8, type: 3}
+    image: {fileID: 2800000, guid: 0d5211ea1fcce6048be0745997d286c8, type: 3}
 --- !u!1 &274638753
 GameObject:
   m_ObjectHideFlags: 0
@@ -1144,6 +1212,52 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 274638753}
   m_CullTransparentMesh: 1
+--- !u!114 &299085225
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 27
+  levelSetting:
+    dif: 2
+    judul: 'Rumah Adat Sulawesi Selatan: Rumah Adat Tongkonan'
+    penjelasan: Anda pastinya sering mendengar rumah tongkonan ini. Rumah ini merupakan
+      rumah adat suku Toraja yang berada di Sulawesi Selatan. Tongkonan berfungsi
+      sebagai tempat tinggal masyarakat dan juga tempat acara adat. Arsitekturnya
+      yang unik dan khas ini membuat rumah ini terlihat indah.
+    oriImage: {fileID: 21300000, guid: 2a794954a5f69ab45b57233a3654d0cc, type: 3}
+    image: {fileID: 2800000, guid: 2a794954a5f69ab45b57233a3654d0cc, type: 3}
+--- !u!114 &306283101
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 11
+  levelSetting:
+    dif: 1
+    judul: 'Rumah Adat Banten: Rumah Baduy'
+    penjelasan: 'Rumah adat dari Banten ini merupakan tempat tinggal suku Baduy,
+      yang merupakan suku asli di wilayah tersebut. Biasanya, suku Baduy membuat
+      rumah ini menggunakan bambu dan ijuk untuk atapnya dan memiliki bentuk julang
+      ngpak (panggung). Suku Baduy juga memiliki asas kekeluargaan yang amat kental.
+      Inilah yang membuat mereka membangun rumah secara gotong royong sebagai tempat
+      tinggal. '
+    oriImage: {fileID: 21300000, guid: a09b7975ff7c5aa4ab4d7fc875d66064, type: 3}
+    image: {fileID: 2800000, guid: a09b7975ff7c5aa4ab4d7fc875d66064, type: 3}
 --- !u!1 &309163351
 GameObject:
   m_ObjectHideFlags: 0
@@ -1356,6 +1470,27 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 316812852}
   m_CullTransparentMesh: 1
+--- !u!114 &329226585
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 22
+  levelSetting:
+    dif: 2
+    judul: 'Rumah Adat Gorontalo: Rumah Dulohupa'
+    penjelasan: "Rumah Dulohupa ini memiliki tiang kayu sebagai penopang dan juga
+      penghias. Di kedua sisi rumah terdapat tangga,yang merupakan lambang dari tangga
+      adat Gorontalo, yaitu Tolitihu. \r"
+    oriImage: {fileID: 21300000, guid: 084c37471fac8bb42acf4aa07821b418, type: 3}
+    image: {fileID: 2800000, guid: 084c37471fac8bb42acf4aa07821b418, type: 3}
 --- !u!114 &337117426
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1378,6 +1513,28 @@ MonoBehaviour:
       yang melambangkan kemenangan suku Minang dalam perlombaan adu kerbau di Jawa.
     oriImage: {fileID: 21300000, guid: 7c13b69b6220c0841b7bf518a431f6d8, type: 3}
     image: {fileID: 2800000, guid: 7c13b69b6220c0841b7bf518a431f6d8, type: 3}
+--- !u!114 &350001099
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 12
+  levelSetting:
+    dif: 1
+    judul: 'Rumah Adat DKI Jakarta: Rumah Kebaya'
+    penjelasan: 'Rumah Kebaya dari DKI Jakarta mengusung corak khas suku Betawi.
+      Atap dari rumah ini menyerupai pelana terlipat dan memiliki corak-corak yang
+      khas seperti kebaya. Rumah Kebaya memiliki teras yang luas bertujuan untuk
+      menjadi tempat santai keluarga dan menyambut tamu.  '
+    oriImage: {fileID: 21300000, guid: 8733227a62b0f3849ab77877f3775ac4, type: 3}
+    image: {fileID: 2800000, guid: 8733227a62b0f3849ab77877f3775ac4, type: 3}
 --- !u!1 &353831645
 GameObject:
   m_ObjectHideFlags: 0
@@ -1455,6 +1612,27 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 353831645}
   m_CullTransparentMesh: 1
+--- !u!114 &378232734
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 25
+  levelSetting:
+    dif: 2
+    judul: 'Rumah Adat Sulawesi Utara: Rumah Walewangko'
+    penjelasan: Rumah Walewangko ini merupakan rumah adat yang mendominasi di Sulawesi
+      Utara. Sama seperti rumah adat provinsi lainnya, Rumah Walewangko ini juga
+      memiliki arsitektur yang unik dan filosofi yang sangat kental dengan adat penduduknya.
+    oriImage: {fileID: 21300000, guid: 73c3b039f6336d04d9d3f460e5a592b0, type: 3}
+    image: {fileID: 2800000, guid: 73c3b039f6336d04d9d3f460e5a592b0, type: 3}
 --- !u!1 &411853611
 GameObject:
   m_ObjectHideFlags: 0
@@ -1802,6 +1980,27 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 454737383}
   m_CullTransparentMesh: 1
+--- !u!114 &456176644
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 30
+  levelSetting:
+    dif: 2
+    judul: 'Rumah Adat Nusa Tenggara Barat: Rumah Dalam Loka'
+    penjelasan: Rumah Dalam Loka terlihat cukup besar dan megah karena merupakan
+      kediaman raja di daerah tersebut. Di rumah ini, hanya terdapat satu pintu besar
+      sebagai akses keluar masuk dan memiliki 99 tiang yang melambangkan sifat Allah.
+    oriImage: {fileID: 21300000, guid: ed0dc643c320e074fab7e7d6fdbbc250, type: 3}
+    image: {fileID: 2800000, guid: ed0dc643c320e074fab7e7d6fdbbc250, type: 3}
 --- !u!1 &483923350
 GameObject:
   m_ObjectHideFlags: 0
@@ -1838,8 +2037,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 1}
   m_AnchorMax: {x: 0.5, y: 1}
-  m_AnchoredPosition: {x: 0, y: -15}
-  m_SizeDelta: {x: 850, y: 175}
+  m_AnchoredPosition: {x: 0, y: -35}
+  m_SizeDelta: {x: 700, y: 100}
   m_Pivot: {x: 0.5, y: 1}
 --- !u!114 &483923352
 MonoBehaviour:
@@ -1879,6 +2078,28 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 483923350}
   m_CullTransparentMesh: 1
+--- !u!114 &492901453
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 13
+  levelSetting:
+    dif: 1
+    judul: 'Rumah Adat Jawa Barat: Rumah Kasepuhan'
+    penjelasan: Rumat adat dari Jawa Barat ini merupakan peninggalan dari Kerajaan
+      Islam di wilayah tersebut. Rumah yang sering disebut Keraton Kasepuhan ini
+      sebenarnya merupakan perluasan dari Keraton Pakungwati. Tidak heran bila pintu
+      utama keraton terlihat unik dan menawan.
+    oriImage: {fileID: 21300000, guid: b3640fb895445254e99a963d703a39b8, type: 3}
+    image: {fileID: 2800000, guid: b3640fb895445254e99a963d703a39b8, type: 3}
 --- !u!1 &540150322
 GameObject:
   m_ObjectHideFlags: 0
@@ -1976,6 +2197,27 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0aa84c6b0a5094e4e8fed0662bb95a19, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &542794016
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 32
+  levelSetting:
+    dif: 3
+    judul: 'Rumah Adat Maluku Utara: Rumah Sasadu'
+    penjelasan: 'Sasadu merupakan rumah adat Suku Sahu. Desain rumah ini menggambarkan
+      tentang kisah hidup bermasyarakat Suku Sahu. Selain memiliki keunikan dari
+      sisi arsitektur, rumah ini juga menyimpan banyak filosofi. '
+    oriImage: {fileID: 21300000, guid: 9c32f758bd6478f4a90121905ab17b45, type: 3}
+    image: {fileID: 2800000, guid: 9c32f758bd6478f4a90121905ab17b45, type: 3}
 --- !u!1 &562310282
 GameObject:
   m_ObjectHideFlags: 0
@@ -2014,8 +2256,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 3, y: -20}
-  m_SizeDelta: {x: 1388, y: 660}
+  m_AnchoredPosition: {x: 25, y: -15}
+  m_SizeDelta: {x: 950, y: 430}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &562310284
 MonoBehaviour:
@@ -2297,6 +2539,28 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 613353913}
   m_CullTransparentMesh: 1
+--- !u!114 &616161918
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 28
+  levelSetting:
+    dif: 2
+    judul: 'Rumah Adat Bali: Rumah Gapura Candi Bentar'
+    penjelasan: 'Rumah adat Provinsi Bali ini terdiri dari dua bagian, yaitu rumah
+      huniannya dan juga Gapura Candi Bentar. Arah bangunan, letak, dimensi pekarangan,
+      dan beberapa aspek lainnya, harus mengikuti aturan khusus yang berlaku sesuai
+      aturan agama. Hal inilah yang menjadi keunikan dari Rumah Gapura Candi Bentar. '
+    oriImage: {fileID: 21300000, guid: fe27a8c3ecbdb8b4797a47c76e20ddf8, type: 3}
+    image: {fileID: 2800000, guid: fe27a8c3ecbdb8b4797a47c76e20ddf8, type: 3}
 --- !u!1 &636282940
 GameObject:
   m_ObjectHideFlags: 0
@@ -2528,6 +2792,29 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 643374242}
   m_CullTransparentMesh: 1
+--- !u!114 &666683097
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 6
+  levelSetting:
+    dif: 0
+    judul: 'Rumah Adat Provinsi Bengkulu: Bubungan Lima'
+    penjelasan: 'Rumah adat dari Bengkulu ini memiliki tiang penopang dan menggunakan
+      kayu khusus untuk membuatnya, yaitu kayu Medang Kemuning. Untuk memasuki rumah
+      ini, Anda juga harus menggunakan tangga, yang berada pada bagian depan rumah.
+      Sama seperti rumah adat dari Riau, masyarakat Bengkulu menggunakan rumah ini
+      untuk acara adat saja, bukan untuk menjadi tempat tinggal. '
+    oriImage: {fileID: 21300000, guid: 48fe1606f6a6a2e40aa45830408b5c5e, type: 3}
+    image: {fileID: 2800000, guid: 48fe1606f6a6a2e40aa45830408b5c5e, type: 3}
 --- !u!1 &690464092
 GameObject:
   m_ObjectHideFlags: 0
@@ -2817,6 +3104,33 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 719362778}
   m_CullTransparentMesh: 1
+--- !u!114 &726158193
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 36
+  levelSetting:
+    dif: 3
+    judul: 'Rumah Adat Papua Selatan: Rumah Jew'
+    penjelasan: Dari provinsi baru yang ada di Pulau Papua ini, yaitu Papua Selatan,
+      ternyata juga ada rumah adat, lho. Rumah adat dari Papua Selatan ini bernama
+      Rumah Jew, yang ditempati oleh Suku Asmat. Rumah Jewberukuran besar dengan
+      panjang 15 meter dan lebar 10 meter. Wajar saja, karena rumah ini ditempati
+      oleh anggota Suku Asmat yang sangat banyak jumlahnya. Uniknya lagi, hanya laki-laki
+      belum menikah yang boleh tinggal di rumah ini, lho. Para wanita serta anak
+      laki-laki dibawah 10 tahun tidak boleh masuk ke dalamnya. Nah, nantinya di
+      dalam rumah ini, para laki-laki tersebut akan belajar dari seniornya tentang
+      berbagai keterampilan hingga pendidikan.
+    oriImage: {fileID: 21300000, guid: 3d0f9e4311382b4419d08abb9f71e6a4, type: 3}
+    image: {fileID: 2800000, guid: 3d0f9e4311382b4419d08abb9f71e6a4, type: 3}
 --- !u!1 &748385067
 GameObject:
   m_ObjectHideFlags: 0
@@ -3029,6 +3343,31 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 772464669}
   m_CullTransparentMesh: 1
+--- !u!114 &780896484
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 10
+  levelSetting:
+    dif: 0
+    judul: 'Rumah Adat Bangka Belitung: Rumah Rakit'
+    penjelasan: Karena Bangka Belitung memiliki banyak yang tergenang air atau di
+      tepi laut, warga setempat harus menyesuaikan diri, yaitu dengan membangun rumah
+      di atas air juga yang dinamakan Rumah Rakit.  Bentuk rumah adat provinsi Bangka
+      belitung terlihat sangat unik karena merupakan perpaduan rumah Melayu dengan
+      aksen arsitektur Tionghoa. Pembuatan rumah ini menggunakan bambu khusus dan
+      bahan lainnya, yang tentunya kuat dan membuatnya dapat mengapung di atas air.
+      Rumah Rakit ini biasa menjadi tempat tinggal warga.
+    oriImage: {fileID: 21300000, guid: 101564279aae68349aa4e974a2fb14c8, type: 3}
+    image: {fileID: 2800000, guid: 101564279aae68349aa4e974a2fb14c8, type: 3}
 --- !u!1 &798333695
 GameObject:
   m_ObjectHideFlags: 0
@@ -3124,7 +3463,7 @@ MonoBehaviour:
   m_ChildAlignment: 0
   m_StartCorner: 0
   m_StartAxis: 0
-  m_CellSize: {x: 200, y: 200}
+  m_CellSize: {x: 120, y: 120}
   m_Spacing: {x: 35, y: 25}
   m_Constraint: 1
   m_ConstraintCount: 6
@@ -3226,7 +3565,7 @@ MonoBehaviour:
   m_HandleRect: {fileID: 1404297680}
   m_Direction: 2
   m_Value: 1
-  m_Size: 0.42580646
+  m_Size: 0.4343434
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
@@ -3269,6 +3608,30 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 798997848}
   m_CullTransparentMesh: 1
+--- !u!114 &827176513
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 35
+  levelSetting:
+    dif: 3
+    judul: 'Rumah Adat Papua Pegunungan Tengah: Rumah Honai'
+    penjelasan: Berikutnya ada rumah adat dari Provinsi Papua bernama Rumah Honai.
+      Rumah ini berbentuk mengerucut dengan bagian atas ditutupi jerami kering. Atapnya
+      mirip dengan batok kelapa dan tidak terlalu tinggi agar dapat menghangatkan
+      bagian dalam rumahnya, rumah adat Honai sengaja dibuat kecil dan tidak berjendela
+      untuk menghindari binatang buas. Rumah ini khusus untuk tempat tidur dan beristirahat,
+      sedangkan aktivitas lainnya seperti mandi dan makan berada di tempat yang berbeda.
+    oriImage: {fileID: 21300000, guid: e022997fd6f50f549947a7d8c8bf9f57, type: 3}
+    image: {fileID: 2800000, guid: e022997fd6f50f549947a7d8c8bf9f57, type: 3}
 --- !u!1 &828487136
 GameObject:
   m_ObjectHideFlags: 0
@@ -3616,6 +3979,28 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1004202617}
   m_CullTransparentMesh: 1
+--- !u!114 &1004347908
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 9
+  levelSetting:
+    dif: 0
+    judul: 'Rumah Adat Sumatera Selatan: Rumah Limas'
+    penjelasan: Rumah adat satu ini memiliki bentuk yang sesuai dengan namanya, yaitu
+      menyerupai limas. Tamu yang berkunjung ke rumah ini harus singgah ke ruang
+      atas atau teras rumah. Hal ini merupakan tradisi masyarakat Sumatera Selatan
+      agar dapat merasakan budaya mereka, yang tampak pada ukiran di dalamnya.
+    oriImage: {fileID: 21300000, guid: 3f049c496bd30c84581a08576290d327, type: 3}
+    image: {fileID: 2800000, guid: 3f049c496bd30c84581a08576290d327, type: 3}
 --- !u!1 &1012417875
 GameObject:
   m_ObjectHideFlags: 0
@@ -3857,13 +4242,45 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 077799404ed58854a971e9e35d984434, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  numberOfLevel: 5
+  numberOfLevel: 37
   mainLevels:
   - {fileID: 1449586003}
   - {fileID: 25721582}
   - {fileID: 337117426}
   - {fileID: 1310942021}
   - {fileID: 2038864565}
+  - {fileID: 666683097}
+  - {fileID: 1434626085}
+  - {fileID: 1263503483}
+  - {fileID: 1004347908}
+  - {fileID: 780896484}
+  - {fileID: 306283101}
+  - {fileID: 350001099}
+  - {fileID: 492901453}
+  - {fileID: 205919775}
+  - {fileID: 1580925953}
+  - {fileID: 261149838}
+  - {fileID: 2145242479}
+  - {fileID: 1366862813}
+  - {fileID: 1034739139}
+  - {fileID: 1978488369}
+  - {fileID: 1604604699}
+  - {fileID: 329226585}
+  - {fileID: 1903731158}
+  - {fileID: 2110448931}
+  - {fileID: 378232734}
+  - {fileID: 257800963}
+  - {fileID: 299085225}
+  - {fileID: 616161918}
+  - {fileID: 1469700812}
+  - {fileID: 456176644}
+  - {fileID: 2088318164}
+  - {fileID: 542794016}
+  - {fileID: 1226877110}
+  - {fileID: 1227215230}
+  - {fileID: 827176513}
+  - {fileID: 726158193}
+  - {fileID: 1231629705}
   main: {fileID: 798333695}
   buttons: []
   activeLevel: 0
@@ -3882,6 +4299,27 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1034739139
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 19
+  levelSetting:
+    dif: 1
+    judul: 'Rumah Adat Kalimantan Selatan: Rumah Bubungan Tinggi'
+    penjelasan: Menggunakan konsep panggung dan terbuat dari kayu ulin tentunya membuat
+      rumah ini memiliki ketahanan yang kuat, dan akan lebih kuat lagi jika terkena
+      air. Uniknya lagi, atap dari rumah ini memiliki sudut kemiringan 45 derajat.
+    oriImage: {fileID: 21300000, guid: 53665084b986e7d468227ebf6d82ac65, type: 3}
+    image: {fileID: 2800000, guid: 53665084b986e7d468227ebf6d82ac65, type: 3}
 --- !u!1 &1041384553
 GameObject:
   m_ObjectHideFlags: 0
@@ -4796,10 +5234,10 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 72
-  m_fontSizeBase: 36
+  m_fontSize: 50
+  m_fontSizeBase: 50
   m_fontWeight: 400
-  m_enableAutoSizing: 1
+  m_enableAutoSizing: 0
   m_fontSizeMin: 18
   m_fontSizeMax: 72
   m_fontStyle: 32
@@ -4981,6 +5419,79 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1225335189}
   m_CullTransparentMesh: 1
+--- !u!114 &1226877110
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 33
+  levelSetting:
+    dif: 3
+    judul: 'Rumah Adat Papua: Rumah Adat Kariwari'
+    penjelasan: Kariwari adalah rumah adat asal provinsi Papua yang didiami oleh
+      suku Tobati-Enggros. Bentuknya cenderung lebih modern dibandingkan dengan rumah
+      adat lainnya di Pulau Papua. Atap dari rumah ini berbentuk segi delapan, serta
+      tiga tingkat lantai yang dipercaya oleh masyarakat dapat menjaga rumah dari
+      cuaca ekstrem. Lantai pertama dari rumah ini biasanya berfungsi untuk melatih
+      remaja laki-laki untuk menjadi pria dewasa yang kuat dan bertanggung jawab.
+      Kemudian, lantai kedua biasanya menjadi tempat berkumpulnya para kepala adat
+      untuk mendiskusikan hal penting terkait desa. Terakhir, lantai tiga digunakan
+      untuk sembahyang kepada para leluhur dan Tuhan.
+    oriImage: {fileID: 21300000, guid: 83e202f4c29c8f8448a474417cb449dd, type: 3}
+    image: {fileID: 2800000, guid: 83e202f4c29c8f8448a474417cb449dd, type: 3}
+--- !u!114 &1227215230
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 34
+  levelSetting:
+    dif: 3
+    judul: 'Rumah Adat Papua Barat: Rumah Adat Mod Aki Aksa'
+    penjelasan: Rumah Mod Aki Aksa ini termasuk rumah adat terunik. Bagian atapnya
+      terbuat dari ilalang dengan lantai dari anyaman rotan. Dinding-dindingnya tersusun
+      dari kayu dan terlihat saling mengikat satu sama lain.
+    oriImage: {fileID: 21300000, guid: be4c6fcbe7064ed459c13be108615535, type: 3}
+    image: {fileID: 2800000, guid: be4c6fcbe7064ed459c13be108615535, type: 3}
+--- !u!114 &1231629705
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 37
+  levelSetting:
+    dif: 3
+    judul: 'Rumah Adat Provinsi Papua Tengah: Rumah Adat Karapao'
+    penjelasan: 'Provinsi baru yaitu Papua Tengah. Di provinsi ini, terdapat rumah
+      adat bernama Karapao yang didiami oleh suku Kamoro. Bentuknya seperti rumah
+      panggung persegi panjang, yang ukurannya disesuaikan dengan jumlah anak-anak
+      di desa tersebut. Rumah Karapao berfungsi sebagai tempat adat istiadat serta
+      untuk pembelajaran bagi para anak-anak suku Kamoro. Uniknya, pintu di rumah
+      adat satu ini dibuat dengan menyesuaikan jumlah anak-anak yang akan belajar,
+      lho. Misalnya, ada 20 anak yang belajar, maka akan dibuat 20 pintu pula. '
+    oriImage: {fileID: 21300000, guid: 638b2ad5236f1e945b2ed4af8862e2a5, type: 3}
+    image: {fileID: 2800000, guid: 638b2ad5236f1e945b2ed4af8862e2a5, type: 3}
 --- !u!1 &1237087351
 GameObject:
   m_ObjectHideFlags: 0
@@ -5191,6 +5702,30 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1247653254}
   m_CullTransparentMesh: 1
+--- !u!114 &1263503483
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 8
+  levelSetting:
+    dif: 0
+    judul: 'Rumah Adat Provinsi Lampung: Rumah Nuwo Sesat'
+    penjelasan: Rumah adat Provinsi Lampung memiliki nama Nuwo Sesat. Ciri khas dari
+      rumah ini adalah bentuknya panggung dan di sisi-sisinya terdapat ornamen yang
+      khas. Biasanya, ukuran dari rumah ini sangat besar, tetapi saat ini banyak
+      yang membuat Rumah Nuwo Sesat berukuran lebih kecil.  Namun, rumah ini tidak
+      dibangun sebagai tempat tinggal. Sama seperti rumah adat lainnya,  Rumah Nuwo
+      Sesat ini hanya dibangun untuk acara adat dan melakukan musyawarah
+    oriImage: {fileID: 21300000, guid: 8a8d10353e3c17f44aa3d6825de8bf38, type: 3}
+    image: {fileID: 2800000, guid: 8a8d10353e3c17f44aa3d6825de8bf38, type: 3}
 --- !u!1 &1263604622
 GameObject:
   m_ObjectHideFlags: 0
@@ -5709,7 +6244,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 1500, y: 850}
+  m_SizeDelta: {x: 1000, y: 600}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1343684184
 MonoBehaviour:
@@ -5724,7 +6259,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 0.92156863}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -5884,6 +6419,28 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1346979618}
   m_CullTransparentMesh: 1
+--- !u!114 &1366862813
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 18
+  levelSetting:
+    dif: 1
+    judul: 'Rumah Adat Kalimantan Timur: Rumah Lamin'
+    penjelasan: 'Rumah Lamin dari Kalimantan Timur juga tidak kalah uniknya. Gaya
+      arsitektur yang khas dan juga luas bangunannya menjadi ciri khas dari Rumah
+      Lamin. Pada bagian atap rumah terdapat ornamen kepala naga dari kayu. Di sisi-sisi
+      bangunannya juga terdapat ukiran atau lukisan budaya yang unik. '
+    oriImage: {fileID: 21300000, guid: 6b596b956a6cf5c4590af010b77743fa, type: 3}
+    image: {fileID: 2800000, guid: 6b596b956a6cf5c4590af010b77743fa, type: 3}
 --- !u!1 &1377294055
 GameObject:
   m_ObjectHideFlags: 0
@@ -6249,6 +6806,30 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1423329436}
   m_CullTransparentMesh: 1
+--- !u!114 &1434626085
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 7
+  levelSetting:
+    dif: 0
+    judul: 'Rumah Adat Provinsi Jambi: Panggung'
+    penjelasan: "Rumah adat provinisi dari Jambi ini adalah desain yang tertua di
+      daerah tersebut, dengan bentuk persegi panjang. Rumah Adat Panggung dilengkapi
+      dengan tangga di depan rumah. Orang-orang sering menyebutkan bagian atap dari
+      Rumah Panggung ini sebagai \u201CGajah Mabuk\u201D karena bentuknya yang menyerupai
+      perahu dengan ujung melengkung. Biasanya, rumah adat dari Jambi digunakan untuk
+      tempat tinggal dan juga tempat bermusyawarah."
+    oriImage: {fileID: 21300000, guid: 4463f0eb1ac939a46af9789e79a6476a, type: 3}
+    image: {fileID: 2800000, guid: 4463f0eb1ac939a46af9789e79a6476a, type: 3}
 --- !u!114 &1449586003
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6271,6 +6852,29 @@ MonoBehaviour:
       ganjil, yaitu sekitar 7 hingga 9 anak tangga. '
     oriImage: {fileID: 21300000, guid: 70b79a69a5848c44da80af1065c8008b, type: 3}
     image: {fileID: 2800000, guid: 70b79a69a5848c44da80af1065c8008b, type: 3}
+--- !u!114 &1469700812
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 29
+  levelSetting:
+    dif: 2
+    judul: 'Rumah Adat Nusa Tenggara Timur: Rumah Musalaki'
+    penjelasan: Rumah Musalaki ini biasanya menjadi tempat tinggal bagi kepala suku
+      atau pemimpin daerah dan juga untuk menyelenggarakan acara adat. Rumah adat
+      ini juga menjadi tempat untuk bermusyawarah dan melakukan ritual. Uniknya,
+      Rumah Musalaki berdiri di atas batu besar, yang berfungsi sebagai pondasinya
+      untuk mengurangi risiko keretakan, jika terjadi bencana alam.
+    oriImage: {fileID: 21300000, guid: 68011d5a39e41b54db4322b62f23b1b0, type: 3}
+    image: {fileID: 2800000, guid: 68011d5a39e41b54db4322b62f23b1b0, type: 3}
 --- !u!1 &1536454672
 GameObject:
   m_ObjectHideFlags: 0
@@ -6425,6 +7029,51 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1570092678}
   m_CullTransparentMesh: 1
+--- !u!114 &1580925953
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 15
+  levelSetting:
+    dif: 1
+    judul: 'Rumah Adat DI Yogyakarta: Rumah Joglo'
+    penjelasan: 'Sama seperti Rumah Joglo di Jawa Tengah, rumah dari DI Yogyakarta
+      ini juga memiliki 4 tiang penopang dan terdiri dari dua bagian, yaitu rumah
+      induk dan rumah tambahan. Bagian induk adalah tempat utama seperti rumah pada
+      umumnya yang memiliki pendopo, teras, dan lain-lain. Sedangkan rumah tambahan,
+      berisi pelengkap untuk rumah induk. '
+    oriImage: {fileID: 21300000, guid: 6a8d193d588c82a418590eb6a17d7105, type: 3}
+    image: {fileID: 2800000, guid: 6a8d193d588c82a418590eb6a17d7105, type: 3}
+--- !u!114 &1604604699
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 21
+  levelSetting:
+    dif: 2
+    judul: 'Rumah Adat Kalimantan Utara: Rumah Baloy'
+    penjelasan: Rumah adat Provinsi Kalimantan Utara ini sangat unik rumah ini harus
+      menghadap ke arah utara dan pintu utamanya di arah sebaliknya, yaitu selatan.
+      Selain itu, Rumah Baloy memiliki empat bagian, yaitu lamin dalom, ambir tengah,
+      ambir kanan, dan juga ambir kiri.
+    oriImage: {fileID: 21300000, guid: 0251b5edfe3c59648a248c7e4a080fbe, type: 3}
+    image: {fileID: 2800000, guid: 0251b5edfe3c59648a248c7e4a080fbe, type: 3}
 --- !u!1 &1606088307
 GameObject:
   m_ObjectHideFlags: 0
@@ -7361,7 +8010,7 @@ MonoBehaviour:
   m_UiScaleMode: 1
   m_ReferencePixelsPerUnit: 100
   m_ScaleFactor: 1
-  m_ReferenceResolution: {x: 2160, y: 3840}
+  m_ReferenceResolution: {x: 1560, y: 720}
   m_ScreenMatchMode: 0
   m_MatchWidthOrHeight: 0
   m_PhysicalUnit: 3
@@ -8871,6 +9520,48 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1890152208}
   m_CullTransparentMesh: 1
+--- !u!114 &1903731158
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 23
+  levelSetting:
+    dif: 2
+    judul: 'Rumah Adat Sulawesi Barat: Rumah Boyang'
+    penjelasan: 'Rumah Boyang dari Sulawesi Barat berkonsep seperti panggung dengan
+      tiang-tiang penopangnya. Tiang penopang tersebut tidak menancap ke dalam tanah
+      melainkan berdiri di atas batu datar agar rumah tidak tumbang. '
+    oriImage: {fileID: 21300000, guid: 22848c879320ae04991ef0af3ec79aa0, type: 3}
+    image: {fileID: 2800000, guid: 22848c879320ae04991ef0af3ec79aa0, type: 3}
+--- !u!114 &1978488369
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 20
+  levelSetting:
+    dif: 1
+    judul: 'Rumah Adat Kalimantan Tengah: Rumah Betang'
+    penjelasan: Rumah Betang dari Kalimantan Tengah ini seperti panggung dengan kayu
+      tinggi yang menopangnya dengan tujuan untuk menghindari banjir. Karena rumah
+      ini sangat besar dan panjang, penghuninya dapat mencapai 150 orang.
+    oriImage: {fileID: 21300000, guid: 950d276f29f750a43baff790697a3fac, type: 3}
+    image: {fileID: 2800000, guid: 950d276f29f750a43baff790697a3fac, type: 3}
 --- !u!1 &1985727105
 GameObject:
   m_ObjectHideFlags: 0
@@ -9232,7 +9923,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   level: 5
   levelSetting:
-    dif: 2
+    dif: 0
     judul: 'Rumah Adat Kepulauan Riau: Rumah Atap Limas Potong'
     penjelasan: Rumah adat dari Kepulauan Riau ini terlihat sangat sederhana. Berbentuk
       seperti rumah panggung, yang memanjang ke belakang dengan dinding kayu tersusun
@@ -9452,3 +10143,70 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2073920556}
   m_CullTransparentMesh: 1
+--- !u!114 &2088318164
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 31
+  levelSetting:
+    dif: 3
+    judul: 'Rumah Adat Maluku: Rumah Baileo'
+    penjelasan: Rumah adat lain yang tidak kalah unik adalah rumah baileo dari Maluku.
+      Tidak ada dinding di rumah ini dan berbentuk panggung. Untuk menyangganya,
+      ada 9 tiang di rumah ini dengan batu pamali yang melengkapinya. Biasanya, warga
+      setempat juga menggunakan batu pamali ini sebagai tempat sesaji bagi roh leluhurnya.
+    oriImage: {fileID: 21300000, guid: 69007adb708d4ec42b4d4c46c14db56e, type: 3}
+    image: {fileID: 2800000, guid: 69007adb708d4ec42b4d4c46c14db56e, type: 3}
+--- !u!114 &2110448931
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 24
+  levelSetting:
+    dif: 2
+    judul: 'Rumah Adat Sulawesi Tengah: Rumah Souraja'
+    penjelasan: Rumah adat Provinsi Sulawesi Tengah ini memiliki tiga ruangan di
+      dalamnya. Ruang pertama merupakan ruang depan untuk menerima tamu. Sedangkan
+      pada ruang kedua terdapat ruang tengah, yang juga merupakan ruang tamu. Ruangan
+      ini punya tujuan agar penghuninya bisa saling lebih dekat. Untuk ruang terakhir,
+      merupakan ruang rahasia.
+    oriImage: {fileID: 21300000, guid: 50e19525a39787f43a0dd355d00b3f99, type: 3}
+    image: {fileID: 2800000, guid: 50e19525a39787f43a0dd355d00b3f99, type: 3}
+--- !u!114 &2145242479
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 17
+  levelSetting:
+    dif: 1
+    judul: 'Rumah Adat Kalimantan Barat: Rumah Panjang'
+    penjelasan: Rumah adat Provinsi Kalimantan Barat ini mempunyai ukuran yang besar
+      dan terdiri dari dua bagian, yaitu bangunan atas dan bawah. Rumah ini sangat
+      unik karena memadukan kesan modern dan tradisional sekaligus. Arsitektur Rumah
+      Panjang bertema budaya Suku Dayak pada beberapa sisi bangunannya.
+    oriImage: {fileID: 21300000, guid: e94d3af03a52b4e4b954dab07227e57d, type: 3}
+    image: {fileID: 2800000, guid: e94d3af03a52b4e4b954dab07227e57d, type: 3}

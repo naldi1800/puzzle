@@ -123,6 +123,52 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+--- !u!114 &11614480
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 13
+  levelSetting:
+    dif: 1
+    judul: Alat Musik Tradisional Geso-geso
+    penjelasan: Geso-geso juga memiliki bentuk menyerupai biola dan kecapi. Alat
+      musik tradisional Indonesia dari suku Toraja ini terbuat dari kayu dan tempurung
+      kelapa yang diberi dawai atau senar. Untuk memainkannya, kamu hanya perlu menggesek
+      alat musik tradisional ini dengan sebuah alat khusus yang terbuat dari bilah
+      bambu dan tali.
+    oriImage: {fileID: 21300000, guid: fc0fcd9de1fff4448baba6f6a90eb779, type: 3}
+    image: {fileID: 2800000, guid: fc0fcd9de1fff4448baba6f6a90eb779, type: 3}
+--- !u!114 &16941059
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 18
+  levelSetting:
+    dif: 1
+    judul: Alat Musik Tradisional Karinding
+    penjelasan: Karinding adalah alat musik tradisional Indonesia yang berasal dari
+      Jawa Barat. Cara menggunakan alat musik ini yaitu dengan meletakan kariding
+      di bibir, kemudian tepuk bagian pemukulnya supaya tercipta resonansi suara.
+      Karinding biasanya digunakan sebagai alat pengusir hama di sawah. Suara karinding
+      muncul dari pergesekan pegangan dan ujung jari yang ditepuk-tepuk.
+    oriImage: {fileID: 21300000, guid: 005dacd2a275048489bfe17f4da9e23b, type: 3}
+    image: {fileID: 2800000, guid: 005dacd2a275048489bfe17f4da9e23b, type: 3}
 --- !u!1 &26725472
 GameObject:
   m_ObjectHideFlags: 0
@@ -412,6 +458,29 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 52737533}
   m_CullTransparentMesh: 1
+--- !u!114 &61151376
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 25
+  levelSetting:
+    dif: 2
+    judul: Alat Musik Tradisional Bende
+    penjelasan: 'Alat musik tradisional berjenis idiofon yang satu ini berasal dari
+      daerah Lampung. Mengapa idiofon? Karena suara yang dihasilkan berasal dari
+      bahan dasar alat musik itu sendiri. Dan cara memainkan alat musik tradisional
+      ini pun tergolong mudah, karena kamu hanya perlu memukulnya dengan menggunakan
+      pemukul khusus yang sudah dilapisi dengan kain berbahan empuk di bagian ujungnya. '
+    oriImage: {fileID: 21300000, guid: 780393d30213b78468bd461f97d355b1, type: 3}
+    image: {fileID: 2800000, guid: 780393d30213b78468bd461f97d355b1, type: 3}
 --- !u!1 &72025834
 GameObject:
   m_ObjectHideFlags: 0
@@ -624,6 +693,31 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 91478002}
   m_CullTransparentMesh: 1
+--- !u!114 &97374622
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 35
+  levelSetting:
+    dif: 3
+    judul: Gender
+    penjelasan: Alat musik gender berasal dari daerah Jawa Tengah. Alat musik ini
+      merupakan alat musik pukul logam yang memiliki 10 sampai 14 bilah logam kuningan
+      yang digantungkan di atas resonator dari bambu atau seng, dan diketuk dengan
+      pemukul berbetuk bundaran berbilah dari kayu (Bali) atau kayu berlapis kain
+      (Jawa). Sudah tentu setiap bilahnya memiliki nada yang berbeda-beda. Pada gamelan
+      Jawa, digunakan 3 macam gender, yaitu gender slendro, gender pelog, dan gender
+      pathet barang.
+    oriImage: {fileID: 21300000, guid: 5481dc52a94303f4bbaf1178bfa8a8c6, type: 3}
+    image: {fileID: 2800000, guid: 5481dc52a94303f4bbaf1178bfa8a8c6, type: 3}
 --- !u!1 &135411166
 GameObject:
   m_ObjectHideFlags: 0
@@ -701,6 +795,54 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 135411166}
   m_CullTransparentMesh: 1
+--- !u!114 &137160619
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 20
+  levelSetting:
+    dif: 1
+    judul: Alat Musik Tradisional Siter
+    penjelasan: Siter merupakan alat musik tradisional yang berasal dari Jawa Tengah,
+      alat musik tradisional ini juga memiliki bunyi yang disetel dengan nada pelog
+      dan slendro. Namun yang membedakan adalah siter alat musik yang cara memainkannya
+      dengan cara dipetik. Siter memiliki 11 dan 13 pasang senar, dan dimasukan ke
+      dalam kotak resonator. Senar siter dimainkan dengan ibu jari, sedangkan jari
+      lain digunakan untuk menahan getaran ketika senar lain dipetik, ini biasanya
+      merupakan ciri khas instrumen gamelan.
+    oriImage: {fileID: 21300000, guid: eb1974e260a32074a9f335fa392da381, type: 3}
+    image: {fileID: 2800000, guid: eb1974e260a32074a9f335fa392da381, type: 3}
+--- !u!114 &143796823
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 19
+  levelSetting:
+    dif: 1
+    judul: Alat Musik Tradisional Karinding
+    penjelasan: Karinding adalah alat musik tradisional Indonesia yang berasal dari
+      Jawa Barat. Cara menggunakan alat musik ini yaitu dengan meletakan kariding
+      di bibir, kemudian tepuk bagian pemukulnya supaya tercipta resonansi suara.
+      Karinding biasanya digunakan sebagai alat pengusir hama di sawah. Suara karinding
+      muncul dari pergesekan pegangan dan ujung jari yang ditepuk-tepuk.
+    oriImage: {fileID: 21300000, guid: 734c2b0d0f2df334b96dcf315625d039, type: 3}
+    image: {fileID: 2800000, guid: 734c2b0d0f2df334b96dcf315625d039, type: 3}
 --- !u!1 &150485249
 GameObject:
   m_ObjectHideFlags: 0
@@ -971,6 +1113,29 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 231420354}
   m_CullTransparentMesh: 1
+--- !u!114 &236192534
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 11
+  levelSetting:
+    dif: 1
+    judul: Alat Musik Tradisional Ganda
+    penjelasan: Ganda atau Kanda juga merupakan alat musik tradisional Gorontalo
+      yang serupa dengan gendang. Alat musik tradisional dari Sulawesi ini juga dimainkan
+      dengan cara dipukul pada bagian kulitnya saja. Namun Ganda memiliki tubuh yang
+      lebih ramping dan tinggi. Tidak seperti gendang atau doli-doli yang bertubuh
+      lebih pendek dan tebal
+    oriImage: {fileID: 21300000, guid: 655be804bd3ee21478e17e8632495677, type: 3}
+    image: {fileID: 2800000, guid: 655be804bd3ee21478e17e8632495677, type: 3}
 --- !u!1 &256873254
 GameObject:
   m_ObjectHideFlags: 0
@@ -1409,6 +1574,28 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 316812852}
   m_CullTransparentMesh: 1
+--- !u!114 &350115788
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 26
+  levelSetting:
+    dif: 2
+    judul: Alat Musik Tradisional Santu
+    penjelasan: 'Alat musik tradisional yang berikut ini berasal dari daerah Sulawesi
+      Tengah. Santu adalah alat musik berbentuk tabung yang kamu bisa mainkan dengan
+      cara dipetik. Kulit ari pada bagian badan bambu dibentuk empat dan di tengah
+      badan dibuat lubang sebagai resonator. '
+    oriImage: {fileID: 21300000, guid: c4393556999f38d4586782ca8f456b25, type: 3}
+    image: {fileID: 2800000, guid: c4393556999f38d4586782ca8f456b25, type: 3}
 --- !u!1 &353831645
 GameObject:
   m_ObjectHideFlags: 0
@@ -1486,6 +1673,28 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 353831645}
   m_CullTransparentMesh: 1
+--- !u!114 &364508724
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 29
+  levelSetting:
+    dif: 2
+    judul: Alat Musik Tradisional Keso-keso
+    penjelasan: Dari bentuknya, alat musik tradisional Sulawesi Selatan ini memiliki
+      kemiripan dengan alat musik tradisional rebab. Cara memainkannya juga tidaklah
+      sulit yaitu dengan cara menggesekkan alat khusus pada alat musik ini sehingga
+      dari hasil gesekan itu akan mengeluarkan suara.
+    oriImage: {fileID: 21300000, guid: 3cfb80feb4efd1b42ad2d308cd9042e4, type: 3}
+    image: {fileID: 2800000, guid: 3cfb80feb4efd1b42ad2d308cd9042e4, type: 3}
 --- !u!1 &411853611
 GameObject:
   m_ObjectHideFlags: 0
@@ -1833,6 +2042,29 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 454737383}
   m_CullTransparentMesh: 1
+--- !u!114 &470337091
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 34
+  levelSetting:
+    dif: 3
+    judul: Arumba
+    penjelasan: Arumba merupakan alat music tradisional yang berasal dari Jawa Barat.
+      Arumba adalah ensemble atau gabungan beberapa alat musik yang berbahan dasar
+      bambu. Pada akhirnya, arumba berkembang menjadi sebuah musikal dan jenis musik
+      tersendiri. Alat musik tradisional arumba terbuat dari bambu pilihan seperti
+      awi temen, tali dan wulung (bambu hitam).
+    oriImage: {fileID: 21300000, guid: 6449adbd608f2644a9453b716ccd3539, type: 3}
+    image: {fileID: 2800000, guid: 6449adbd608f2644a9453b716ccd3539, type: 3}
 --- !u!1 &483923350
 GameObject:
   m_ObjectHideFlags: 0
@@ -1869,8 +2101,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 1}
   m_AnchorMax: {x: 0.5, y: 1}
-  m_AnchoredPosition: {x: 0, y: -15}
-  m_SizeDelta: {x: 850, y: 175}
+  m_AnchoredPosition: {x: 0, y: -25}
+  m_SizeDelta: {x: 700, y: 100}
   m_Pivot: {x: 0.5, y: 1}
 --- !u!114 &483923352
 MonoBehaviour:
@@ -2045,8 +2277,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 3, y: -20}
-  m_SizeDelta: {x: 1388, y: 660}
+  m_AnchoredPosition: {x: 25, y: -15}
+  m_SizeDelta: {x: 950, y: 430}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &562310284
 MonoBehaviour:
@@ -2559,6 +2791,53 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 643374242}
   m_CullTransparentMesh: 1
+--- !u!114 &669406023
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 12
+  levelSetting:
+    dif: 1
+    judul: Alat Musik Tradisional Talindo
+    penjelasan: Di daerah Bugis, alat musik tradisional ini memiliki sebutan Talindo.
+      Namun berbeda dengan di Makassar. Di daerah Makassar, alat musik ini disebut
+      dengan nama Popondi. Biasanya alat musik tradisional ini dimainkan sebagai
+      perayaan sesudah para petani merayakan pesta panen. Talindo adalah alat musik
+      petik yang hanya memiliki satu buah senar untuk dimainkan. Bentuknya yang unik
+      menjadi daya tarik tersendiri untuk alat musik ini.
+    oriImage: {fileID: 21300000, guid: 20881336b7dce6e49852925cd150b7c8, type: 3}
+    image: {fileID: 2800000, guid: 20881336b7dce6e49852925cd150b7c8, type: 3}
+--- !u!114 &683382450
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 15
+  levelSetting:
+    dif: 1
+    judul: Alat Musik Tradisional Pupuik Tanduak
+    penjelasan: Masyarakat Minangkabau Sumatera Barat membuat alat musik daerah ini
+      dari tanduk hewan kerbau. Alat musik tradisional ini dibuat dengan cara memotong
+      ujung tanduk sehingga membentuk rongga sampai pada pangkalnya. Saat meniup
+      pupuik tanduak, alat musik ini akan mengeluarkan suara yang menyerupai terompet
+      namun dengan nada yang lebih tinggi dan melengking.
+    oriImage: {fileID: 21300000, guid: 0418a9f3fdc0e71499c3552e2cacecdd, type: 3}
+    image: {fileID: 2800000, guid: 0418a9f3fdc0e71499c3552e2cacecdd, type: 3}
 --- !u!1 &690464092
 GameObject:
   m_ObjectHideFlags: 0
@@ -2636,6 +2915,33 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 690464092}
   m_CullTransparentMesh: 1
+--- !u!114 &694889241
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 31
+  levelSetting:
+    dif: 3
+    judul: Kenong
+    penjelasan: "Alat musik daerah Jawa Tengah yang berikutnya adalah kenong. Alat
+      musik ini merupakan salah satu alat musik yang menggunakan hanya satu alat
+      pemukul. Kenong berfungsi sebagai penentu batas-batas gatra, menegaskan irama.
+      Kenong juga termasuk dalam alat musik berpencu, namun ukuran lebih besar daripada
+      bonang.\r\nUniknya, dari seluruh instrumen gamelan, kenong merupakan alat musik
+      yang bertubuh paling gemuk. Tidak seperti gong yang meskipun bentuknya lebar,
+      namun tetap pipih. Bentuk kenong yang besar menghasilkan suara yang rendah
+      namun nyaring dengan timbre yang khas. Di dalam telinga masyarakat Jawa, kenong
+      ditangkap berbunyi \u2018ning-nong\u2019, sehingga dinamakan kenong.\r\n"
+    oriImage: {fileID: 21300000, guid: 8d92ae9148d19a244a8b70d180b8fd33, type: 3}
+    image: {fileID: 2800000, guid: 8d92ae9148d19a244a8b70d180b8fd33, type: 3}
 --- !u!1 &712766834
 GameObject:
   m_ObjectHideFlags: 0
@@ -2925,6 +3231,28 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 748385067}
   m_CullTransparentMesh: 1
+--- !u!114 &750165923
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 23
+  levelSetting:
+    dif: 2
+    judul: Alat Musik Tradisional Garantung
+    penjelasan: Alat musik tradisional ini berasal dari Batak Toba Sumatera Utara.
+      Garantung terbuat dari kayu yang dipotong dan disusun sebanyak 5 sampai 7 bilah.
+      Setiap kayu yang disusun memiliki nada tersendiri. Dan memainkan garantung
+      dengan dipukul menggunakan alat pemukul khusus.
+    oriImage: {fileID: 21300000, guid: ec55b9bcc06de3848bfb7a0e3fe03c18, type: 3}
+    image: {fileID: 2800000, guid: ec55b9bcc06de3848bfb7a0e3fe03c18, type: 3}
 --- !u!114 &751464389
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2940,10 +3268,40 @@ MonoBehaviour:
   level: 4
   levelSetting:
     dif: 0
-    judul: 
-    penjelasan: 
-    oriImage: {fileID: 0}
-    image: {fileID: 0}
+    judul: Kolintang
+    penjelasan: Kolintang adalah alat musik tradisional dari Minahasa, Sulawesi Utara,
+      yang berbentuk segiempat trapesium dengan bilah-bilah kayu berukuran berbeda.
+      Setiap bilah kayu akan menghasilkan suara berbeda pula jika dipukul. Karena
+      itu, kolintang termasuk alat musik idiofon karena mengeluarkan suara dari getarannya
+      sendiri. Rakyat Minahasa beranggapan bahwa nama kolintang berasal dari suaranya,
+      yaitu tong (suara rendah), ting (suara tinggi), dan tang (suara umum). Tong
+      ting tang beralih jadi kata kulintang agar mudah dilafalkan oleh penduduk Minahasa.
+    oriImage: {fileID: 21300000, guid: cbaa26dbd8bb8144998469fcfa05e2ae, type: 3}
+    image: {fileID: 2800000, guid: cbaa26dbd8bb8144998469fcfa05e2ae, type: 3}
+--- !u!114 &770458257
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 27
+  levelSetting:
+    dif: 2
+    judul: Alat Musik Tradisional Panting
+    penjelasan: Panting merupakan alat musik tradisional yang sangat digemari oleh
+      para penduduk Kalimantan Selatan karena suara yang dihasilkan tergolong unik.
+      Bentuk alat musik ini seperti gitar namun ukuranya lebih kecil. Bagian badan
+      panting terbuat dari kayu rawali, batang nangka kayu pulantan dan sebagainya.
+      pada bagian bodinya yang memiliki rongga ditutup menggunakan kulit, bisa juga
+      dengan papan triplek, selanjutnya diberi tali senar.
+    oriImage: {fileID: 21300000, guid: 5ec916081ab18dc428d0f8179b2d0140, type: 3}
+    image: {fileID: 2800000, guid: 5ec916081ab18dc428d0f8179b2d0140, type: 3}
 --- !u!1 &772464669
 GameObject:
   m_ObjectHideFlags: 0
@@ -3175,7 +3533,7 @@ MonoBehaviour:
   m_ChildAlignment: 0
   m_StartCorner: 0
   m_StartAxis: 0
-  m_CellSize: {x: 200, y: 200}
+  m_CellSize: {x: 120, y: 120}
   m_Spacing: {x: 35, y: 25}
   m_Constraint: 1
   m_ConstraintCount: 6
@@ -3277,7 +3635,7 @@ MonoBehaviour:
   m_HandleRect: {fileID: 1404297680}
   m_Direction: 2
   m_Value: 1
-  m_Size: 0.42580646
+  m_Size: 0.4343434
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
@@ -3455,6 +3813,58 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 828487136}
   m_CullTransparentMesh: 1
+--- !u!114 &828555867
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 16
+  levelSetting:
+    dif: 1
+    judul: Alat Musik Tradisional Suling
+    penjelasan: 'Kamu tentu sudah tidak asing lagi dengan alat musik tradisional
+      Indonesia asal Jawa Barat yang satu ini. Karena sejak masih SD kita biasanya
+      sudah diajarkan untuk bermain alat musik tradisional suling.
+
+      Alat musik
+      ini terbuat dari bambu dan dimainkan dengan cara ditiup. Ketika kamu meniupnya,
+      jari-jari harus menutup lubang nada agar dapat menghasilkan suara yang diinginkan.
+
+'
+    oriImage: {fileID: 21300000, guid: 6263b45b66ec38f418954b168cd67b0f, type: 3}
+    image: {fileID: 2800000, guid: 6263b45b66ec38f418954b168cd67b0f, type: 3}
+--- !u!114 &876979007
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 38
+  levelSetting:
+    dif: 3
+    judul: Sasando
+    penjelasan: Sasando merupakan alat musik berdawai yang dimainkan dengan cara
+      dipetik, mirip dengan kecapi atau harpa. Alat musik ini berasal dari Kabupaten
+      Rote Ndao, Nusa Tenggara Timur dan sudah dikenal hingga keluar negeri karena
+      sering digunakan di pameran kebudayaan Indonesia. Sasando dimainkan untuk mengiringi
+      lagu pada tarian tradisional masyarakat NTT. Sejak tahun 1960-an, alat musik
+      ini telah dimodifikasi menjadi sasando elektrik atas prakarsa seorang pakar
+      permainan sasando di NTT bernama Edu Pah.
+    oriImage: {fileID: 21300000, guid: f37aa136de691c842bec2d169bbf6775, type: 3}
+    image: {fileID: 2800000, guid: f37aa136de691c842bec2d169bbf6775, type: 3}
 --- !u!1 &975979349
 GameObject:
   m_ObjectHideFlags: 0
@@ -3908,13 +4318,46 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 077799404ed58854a971e9e35d984434, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  numberOfLevel: 5
+  numberOfLevel: 38
   mainLevels:
   - {fileID: 1735394346}
   - {fileID: 1742671810}
   - {fileID: 1678114740}
   - {fileID: 751464389}
   - {fileID: 2007953467}
+  - {fileID: 1802669653}
+  - {fileID: 1041731457}
+  - {fileID: 1209245119}
+  - {fileID: 1990540296}
+  - {fileID: 2089100976}
+  - {fileID: 236192534}
+  - {fileID: 669406023}
+  - {fileID: 11614480}
+  - {fileID: 1026296126}
+  - {fileID: 683382450}
+  - {fileID: 828555867}
+  - {fileID: 1578919820}
+  - {fileID: 16941059}
+  - {fileID: 143796823}
+  - {fileID: 137160619}
+  - {fileID: 1882586777}
+  - {fileID: 1502216804}
+  - {fileID: 750165923}
+  - {fileID: 1813224582}
+  - {fileID: 61151376}
+  - {fileID: 350115788}
+  - {fileID: 770458257}
+  - {fileID: 1563400654}
+  - {fileID: 364508724}
+  - {fileID: 1930156713}
+  - {fileID: 694889241}
+  - {fileID: 1119962110}
+  - {fileID: 1675671194}
+  - {fileID: 470337091}
+  - {fileID: 97374622}
+  - {fileID: 2123096433}
+  - {fileID: 1261863996}
+  - {fileID: 876979007}
   main: {fileID: 798333695}
   buttons: []
   activeLevel: 0
@@ -3933,6 +4376,30 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1026296126
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 14
+  levelSetting:
+    dif: 1
+    judul: Alat Musik Tradisional Lalove
+    penjelasan: Lalove adalah alat musik tradisional Indonesia yang berasal dari
+      daerah Sulawesi Tengah. Sama-sama terbuat dari bambu, membuat alat musik ini
+      kerap kali disama-samakan dengan suling. Sebetulnya lalove adalah alat musik
+      yang sakral, karena tidak semua orang boleh memainkan alat musik ini. Dan biasanya
+      lalove digunakan untuk mengiri tarian tradisional Balia yang merupakan ritual
+      penyembuhan suku Kaili di Sulawesi Tengah.
+    oriImage: {fileID: 21300000, guid: 6d8ae581b5e03a44790cf29a5e2e78f9, type: 3}
+    image: {fileID: 2800000, guid: 6d8ae581b5e03a44790cf29a5e2e78f9, type: 3}
 --- !u!1 &1041384553
 GameObject:
   m_ObjectHideFlags: 0
@@ -4068,6 +4535,29 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1041384553}
   m_CullTransparentMesh: 1
+--- !u!114 &1041731457
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 7
+  levelSetting:
+    dif: 0
+    judul: Angklung
+    penjelasan: "Angklung merupakan alat musik tradisional yang berasal dari daerah
+      Jawa Barat dan masih cukup sering digunakan. Cukup banyak musisi yang menggunakan
+      angklung layaknya sebuah orkestra.\r\nAngklung terbuat dari bambu, dan kamu
+      bisa memainkan alat musik tradisional ini dengan cara menggoyangkannya sampai
+      bambu tersebut mengeluarkan suara akibat getaran.\r"
+    oriImage: {fileID: 21300000, guid: eb495fd9f31fcca4ab6f4db5aa244b11, type: 3}
+    image: {fileID: 2800000, guid: eb495fd9f31fcca4ab6f4db5aa244b11, type: 3}
 --- !u!1 &1041747895
 GameObject:
   m_ObjectHideFlags: 0
@@ -4415,6 +4905,31 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1090440675}
   m_CullTransparentMesh: 1
+--- !u!114 &1119962110
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 32
+  levelSetting:
+    dif: 3
+    judul: Ketipung
+    penjelasan: Alat musik daerah Jawa Timur yang berikutnya adalah ketipung. Bentuknya
+      yang menyerupai gendang kerap kali membuat orang berpikir bahwa ketipung adalah
+      gendang juga, namun berukuran lebih kecil dan dimainkan dengan cara dipukul.
+      Beberapa orang menganggap bahwa ketipung merupakan nama lain dari gendang dangdut.
+      Anggapan seperti ini sering terdengar karena memang sulit membedakan ketipung
+      dan kendang. Ketipung dibuat dari kayu kemudian diberikan lubang yang ukurannya
+      20 - 40 cm tergantung dari keinginan sang pembuat.
+    oriImage: {fileID: 21300000, guid: 40212e439d2c00748b681e5b2e978b64, type: 3}
+    image: {fileID: 2800000, guid: 40212e439d2c00748b681e5b2e978b64, type: 3}
 --- !u!1 &1176493242
 GameObject:
   m_ObjectHideFlags: 0
@@ -4847,7 +5362,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 72
+  m_fontSize: 58.3
   m_fontSizeBase: 36
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -4897,6 +5412,29 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1207910359}
   m_CullTransparentMesh: 1
+--- !u!114 &1209245119
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 8
+  levelSetting:
+    dif: 0
+    judul: Sampe
+    penjelasan: Mungkin nama sampe masih cukup asing bagi orang kebanyakan. Ya, karena
+      sampe sendiri berasal dari daerah Kalimantan Timur. Sampe termasuk sebagai
+      alat musik kordofon yang mengeluarkan bebunyian dari dawai atau senar dan dimainkan
+      dengan cara dipetik. Jika dilihat dari bentuknya, sampe cukup mirip dengan
+      alat musik kecapi.
+    oriImage: {fileID: 21300000, guid: a56c21691a3dca946a793b5aacc652ed, type: 3}
+    image: {fileID: 2800000, guid: a56c21691a3dca946a793b5aacc652ed, type: 3}
 --- !u!1 &1225335189
 GameObject:
   m_ObjectHideFlags: 0
@@ -5109,6 +5647,29 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1247653254}
   m_CullTransparentMesh: 1
+--- !u!114 &1261863996
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 37
+  levelSetting:
+    dif: 3
+    judul: Celempung
+    penjelasan: Alat musik tradisional Jawa Barat yang terakhir adalah celempung.
+      Celempung terbuat dari kulit bambu dengan memanfaatkan resonansi yang ada dalam
+      ruas batang bambu untuk menghasilkan suara. Satu senar celempung disetel dengan
+      menggunakan nada pelog, dan satunya lagi disetel dengan nada slendro. Instrumen
+      Gamelan Siteran menggunakan celempung dan siter sebagai ciri khasnya.
+    oriImage: {fileID: 21300000, guid: 80105dfa938b61640951a65e20f467ad, type: 3}
+    image: {fileID: 2800000, guid: 80105dfa938b61640951a65e20f467ad, type: 3}
 --- !u!1 &1263604622
 GameObject:
   m_ObjectHideFlags: 0
@@ -5606,7 +6167,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 1500, y: 850}
+  m_SizeDelta: {x: 1000, y: 600}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1343684184
 MonoBehaviour:
@@ -5621,7 +6182,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 0.9019608}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -6146,6 +6707,29 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1423329436}
   m_CullTransparentMesh: 1
+--- !u!114 &1502216804
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 22
+  levelSetting:
+    dif: 2
+    judul: Alat Musik Tradisional Gonrang
+    penjelasan: Gonrang merupakan salah satu alat musik tradisional yang banyak digunakan
+      di daerah Simalungun, Sumatera Utara. Atau lebih tepatnya di sebelah timur
+      Danau Toba. Gonrang terdiri dari beberapa instrumen yang setiap alat musiknya
+      memiliki sebuah makna tersendiri. Alat musik ini memiliki sifat yang sangat
+      sakral, karena biasanya digunakan untuk mengiringi upacara adat suku Simalungun.
+    oriImage: {fileID: 21300000, guid: 1e58b730a112a084da5077eb11f4ab4d, type: 3}
+    image: {fileID: 2800000, guid: 1e58b730a112a084da5077eb11f4ab4d, type: 3}
 --- !u!1 &1536454672
 GameObject:
   m_ObjectHideFlags: 0
@@ -6223,6 +6807,29 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1536454672}
   m_CullTransparentMesh: 1
+--- !u!114 &1563400654
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 28
+  levelSetting:
+    dif: 2
+    judul: Alat Musik Tradisional Cengceng
+    penjelasan: Alat musik tradisional berikutnya adalah cengceng yang berasal dari
+      Bali. Cengceng biasanya oleh masyarakat Bali digunakan dalam acara-acara seperti
+      perayaan adat daerah dan ketika pesta pernikahan. Cara memainkan cengceng adalah
+      dengan meletakannya pada kedua telapak tangan yang kemudian dilanjutkan dengan
+      saling dibenturkan. Alat musik ini termasuk dalam jenis bunyi idiofon.
+    oriImage: {fileID: 21300000, guid: 9c1e13bcd60847e489fe690648f9db48, type: 3}
+    image: {fileID: 2800000, guid: 9c1e13bcd60847e489fe690648f9db48, type: 3}
 --- !u!1 &1570092678
 GameObject:
   m_ObjectHideFlags: 0
@@ -6300,6 +6907,30 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1570092678}
   m_CullTransparentMesh: 1
+--- !u!114 &1578919820
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 17
+  levelSetting:
+    dif: 1
+    judul: Alat Musik Tradisional Demung
+    penjelasan: Demung adalah alat musik daerah yang berasal dari Jawa Tengah dan
+      masih termasuk di dalam keluarga balungan. Dalam pagelaran musik gamelan, biasanya
+      terdapat dua jenis demung, yaitu demung dengan nada pelog dan slendro. Meskipun
+      bentuknya cukup besar, namun demung justru menghasilkan nada oktaf terendah
+      dalam alat musik balungan. Demung biasanya terbuat dari logam kuningan, dan
+      kamu cukup memukulnya dengan alat pemukul khusus untuk memainkannya.
+    oriImage: {fileID: 21300000, guid: 7b5831f542c7a5a44bef8e73fdb8ccd3, type: 3}
+    image: {fileID: 2800000, guid: 7b5831f542c7a5a44bef8e73fdb8ccd3, type: 3}
 --- !u!1 &1606088307
 GameObject:
   m_ObjectHideFlags: 0
@@ -7185,6 +7816,33 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1671387529}
   m_CullTransparentMesh: 1
+--- !u!114 &1675671194
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 33
+  levelSetting:
+    dif: 3
+    judul: Gambang
+    penjelasan: Gambang adalah alat musik Jawa Tengah yang merupakan salah satu instrumen
+      orkes gambang kromong dan gambang rancag. Gambang memiliki sumber suara sebanyak
+      20 buah bilah yang terbuat dari kayu atau bambu. Bentuk resonatornya mirip
+      dengan perahu, yang di atas bibir kotak suara tersebut tampak beberapa bilah
+      kayu nada dalam bentuk persegi empat panjang tipis. Pada ujung pangkalnya resonator
+      gambang terpancang bentuk piramid, sebagai penutup bagian ujung dan pangkal
+      tersebut. Bilah-bilah gambang terbuat dari kayu jati. Bilah dengan nada terendah
+      memiliki bentuk yang paling panjang dan lebar. Sebaliknya, bilah dengan nada
+      tertinggi memiliki bentuk yang pendek, tebal, dan sempit.
+    oriImage: {fileID: 21300000, guid: 1dda0cce35e89934ab5e147b74e2d797, type: 3}
+    image: {fileID: 2800000, guid: 1dda0cce35e89934ab5e147b74e2d797, type: 3}
 --- !u!114 &1678114740
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7212,8 +7870,8 @@ MonoBehaviour:
       memainkan alat musik kecapi adalah dengan dipetik bagian senarnya.
 
 '
-    oriImage: {fileID: 0}
-    image: {fileID: 0}
+    oriImage: {fileID: 21300000, guid: 522d5a7163491b74c933a993f2ddabf0, type: 3}
+    image: {fileID: 2800000, guid: 522d5a7163491b74c933a993f2ddabf0, type: 3}
 --- !u!1 &1683991604
 GameObject:
   m_ObjectHideFlags: 0
@@ -7265,7 +7923,7 @@ MonoBehaviour:
   m_UiScaleMode: 1
   m_ReferencePixelsPerUnit: 100
   m_ScaleFactor: 1
-  m_ReferenceResolution: {x: 2160, y: 3840}
+  m_ReferenceResolution: {x: 1560, y: 720}
   m_ScreenMatchMode: 0
   m_MatchWidthOrHeight: 0
   m_PhysicalUnit: 3
@@ -8415,6 +9073,30 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1801201394}
   m_CullTransparentMesh: 1
+--- !u!114 &1802669653
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 6
+  levelSetting:
+    dif: 0
+    judul: Gendang
+    penjelasan: Sebetulnya di setiap daerah memiliki alat musik tradisional yang
+      bentuknya menyerupai gendang. Dan biasanya memiliki nama-nama yang berbeda
+      di setiap daerahnya. Namun gendang sendiri berasal dari Daerah Istimewa Yogyakarta.
+      Gendang juga merupakan salah satu alat musik yang digunakan pada pagelaran
+      musik gamelan. Alat musik gendang dimainkan dengan cara dipukul atau diketuk
+      pada bagian kulit yang ada di sisi kanan dan kiri alat musik.
+    oriImage: {fileID: 21300000, guid: 3f34096deaa00ff47beb430859350a27, type: 3}
+    image: {fileID: 2800000, guid: 3f34096deaa00ff47beb430859350a27, type: 3}
 --- !u!1 &1805561126
 GameObject:
   m_ObjectHideFlags: 0
@@ -8685,6 +9367,54 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1806891266}
   m_CullTransparentMesh: 1
+--- !u!114 &1813224582
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 24
+  levelSetting:
+    dif: 2
+    judul: Alat Musik Tradisional Tifa
+    penjelasan: ' Jika dilihat sekilas dari bentuknya, alat musik tradisional tifa
+      memiliki bentuk yang mirip dengan alat musik kendang. Alat musik tradisional
+      yang berasal dari Maluku dan Papua ini dimainkan dengan cara dipukul.  Uniknya,
+      alat musik tradisional ini memiliki ukiran-ukiran khas Papua dan Maluku yang
+      menghiasi bagian luar dari alat musik tifa. Dan karena bentuknya yang sangat
+      menarik, tidak sedikit turis-turis yang datang ke Maluku maupun Papua menjadikan
+      alat musik tradisional ini sebagai cendera mata.  '
+    oriImage: {fileID: 21300000, guid: ac091c6ba20871740b16f798181c925a, type: 3}
+    image: {fileID: 2800000, guid: ac091c6ba20871740b16f798181c925a, type: 3}
+--- !u!114 &1882586777
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 21
+  levelSetting:
+    dif: 2
+    judul: Alat Musik Tradisional Serunai
+    penjelasan: Serunai adalah salah satu alat musik tradisional dari Sumatera Barat
+      yang menjadi sarana hiburan masyarakat Minang. Meskipun suara yang dihasilkan
+      serunai melengking, namun ternyata sangat merdu. Selain digunakan sebagai sarana
+      hiburan, akan tetapi terkadang serunai juga digunakan untuk upacara adat seperti
+      awal tanam padi, dan pesta panen.
+    oriImage: {fileID: 21300000, guid: 4a9519e494be32a45bb8d38c8471e3b3, type: 3}
+    image: {fileID: 2800000, guid: 4a9519e494be32a45bb8d38c8471e3b3, type: 3}
 --- !u!1 &1890152208
 GameObject:
   m_ObjectHideFlags: 0
@@ -8820,6 +9550,29 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1890152208}
   m_CullTransparentMesh: 1
+--- !u!114 &1930156713
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 30
+  levelSetting:
+    dif: 2
+    judul: Alat Musik Tradisional Saluang
+    penjelasan: Saluang merupakan alat musik tradisional yang berasal dari Minangkabau
+      Sumatera Barat. Saluang merupakan alat musik yang berbunyi aerofon, yakni bebunyian
+      yang berasal dari hembusan angin. Cara memainkannya pun serupa dengan seruling,
+      di mana kamu hanya perlu meniup dan lubang-lubang yang berada di saluang berfungsi
+      untuk mengatur nada-nada dengan menggunakan jari kamu.
+    oriImage: {fileID: 21300000, guid: 632860c66d6b7c44090d90087b52bb9e, type: 3}
+    image: {fileID: 2800000, guid: 632860c66d6b7c44090d90087b52bb9e, type: 3}
 --- !u!1 &1967274410
 GameObject:
   m_ObjectHideFlags: 0
@@ -9090,6 +9843,28 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1985727105}
   m_CullTransparentMesh: 1
+--- !u!114 &1990540296
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 9
+  levelSetting:
+    dif: 0
+    judul: Aramba
+    penjelasan: Aramba bberasal dari Pulau Nias Sumatera Utara. Jika dilihat dengan
+      sekilas, aramba memiliki bentuk yang sama seperti gong. Namun aramba bertubuh
+      lebih kecil. Cara memainkan kedua alat musik ini pun sama. Aramba juga dimainkan
+      dengan cara dipukul menggunakan semacam stik untuk menimbulkan suara.
+    oriImage: {fileID: 21300000, guid: a07e4806be2baf5479cc3a8e91fb1511, type: 3}
+    image: {fileID: 2800000, guid: a07e4806be2baf5479cc3a8e91fb1511, type: 3}
 --- !u!1 &1993369458
 GameObject:
   m_ObjectHideFlags: 0
@@ -9450,10 +10225,13 @@ MonoBehaviour:
   level: 5
   levelSetting:
     dif: 0
-    judul: 
-    penjelasan: 
-    oriImage: {fileID: 0}
-    image: {fileID: 0}
+    judul: Bonang
+    penjelasan: Bonang adalah alat musik tradisional dari Jawa Timur. Bonang sendiri
+      terbuat dari bahan kuningan. Dan biasanya bonang digunakan untuk memperingati
+      upacara adat setempat. Bonang juga merupakan salah satu alat musik daerah asli
+      Indonesia yang digunakan dalam pagelaran gamelan.
+    oriImage: {fileID: 21300000, guid: 6dfb95a17e01aed488f549fd8804625c, type: 3}
+    image: {fileID: 2800000, guid: 6dfb95a17e01aed488f549fd8804625c, type: 3}
 --- !u!1 &2054779458
 GameObject:
   m_ObjectHideFlags: 0
@@ -9666,3 +10444,53 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2073920556}
   m_CullTransparentMesh: 1
+--- !u!114 &2089100976
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 10
+  levelSetting:
+    dif: 0
+    judul: Doli-doli
+    penjelasan: Alat musik tradisional daerah Bengkulu ini memiliki bentuk yang cukup
+      mirip dengan gendang. Namun jika gendang memiliki dua sisi yang bisa dipukul,
+      doli-doli hanya memiliki satu di bagian atas. Sedangkan bagian bawah alat musik
+      ini berbentuk bulat. Jadi jika dilihat secara keseluruhan alat musik ini memiliki
+      bentuk setengah lingkaran.
+    oriImage: {fileID: 21300000, guid: bc2636b6a99d8624da2e132c072e1ec3, type: 3}
+    image: {fileID: 2800000, guid: bc2636b6a99d8624da2e132c072e1ec3, type: 3}
+--- !u!114 &2123096433
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 36
+  levelSetting:
+    dif: 3
+    judul: Terompet Reog
+    penjelasan: Sama seperti angklung reog, terompet reog juga sama-sama digunakan
+      untuk mengiringi tarian adat Reog Ponorogo. Biasanya terompet reog dimainkan
+      bersamaan dengan alat musik tradisional lainnya, seperti angklung reog, gong,
+      kempol, gendang, dan kenong. Terompet reog memiliki bentuk yang sangat unik.
+      Alat musik tradisional Jawa Timur ini terbuat dari bambu dan tempurung kelapa.
+      Bentuknya yang unik memberikan daya tarik tersendiri untuk terompet reog. Ukurannya
+      yang besar di bagian bawah dan mengerucut, serta adanya sekat dari tempurung
+      kelapa. Tidak lupa terdapat 6 lubang yang berfungsi sebagai pengatur nada saat
+      terompet ditiup.
+    oriImage: {fileID: 21300000, guid: c821289a9889e7244b1e1c196b714d84, type: 3}
+    image: {fileID: 2800000, guid: c821289a9889e7244b1e1c196b714d84, type: 3}

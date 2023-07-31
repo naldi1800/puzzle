@@ -759,6 +759,29 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 150485249}
   m_CullTransparentMesh: 1
+--- !u!114 &153769790
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 7
+  levelSetting:
+    dif: 0
+    judul: Tari Tandak, Kepulauan Riau
+    penjelasan: "Bentuk penyajian dari tari Tandak yaitu berkelompok. Disebut tari
+      kelompok karena dilakukan oleh dua kelompok pria dan wanita yang berbalas pantun
+      lalu membentuk lingkaran.  \r\nTari Tandak bertemakan pergaulan atau erotik.
+      \r\nTari Tandak menceritakan tentang masalah dalam kehidupan sehari-hari masyarakat
+      Riau.\r\nTari tradisional lain dari Riau yaitu, Tari Zapin. \r\n"
+    oriImage: {fileID: 21300000, guid: d3b7f9c99d90b8448bd47c07c9c8dd53, type: 3}
+    image: {fileID: 2800000, guid: d3b7f9c99d90b8448bd47c07c9c8dd53, type: 3}
 --- !u!1 &198215884
 GameObject:
   m_ObjectHideFlags: 0
@@ -892,6 +915,32 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 198215884}
   m_CullTransparentMesh: 1
+--- !u!114 &209983988
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 18
+  levelSetting:
+    dif: 1
+    judul: Tari Jaipong, Jawa Barat
+    penjelasan: "Tari Jaipong merupakan salah satu tarian daerah yang berasal dari
+      Jawa Barat. Tarian Jaipong ialah peleburan dari beberapa tradisional seperti
+      pencak silat, ketuk tilu, wayang golek, dan lain sebagainya. \r\nTarian ini
+      telah menjadi ikon kesenian daerah Jawa Barat. Jaipong lahir dari sosok seniman
+      kreatif dan bertangan dingin H Suanda pada 1976 di Karawang, Jawa Barat. \r\nTarian
+      ini dipertontonkan untuk menyambut tamu mancanegera yang berkunjung ke daerah
+      Jawa Barat. Gerakannya yang erotis dan vulgar membuat tarian ini menjadi perbincangan
+      hangat di awal kemunculannya."
+    oriImage: {fileID: 21300000, guid: 7e3bf20dd9fbad94581fedabcd1b4248, type: 3}
+    image: {fileID: 2800000, guid: 7e3bf20dd9fbad94581fedabcd1b4248, type: 3}
 --- !u!1 &231420354
 GameObject:
   m_ObjectHideFlags: 0
@@ -1253,6 +1302,32 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 274638753}
   m_CullTransparentMesh: 1
+--- !u!114 &305462117
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 22
+  levelSetting:
+    dif: 2
+    judul: Tari kecak, Bali
+    penjelasan: "Tari Kecak menggambarkan cerita tentang tokoh pewayangan bernama
+      Ramayana. Tarian daerah yang berasal dari Bali ini umumnya disebut sebagai
+      tari Sanghyang yang dipertunjukkan ketika upacara keagamaan. \r\nTarian ini
+      dimainkan sekelompok penari yang berjumlah 70 orang yang berbaris melingkar.
+      Keunikan tarian ini terlihat dari para penarinya yang mampu dibakar api, tetapi
+      masih kebal dan tak terbakar. Para penari laki-laki meneriakkan kata, \"Cak,
+      cak, cak.\" Dari situlah nama tari Kecak diambil. \r\nTarian tradisonal lain
+      dari Bali yaitu Tari Pendet dan Tari Borong.\r\n"
+    oriImage: {fileID: 21300000, guid: c37c2742a18ba4445b9067a9b8b0450f, type: 3}
+    image: {fileID: 2800000, guid: c37c2742a18ba4445b9067a9b8b0450f, type: 3}
 --- !u!1 &309163351
 GameObject:
   m_ObjectHideFlags: 0
@@ -1489,6 +1564,33 @@ MonoBehaviour:
       Sumatra Selatan, yaitu Putri Bekhusek, Gending Sriwijaya, dan lainnya.\r\n"
     oriImage: {fileID: 21300000, guid: 947d8bc375c90b740a276878d2c90beb, type: 3}
     image: {fileID: 2800000, guid: 947d8bc375c90b740a276878d2c90beb, type: 3}
+--- !u!114 &334045908
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 32
+  levelSetting:
+    dif: 3
+    judul: Tari Saureka-reka, Maluku
+    penjelasan: "Tarian Saureka-reka menuntut kelincahan kaki dan fokus dari pemainnya.
+      Tarian ini biasanya terdiri dari delapan penari yakni 4 laki-laki yang bertugas
+      menghentakkan gaba-gaba dan 4 perempuan yang menari di antara gaba-gaba mengikuti
+      irama tifa (alat musik seperti kendang khas Maluku) dan ukulele. \r\nTarian
+      asli Maluku itu biasanya digunakan sebagai bentuk ucapan terima kasih atas
+      anugerah kehidupan dan kesuburan dari Tuhan YME. \r\nSelain itu, tarian ini
+      juga ditampilkan pada acara-acara penyambutan tamu sebagai simbol rasa terima
+      kasih dari penduduk kepada tamu tersebut karena telah berkenan berkunjung ke
+      Maluku. \r"
+    oriImage: {fileID: 21300000, guid: d568642586daaf9438fdd44302a497de, type: 3}
+    image: {fileID: 2800000, guid: d568642586daaf9438fdd44302a497de, type: 3}
 --- !u!1 &353831645
 GameObject:
   m_ObjectHideFlags: 0
@@ -1566,6 +1668,81 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 353831645}
   m_CullTransparentMesh: 1
+--- !u!114 &359225408
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 27
+  levelSetting:
+    dif: 2
+    judul: Tari Pamonte, Sulawesi Tengah
+    penjelasan: "Tari Pamonte menggambarkan kebiasaan para gadis suku Kaili saat
+      menyambut musim panen tiba. \r\nTarian ini akan ditampilkan oleh penari wanita
+      dengan mengenakan pakaian petani pada umumnya. Sejarah mengatakan bahwa masyarakat
+      setempat mulai mengenal tarian tersebut sejak 1957. \r\nTari tradisional ini
+      terinspirasi dari aktivitas gadis-gadis suku Kaili saat menyambut masa panen.
+      \r\nTari tradisional lain dari Sulawesi Tengah, yaitu Tari Dero dan Tari Dopalak.\r\n"
+    oriImage: {fileID: 21300000, guid: fe73352c1fd09764a8dee02a40515a12, type: 3}
+    image: {fileID: 2800000, guid: fe73352c1fd09764a8dee02a40515a12, type: 3}
+--- !u!114 &396598746
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 16
+  levelSetting:
+    dif: 1
+    judul: Tari Rampak Bedug, Banten
+    penjelasan: "Bentuk penyajian tari Rampak Bedug yaitu berkelompok. Pembawa tari
+      ini terdiri dari 5 penari laki-laki dan 5 penari perempuan yang mengenakan
+      baju pesilat khas Banten.  Tari ini diiringi oleh beberapa alt musik, salah
+      satunya bedug.\r\nTema dari tari Rampak Bedug ialah erotik atau pergaulan. 
+      Tari ini bertema pergaulan karena menceritakan kebersamaan masyarakat Banten
+      dalam melaksanakan ibadah maupun menyambut datangnya bulan suci. \r\nTari tradisional
+      lain dari Banten, yaitu Grebeg Terbang Gede, Dzikir Saman, dan lainnya\r\n"
+    oriImage: {fileID: 21300000, guid: 60c2ccf516b17234b850828cfbbea41f, type: 3}
+    image: {fileID: 2800000, guid: 60c2ccf516b17234b850828cfbbea41f, type: 3}
+--- !u!114 &408825534
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 23
+  levelSetting:
+    dif: 2
+    judul: Tari Cerana, Nusa Tenggara Timur
+    penjelasan: "Tarian ini merupakan bentuk ucapan selamat datang atau tarian penyambutan
+      dari Kupang, NTT. Gerakan tari adat Nusa Tenggara Timur ini dilakukan oleh
+      beberapa penari wanita dengan membawa wadah berbentuk kotak berisi sirih dan
+      pinang.  \r\nTari Cerana merupakan salah satu yang sangat terkenal di Pulau
+      Timor sebelah barat (wilayah Nusa Tenggara Timur) dan Pulau Rote.\r\nTarian
+      ini sering ditampilkan di berbagai acara penyambutan tamu penting maupun rombongan
+      wisatawan yang datang ke sana.\r\nTari tradisonal lain dari NTT, yaitu tai
+      Caci dan Tari Hopong\r\n"
+    oriImage: {fileID: 21300000, guid: df2fb130f417f9540871bda65174aa42, type: 3}
+    image: {fileID: 2800000, guid: df2fb130f417f9540871bda65174aa42, type: 3}
 --- !u!1 &411853611
 GameObject:
   m_ObjectHideFlags: 0
@@ -1701,6 +1878,32 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 411853611}
   m_CullTransparentMesh: 1
+--- !u!114 &423090577
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 28
+  levelSetting:
+    dif: 2
+    judul: 'Tari Kasabaran, Sulawesi Utara '
+    penjelasan: "Tarian tradisional yang unik dan berkarakter ini bisa ditemui di
+      Minahasa, Sulawesi Utara. \r\nPenari dengan kostum khas begitu juga gerakan
+      berpadu senjata perang memberikan daya tarik tersendiri bagi yang melihat pertunjukannya.\r\nDahulunya
+      tarian ini ditampilkan atau diperankan oleh pria Minahasa dalam menjaga keamanan.
+      Artinya, apabila ada ancaman para pria desa akan berubah menjadi prajurit.\r\nDi
+      masa kini dalam pementasannya gerakan tari oleh penari kabasaran terlihat energik
+      yang melambangkan semangat seorang prajurit perang, tetapi juga dinamis mengikuti
+      irama alat musik khas daerah. \r"
+    oriImage: {fileID: 21300000, guid: 405b2dd57d859ce479e1337e5fa33aa2, type: 3}
+    image: {fileID: 2800000, guid: 405b2dd57d859ce479e1337e5fa33aa2, type: 3}
 --- !u!1 &436329602
 GameObject:
   m_ObjectHideFlags: 0
@@ -1949,8 +2152,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 1}
   m_AnchorMax: {x: 0.5, y: 1}
-  m_AnchoredPosition: {x: 0, y: -15}
-  m_SizeDelta: {x: 850, y: 175}
+  m_AnchoredPosition: {x: 0, y: -25}
+  m_SizeDelta: {x: 700, y: 100}
   m_Pivot: {x: 0.5, y: 1}
 --- !u!114 &483923352
 MonoBehaviour:
@@ -1990,6 +2193,32 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 483923350}
   m_CullTransparentMesh: 1
+--- !u!114 &521638234
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 30
+  levelSetting:
+    dif: 2
+    judul: Tari Kipas Pakarena, Sulawesi Selatan
+    penjelasan: "Tari Kipas Pakarena ialah salah satu ikon kebudayaan Sulawesi Selatan.
+      Melansir laman disbudpar.sulselprov.go.id, tari tersebut sudah dikenal oleh
+      masyarakat Gowa Sulawesi Selatan pada masa kerajaan Gantarang. Tari ini melambangkan
+      kecantikan Sulawesi. Tari ini sangat dikenal dengan propertinya yaitu kipas.\r\nTari
+      Kipas Pakarena dimainkan oleh empat penari wanita menggunakan iringan alat
+      musik berupa gandrang dan puik-puik. \r\nMenilik sejarahnya, tari Kipas Pakarena
+      merupakan salah satu bentuk pemujaan kepada para dewa. Namun karena keunikannya,
+      fungsi tarian ini lama-lama bergeser menjadi tarian hiburan. \r"
+    oriImage: {fileID: 21300000, guid: 21e7063e15a74be468ad874f45407525, type: 3}
+    image: {fileID: 2800000, guid: 21e7063e15a74be468ad874f45407525, type: 3}
 --- !u!1 &540150322
 GameObject:
   m_ObjectHideFlags: 0
@@ -2087,6 +2316,53 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0aa84c6b0a5094e4e8fed0662bb95a19, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &548796691
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 6
+  levelSetting:
+    dif: 0
+    judul: Tari Joget Lambak, Riau
+    penjelasan: "Bentuk penyajian tari Joget Lambak yaitu kelompok. Tari ini dipentaskan
+      oleh sekelompok laki-laki dan perempuan sembari berbalas pantun.  Tari Joget
+      Lambak bertemakan pergaulan/erotik. \r\nTari ini disebut tari pergaulan karena
+      tari ini bertema pemuda dan pemudi yang mencari jati dirinya.  Pemuda dan pemudi
+      tersebut mencari pertemanan atau persahabatan. \r\nTari tradisonal lain dari
+      Riau, yaitu Tari Makan Sirih, Tari Boria, dan lainnya.\r\n"
+    oriImage: {fileID: 21300000, guid: 52c5c1b079719c94291d098d10af7e7f, type: 3}
+    image: {fileID: 2800000, guid: 52c5c1b079719c94291d098d10af7e7f, type: 3}
+--- !u!114 &560033905
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 17
+  levelSetting:
+    dif: 1
+    judul: Tari Topeng Betawi, DKI Jakarta
+    penjelasan: "Tari Topeng Betawi biasanya dibawakan saat pertunjukan teater rakyat
+      bersamaan dengan musik, nyanyian, bebodoran (lawak), dan lakon (drama). Karena
+      dipentaskan dalam teater, gerakan dalam tarian bersifat teatrikal. \r\nTari
+      tradisional lain dari DKI Jakarta, yaitu Tari Yapong, Tari Sirih Kuning, dan
+      lainnya.\r\n"
+    oriImage: {fileID: 21300000, guid: f6a3eeb1fe240a64cbe6ed81d666f021, type: 3}
+    image: {fileID: 2800000, guid: f6a3eeb1fe240a64cbe6ed81d666f021, type: 3}
 --- !u!1 &562310282
 GameObject:
   m_ObjectHideFlags: 0
@@ -2125,8 +2401,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 3, y: -20}
-  m_SizeDelta: {x: 1388, y: 660}
+  m_AnchoredPosition: {x: 25, y: -15}
+  m_SizeDelta: {x: 950, y: 430}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &562310284
 MonoBehaviour:
@@ -2716,6 +2992,29 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 690464092}
   m_CullTransparentMesh: 1
+--- !u!114 &708960613
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 5
+  levelSetting:
+    dif: 0
+    judul: Tari Andun, Bengkulu
+    penjelasan: "Bentuk penyajian tari Andun yaitu berpasangan karena penarinya terdiri
+      dari sepasang muda mudi dengan memakai baju adat daerah Bengkulu.\r\nTema tari
+      Andun dari provinsi Bengkulu ialah erotik atau percintaan. Tari Andun menceritakan
+      sepasang pria dan wanita yang sedang mencari pasangan hidupnya. \r\nTari tradisional
+      lain dari Bengkulu, yaitu Tari Bidadari Teminang Anak, Tari Pukek, dan lainnya.\r\n"
+    oriImage: {fileID: 21300000, guid: 91d434cec6c7d7446a81b7352387c3f4, type: 3}
+    image: {fileID: 2800000, guid: 91d434cec6c7d7446a81b7352387c3f4, type: 3}
 --- !u!1 &712766834
 GameObject:
   m_ObjectHideFlags: 0
@@ -3232,7 +3531,7 @@ MonoBehaviour:
   m_ChildAlignment: 0
   m_StartCorner: 0
   m_StartAxis: 0
-  m_CellSize: {x: 200, y: 200}
+  m_CellSize: {x: 120, y: 120}
   m_Spacing: {x: 35, y: 25}
   m_Constraint: 1
   m_ConstraintCount: 6
@@ -3334,7 +3633,7 @@ MonoBehaviour:
   m_HandleRect: {fileID: 1404297680}
   m_Direction: 2
   m_Value: 1
-  m_Size: 0.49811321
+  m_Size: 0.5088757
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
@@ -3377,6 +3676,107 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 798997848}
   m_CullTransparentMesh: 1
+--- !u!114 &911709942
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 26
+  levelSetting:
+    dif: 2
+    judul: Tari Patuddu, Sulawesi Barat
+    penjelasan: "Tarian adat tradisional Sulawesi Barat ini biasanya dibawakan oleh
+      para penari wanita dengan gerakannya yang lemah gemulai dan menggunakan kipas
+      juga busana khas daerah yang dikenakan para penari tersebut.\r\nMakna terkandung
+      dalam tarian itu ialah menggambarkan ungkapan rasa syukur dan gembira atas
+      kedatangan para tamu. \r\nSesuai peruntukan dalam pementasannya tarian ini
+      ditampilkan sebagai penyambutan atau hiburan sehingga ditampilkan untuk acara
+      penyambutan tamu terhormat maupun tamu kenegaraan. \r\nTari tradisional lain
+      dari Sulawesi Barat, yaitu Tari Mappande Banua dan Tari Bulu Londong.\r\n"
+    oriImage: {fileID: 21300000, guid: fe73352c1fd09764a8dee02a40515a12, type: 3}
+    image: {fileID: 2800000, guid: da73b0441d7f79d4a83f1c3c79c495ae, type: 3}
+--- !u!114 &932669607
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 31
+  levelSetting:
+    dif: 3
+    judul: Tari Soya-soya, Maluku Utara
+    penjelasan: "Tari Soya-Soya memiliki penari terbanyak di antara tarian-tarian
+      lain di Maluku Utara. Pasalnya, penari di dalam tarian ini bisa mencapai ribuan
+      orang dan semuanya terdiri dari pria dewasa hingga anak-anak. \r\nTari Soya-Soya
+      merupakan salah satu simbol dari perjuangan masyarakat Kayoa di Halmahera Selatan
+      ketika berperang mengusir bangsa Portugis dari Bumi Maluku Utara. \r\nTari
+      Soya-Soya berfungsi sebagai penyemangat pasukan tentara Sultan Babullah dalam
+      berperang. \r\nTari tradisional lain dari Maluku Utara, yaitu Tari Tide-Tide
+      dan Tari Dengedenge.\r\n"
+    oriImage: {fileID: 21300000, guid: 08ff715a4fe87794ca0884d12c92ae52, type: 3}
+    image: {fileID: 2800000, guid: 08ff715a4fe87794ca0884d12c92ae52, type: 3}
+--- !u!114 &952530935
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 11
+  levelSetting:
+    dif: 1
+    judul: Tari Monong, Kalimantan Barat
+    penjelasan: "Bentuk tari penyajian dari tari Monong yaitu berkelompok. Tari ini
+      sering dilakukan masyarakat di Kalimantan Barat.  \r\nPenarinya campuran dari
+      laki-laki dan perempuan. Tema tari monong ialah heroik.\r\nBisa disebut heroik
+      karena tari ini menggambarkan seseorang yang menyembuhkan salah seorang suku
+      yang sedang jatuh sakit. \r\nTari tradisional lain dari Kalimantan Barat, yaitu
+      Tari Pingan,Tari Jonggan, dan lainnya.\r\n"
+    oriImage: {fileID: 21300000, guid: b475ae1b1260da047a00a984ec42c976, type: 3}
+    image: {fileID: 2800000, guid: b475ae1b1260da047a00a984ec42c976, type: 3}
+--- !u!114 &970859129
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 19
+  levelSetting:
+    dif: 1
+    judul: 'Tari Gambyong, Jawa Tengah '
+    penjelasan: "Tari Gambyong merupakan perkembangan Tari Tayub. Gambyong berasal
+      dari nama penari Tari Tayub yang diundang Sri Sunan Pakubuwana untuk menciptakan
+      tari penyambut tamu.  \r\nTari Gambyong sering digunakan sebagai penyambut
+      tamu dan sebagai hiburan. \r\nTarian ini menggambarkan kegembiraan. Tarian
+      tradisional ini juga digunakan sebagai sarana ritual upacara pertanian untuk
+      kesuburan padi. \r\nTari tradisional lain dari Jawa Tengah, yaitu Beksan Wireng,
+      Gambir Anom, Gamboyong,Bedaya. dan lainnya.\r\n"
+    oriImage: {fileID: 21300000, guid: 141609789d39f0f4fb7cbffd663df5f1, type: 3}
+    image: {fileID: 2800000, guid: 141609789d39f0f4fb7cbffd663df5f1, type: 3}
 --- !u!1 &975979349
 GameObject:
   m_ObjectHideFlags: 0
@@ -3611,12 +4011,34 @@ MonoBehaviour:
       sangat dikenal dunia, bahkan UNESCO sudah menetapkan tari daerah ini sebagai
       Representative List of the Intangible Cultural Heritage of Humanity pada 2011.
       \r\nTarian ini dibawakan oleh sekelompok penari yang memiliki jumlah ganjil. 
-      \r\nKeunikan tarian ini ada pada suara yang berasal dari gerakan tangan para
-      penari. Berbeda dengan gerakan tari lain dengan penarinya yang bergerak bebas,
-      tari saman dibawakan oleh penarinya dengan duduk. \r\nTari tradisional lain
-      dari Aceh yaitu Seudati, Pukat, Ratoh Duek, Tari bungong jeumpa dan lainnya.\r\n"
+      \r"
     oriImage: {fileID: 21300000, guid: 21be5ccfb9be9ab46b43390962a710ce, type: 3}
     image: {fileID: 2800000, guid: 21be5ccfb9be9ab46b43390962a710ce, type: 3}
+--- !u!114 &1007851352
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 34
+  levelSetting:
+    dif: 3
+    judul: Tari Perang Papua, Papua
+    penjelasan: "Secara definisi tari Perang Papua merupakan jenis tarian yang ditampilkan
+      oleh penari pria secara berkelompok, biasanya dipentaskan oleh minimal 7 orang
+      pria. \r\nTari Perang Papua umumnya digelar di tanah lapang saat petang menjelang
+      malam hari. \r\nTari Perang digunakan sebagai salah satu tarian penyambut wisatawan
+      yang datang ke Papua. \r\nTarian ini memiliki makna mendalam bagi masyarakat
+      Papua. Hal itu disebabkan tidak hanya dimaknai sebagai gerakan tubuh saja tetapi
+      juga bentuk rasa syukur kepada Sang pencipta.\r\n"
+    oriImage: {fileID: 21300000, guid: 8318d5b08a4d20249b5b9e92eb3d8dda, type: 3}
+    image: {fileID: 2800000, guid: 8318d5b08a4d20249b5b9e92eb3d8dda, type: 3}
 --- !u!1 &1012417875
 GameObject:
   m_ObjectHideFlags: 0
@@ -3858,11 +4280,42 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 077799404ed58854a971e9e35d984434, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  numberOfLevel: 3
+  numberOfLevel: 34
   mainLevels:
   - {fileID: 1004374728}
   - {fileID: 2116865072}
   - {fileID: 323799941}
+  - {fileID: 1374197502}
+  - {fileID: 708960613}
+  - {fileID: 548796691}
+  - {fileID: 153769790}
+  - {fileID: 1913731187}
+  - {fileID: 2104418834}
+  - {fileID: 2042237329}
+  - {fileID: 952530935}
+  - {fileID: 1380933203}
+  - {fileID: 1493779941}
+  - {fileID: 1933660420}
+  - {fileID: 1604761789}
+  - {fileID: 396598746}
+  - {fileID: 560033905}
+  - {fileID: 209983988}
+  - {fileID: 970859129}
+  - {fileID: 1352457482}
+  - {fileID: 1091410085}
+  - {fileID: 305462117}
+  - {fileID: 408825534}
+  - {fileID: 1193989443}
+  - {fileID: 1618371469}
+  - {fileID: 911709942}
+  - {fileID: 359225408}
+  - {fileID: 423090577}
+  - {fileID: 1133685941}
+  - {fileID: 521638234}
+  - {fileID: 932669607}
+  - {fileID: 334045908}
+  - {fileID: 1768339434}
+  - {fileID: 1007851352}
   main: {fileID: 798333695}
   buttons: []
   activeLevel: 0
@@ -4228,6 +4681,56 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1090440675}
   m_CullTransparentMesh: 1
+--- !u!114 &1091410085
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 21
+  levelSetting:
+    dif: 2
+    judul: Tari Reog Ponorogo, Jawa Timur
+    penjelasan: "Inti dari cerita tari Reog Ponorogo merupakan perang antara kerajaan
+      Kediri dan kerajaan Ponorogo serta adu ilmu hitam antara keduanya. \r\nHal
+      ini ditunjukkan dengan para penarinya yang 'kerasukan' saat mementaskan tarian.
+      Tari Reog Ponorogo mengisahkan bagaimana Ki Ajeng Mutu melawan Raja Kertabhumi
+      dan seisi kerajaannya \r\nHingga kini, pertunjukan Reog umumnya dipentaskan
+      di acara pernikahan, khitanan, dan hari besar nasional. Biasanya, pertunjukan
+      Reog terdiri atas rangkaian 2 hingga 3 tarian pembukaan. \r"
+    oriImage: {fileID: 21300000, guid: 77d136e0d8e13234493e86b4ea298a3f, type: 3}
+    image: {fileID: 2800000, guid: 77d136e0d8e13234493e86b4ea298a3f, type: 3}
+--- !u!114 &1133685941
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 29
+  levelSetting:
+    dif: 2
+    judul: Tari Malulo, Sulawesi Tenggara
+    penjelasan: "Budaya tari Malulo atau Lulo merupakan salah satu jenis kesenian
+      yang berasal dari bahasa Tolaki. Tarian ini menggambarkan persahabatan. \r\nMengutip
+      laman wikipedia dijelaskan filosofi tarian lulo ialah tarian persahabatan yang
+      biasa ditujukan kepada muda-mudi suku Tolaki sebagai ajang perkenalan, mencari
+      jodoh, dan mempererat tali persaudaraan. \r\nTarian ini dilakukan dengan posisi
+      saling bergandengan tangan dan membentuk lingkaran. \r\nTari tradisional lain
+      dari Sulawesi Tenggara, yaitu Tari Dinggu dan Tari Mangaru. \r\n"
+    oriImage: {fileID: 21300000, guid: 2db0e64258e51e34e95dc06351e120b5, type: 3}
+    image: {fileID: 2800000, guid: 2db0e64258e51e34e95dc06351e120b5, type: 3}
 --- !u!1 &1176493242
 GameObject:
   m_ObjectHideFlags: 0
@@ -4575,6 +5078,29 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1193583331}
   m_CullTransparentMesh: 1
+--- !u!114 &1193989443
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 24
+  levelSetting:
+    dif: 2
+    judul: Tari Buja Kadanda, Nusa Tenggara Barat
+    penjelasan: "Tari Buja Kadanda tepatnya berasal dari Bima, Nusa Tenggara Barat.
+      Tari ini termasuk tari perang.  \r\nTarian perang ini menggambarkan dua prajurit
+      yang sedang berperang sebagaimana gerakan penari. Tari asal Nusa Tenggara Barat
+      ini biasanya dibawakan oleh dua penari pria. \r\nTari tradisional lain dari
+      NTB, yaitu Tari Gandrung dan Tari Mpaa Lenggo. \r\n"
+    oriImage: {fileID: 21300000, guid: 00b8754a82b2df44bbda938daca99291, type: 3}
+    image: {fileID: 2800000, guid: 00b8754a82b2df44bbda938daca99291, type: 3}
 --- !u!1 &1207910359
 GameObject:
   m_ObjectHideFlags: 0
@@ -4660,7 +5186,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 72
+  m_fontSize: 58.3
   m_fontSizeBase: 36
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -5342,7 +5868,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 1500, y: 850}
+  m_SizeDelta: {x: 1000, y: 600}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1343684184
 MonoBehaviour:
@@ -5357,7 +5883,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 0.92156863}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -5517,6 +6043,56 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1346979618}
   m_CullTransparentMesh: 1
+--- !u!114 &1352457482
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 20
+  levelSetting:
+    dif: 1
+    judul: 'Tari Serimpi, DI Yogyakarta '
+    penjelasan: "Konon, pada zaman dahulu tari Serimpi dipercaya membuat para penontonnya
+      seolah sedang berada di alam mimpi. \r\nSelain itu, suasana tari Serimpi cukup
+      mistis karena ada bunga yang sengaja ditaburkan di lantai sebagai pelengkap
+      penampilan penari. Tari Serimpi biasanya diperagakan empatf penari untuk mewakili
+      mimpi. Tari ini diringi dengan gamelan.\r\nTari tradisional lain dari DI Yogyakarta,
+      yaitu Tari Kumbang, Tari Srikandi Suradewati.\r\n"
+    oriImage: {fileID: 21300000, guid: d82227cd1f5aef74aa8fb9343e9aa6e6, type: 3}
+    image: {fileID: 2800000, guid: d82227cd1f5aef74aa8fb9343e9aa6e6, type: 3}
+--- !u!114 &1374197502
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 4
+  levelSetting:
+    dif: 0
+    judul: Tari Piring, Sumatera Barat
+    penjelasan: "Tarian ini dinamakan tari Piring karena penggunaan properti piring
+      pada gerakan tariannya. Dahulu, tari Piring dilakukan para laki-laki dan perempuan
+      untuk membawakan sesembahan bagi para dewa sebagai wujud rasa syukur terhadap
+      panen yang melimpah.\r\nKeunikan tarian itu ada pada gerakan penarinya yang
+      cepat, atraktif, dan sangat indah dengan piring di tangan mereka yang sama
+      sekali tidak terjatuh. Gerakan tarian ini dimulai dengan koreografi para penarinya
+      dan meletakkan piring di tangan tanpa terlepas apalagi terjatuh. Para penari
+      mulai bergerak ketika alat musik talempong dan saloang dibunyikan. \r"
+    oriImage: {fileID: 21300000, guid: 8ac9398e8d13d0c49b2626a917d201c1, type: 3}
+    image: {fileID: 2800000, guid: 8ac9398e8d13d0c49b2626a917d201c1, type: 3}
 --- !u!1 &1377294055
 GameObject:
   m_ObjectHideFlags: 0
@@ -5652,6 +6228,29 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1377294055}
   m_CullTransparentMesh: 1
+--- !u!114 &1380933203
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 12
+  levelSetting:
+    dif: 1
+    judul: Tari Gong, Kalimantan Timur
+    penjelasan: "Bentuk penyajian tari ini yaitu tunggal. Tari ini ditarikan oleh
+      kaum wanita.  Tema tari ini ialah pantomim. \r\nTari ini menggambarkan kelemahlembutan
+      seorang gadis bagai sebatang padi yang meliuk-liuk lembut ditiup oleh angin.
+      \r\nTari tradisional lain dari Kalimantan Timur, yaitu Tari Perang, Tari Gantar,
+      dan lainnya.\r\n"
+    oriImage: {fileID: 21300000, guid: 70a371cb44460fa44bc1cb3eaa6004d5, type: 3}
+    image: {fileID: 2800000, guid: 70a371cb44460fa44bc1cb3eaa6004d5, type: 3}
 --- !u!1 &1404297679
 GameObject:
   m_ObjectHideFlags: 0
@@ -5882,6 +6481,29 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1423329436}
   m_CullTransparentMesh: 1
+--- !u!114 &1493779941
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 13
+  levelSetting:
+    dif: 1
+    judul: Tari Baksa Kembang, Kalimantan Selatan
+    penjelasan: "Bentuk penyajian dari tari ini ialah kelompok. Tari ini sering dibawakan
+      oleh kaum wanita di Kalimantan Selatan.  \r\nTema dari tarian ini erotik. Tarian
+      ini disebabkan ada putri raja yang memberikan setangkai bunga untuk seorang
+      pangeran. \r\nTari tradisional lain dari Kalimantan Selatan, yaitu Tari Radab
+      Rahayu,Tari Kuda Gepang.\r\n"
+    oriImage: {fileID: 21300000, guid: c7207734604b0924fbc5d56964e5c3b8, type: 3}
+    image: {fileID: 2800000, guid: c7207734604b0924fbc5d56964e5c3b8, type: 3}
 --- !u!1 &1570092678
 GameObject:
   m_ObjectHideFlags: 0
@@ -5959,6 +6581,32 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1570092678}
   m_CullTransparentMesh: 1
+--- !u!114 &1604761789
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 15
+  levelSetting:
+    dif: 1
+    judul: Tari Magunatip, Kalimantan Utara
+    penjelasan: "Tarian adat ini khususnya dari wilayah Tarakan dan Malinau. Pada
+      zaman dahulu, tari Magunatip diselenggarakan untuk latihan ketangkasan kaki
+      ketika melompat dan menghindari rintangan. Itu karena pada masa tersebut masih
+      ada perang antarsuku.  \r\nDalam tarian adat yang satu ini, ada tiga kelompok
+      pemain. Pertama, kelompok penjepit kaki memakai batang kayu. Kedua, kelompok
+      penari yang menghindari penjepit kayu. Ketiga, kelompok pemusik yang menggunakan
+      alat musik tradisional berupa kendang dan gong.\r\nTari tradisional lain dari
+      Kalimantan Utara, yaitu Tari Blunde, Tari Bangun, dan lainnya. \r\n"
+    oriImage: {fileID: 21300000, guid: bebc54e7cb23164418b6c2a219c7476a, type: 3}
+    image: {fileID: 2800000, guid: bebc54e7cb23164418b6c2a219c7476a, type: 3}
 --- !u!1 &1606088307
 GameObject:
   m_ObjectHideFlags: 0
@@ -6113,6 +6761,31 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1616171723}
   m_CullTransparentMesh: 1
+--- !u!114 &1618371469
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 25
+  levelSetting:
+    dif: 2
+    judul: Tari Dana-dana, Gorontalo
+    penjelasan: "Salah satu ciri khas tari Dana-Dana yaitu ditampilkan meliputi seluruh
+      anggota badan dan menggambarkan pergaulan keakraban remaja agar solid.\r\nBiasanya
+      kesenian ini ditarikan pada saat hajatan berupa acara perkawinan atau pesta
+      rakyat dan pergelaran seni budaya.  \r\nKeunikan lain yaitu gerakan-gerakan
+      yang dinamis mengikuti irama musik gambus dan rebana serta lagu berisi pantun
+      bertemakan percintaan atau nasihat yang berhubungan dengan pergaulan remaja.
+      \r\nTari tradisional lain dari Gorontalo, yaitu Tari Saronde dan Tari Langga.\r\n"
+    oriImage: {fileID: 21300000, guid: 5f0a2f847aa0fb3429633bc5e97d1125, type: 3}
+    image: {fileID: 2800000, guid: 5f0a2f847aa0fb3429633bc5e97d1125, type: 3}
 --- !u!1 &1621242761
 GameObject:
   m_ObjectHideFlags: 0
@@ -6895,7 +7568,7 @@ MonoBehaviour:
   m_UiScaleMode: 1
   m_ReferencePixelsPerUnit: 100
   m_ScaleFactor: 1
-  m_ReferenceResolution: {x: 2160, y: 3840}
+  m_ReferenceResolution: {x: 1560, y: 720}
   m_ScreenMatchMode: 0
   m_MatchWidthOrHeight: 0
   m_PhysicalUnit: 3
@@ -7634,6 +8307,32 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1762757524}
   m_CullTransparentMesh: 1
+--- !u!114 &1768339434
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 33
+  levelSetting:
+    dif: 3
+    judul: Tari Sajojo, Papua Barat
+    penjelasan: "Tari Sajojo menjadi kebanggaan Papua Barat. Tari ini punya karakter
+      yang sangat fleksibel. Tanpa unsur magis dan sakral pada tarian ini, membuat
+      tari Sajojo sangat bebas ditampilkan pada acara manapun.\r\nDari semua tarian
+      tradisional Papua barat yang ada, tari Sajojo inilah yang paling populer di
+      antara tari tradisional lain. Beberapa acara TV lokal pun juga sempat menampilkan
+      tari ini.  Dengan tidak ada unsur sakral, tarian ini tidak akan melanggar aturan
+      adat yang telah berlaku. \r\nTari tradisional lain dari Papua Barat, yaitu
+      Tari Suanggi dan Tari Musyoh.\r\n"
+    oriImage: {fileID: 21300000, guid: 8fe4b4ae3bf14214ea38984bc05af383, type: 3}
+    image: {fileID: 2800000, guid: 8fe4b4ae3bf14214ea38984bc05af383, type: 3}
 --- !u!1 &1778246951
 GameObject:
   m_ObjectHideFlags: 0
@@ -8193,6 +8892,53 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1890152208}
   m_CullTransparentMesh: 1
+--- !u!114 &1913731187
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 8
+  levelSetting:
+    dif: 0
+    judul: Tari Rantak Kudo, Jambi
+    penjelasan: "Bentuk penyajian dari tari Rantak Kudo yaitu berkelompok. Tari ini
+      dibawakan oleh kelompok penari yang terdiri dari laki-laki dan perempuan dengan
+      memakai pakaian adat khas Provinsi Jambi.  Tema dari tari Rantak Kudo ialah
+      pantomim. Disebut pantomim karena gerakan dalam tari Rantak Kudo menghentak-hentakan
+      kaki seperti kuda/kudo dalam bahasa Kerinci. \r\nTari tradisional lain dari
+      Jambi yaitu, Sekapur Sirih, Selampir Delapan, dan lainnya.\r\n"
+    oriImage: {fileID: 21300000, guid: d0f3cbb961a4d4b418d3576470eb35bc, type: 3}
+    image: {fileID: 2800000, guid: d0f3cbb961a4d4b418d3576470eb35bc, type: 3}
+--- !u!114 &1933660420
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 14
+  levelSetting:
+    dif: 1
+    judul: 'Tari Tambu Dan Bungai, Kalimantan Tengah '
+    penjelasan: "Bentuk penyajian tari ini yaitu berkelompok. Tari ini dilakukan
+      oleh sekelompok perempuan.  Tema tari ini ialah pantomim. \r\nTari ini mengisahkan
+      Tambun dan Bungai sebagai saudara dari ayah mereka yang merupakan adik-kakak.
+      \r\nTari tradisional lain dari Kalimantan Tengah, yaitu Tari Manasai, Tari
+      Balian Dadas, dan lainnya.\r\n"
+    oriImage: {fileID: 21300000, guid: 80d3e2801ed873a489d62fcc9a2e572b, type: 3}
+    image: {fileID: 2800000, guid: 80d3e2801ed873a489d62fcc9a2e572b, type: 3}
 --- !u!1 &1985727105
 GameObject:
   m_ObjectHideFlags: 0
@@ -8540,6 +9286,30 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2007197231}
   m_CullTransparentMesh: 1
+--- !u!114 &2042237329
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 10
+  levelSetting:
+    dif: 0
+    judul: Tari Campak, Bangka Belitung
+    penjelasan: "Bentuk penyajian tari Campak yaitu berpasangan. Tari Campak dibawakan
+      oleh dua penari laki-laki dan perempuan dibarengi dengan berbalas pantun. 
+      \r\nTema dari tari Campak ialah erotik/percintaan. Jika lelaki kalah berbalas
+      pantun, wanita itu menjadi pasangannya. Tari ini juga merupakan alternatif
+      untuk mencari jodoh bagi yang belum punya kekasih. \r\nTari tradisional lain
+      dari Bangka Belitung, yaitu Tari Sepen,Tari Beripat, dan lainnya. \r\n"
+    oriImage: {fileID: 21300000, guid: f6cd0d32607dee7469bd57534dd455bb, type: 3}
+    image: {fileID: 2800000, guid: f6cd0d32607dee7469bd57534dd455bb, type: 3}
 --- !u!1 &2054779458
 GameObject:
   m_ObjectHideFlags: 0
@@ -8752,6 +9522,29 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2073920556}
   m_CullTransparentMesh: 1
+--- !u!114 &2104418834
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 9
+  levelSetting:
+    dif: 0
+    judul: Tari Melinting, Lampung
+    penjelasan: "Bentuk penyajian dari tari Melinting dilakukan oleh sekitar 5-8
+      penari laki-laki maupun perempuan yang memakai kostum adat dari Provinsi Lampung.
+      \r\nTema dari tari Melinting ialah erotik atau pergaulan karena tari ini berisi
+      masalah yang sering ditemui di dalam kehidupan sehari-hari. \r\nTari  tradisional
+      lain dari Lampung, Yaitu Tari Jangget, Tari Bedana dan lainnya.\r"
+    oriImage: {fileID: 21300000, guid: d8ab58570eeb5954caac01db353ac453, type: 3}
+    image: {fileID: 2800000, guid: d8ab58570eeb5954caac01db353ac453, type: 3}
 --- !u!114 &2116865072
 MonoBehaviour:
   m_ObjectHideFlags: 0

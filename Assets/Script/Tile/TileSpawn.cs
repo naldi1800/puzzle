@@ -107,6 +107,7 @@ public class TileSpawn : MonoBehaviour
     public void set(MainLevel m)
     {
         level = m.levelSetting.dif;
+        Debug.Log(level);
         ori = m.levelSetting.oriImage;
         preview.sprite = m.levelSetting.oriImage;
         previewFinish.sprite = m.levelSetting.oriImage;
@@ -141,14 +142,18 @@ public class TileSpawn : MonoBehaviour
             Destroy(tilesFather.transform.GetChild(c).gameObject);
         }
         onStart();
+
     }
 
     public void onNext()
     {
-        onRestart();
         instanceMenu.activeLevel++;
         MainLevel m = instanceMenu.mainLevels[instanceMenu.activeLevel - 1];
+        // Debug.Log(m);
+        // Debug.Log(instanceMenu.activeLevel);
         set(m);
+        onAwake();
+        onRestart();
     }
 
     #region  main
@@ -165,20 +170,25 @@ public class TileSpawn : MonoBehaviour
         {
             Debug.Log("Another Instance is Found");
         }
-        
-        if(thisMenu == null){
+
+        if (thisMenu == null)
+        {
             thisMenu = this;
         }
 
+        onAwake();
 
+    }
+    void onAwake()
+    {
         settingGame();
         // x: 975 ,  y: 750
         levelSetting = new Level[Enum.GetNames(typeof(difficulty)).Length];
         Vector3[] xy = new Vector3[Enum.GetNames(typeof(difficulty)).Length];
-        xy[0] = new Vector3(4, 3, 4 * 3);
-        xy[1] = new Vector3(5, 4, 5 * 4);
-        xy[2] = new Vector3(6, 5, 6 * 5);
-        xy[3] = new Vector3(8, 7, 8 * 7);
+        xy[0] = new Vector3(3, 2, 3 * 2);
+        xy[1] = new Vector3(3, 3, 3 * 3);
+        xy[2] = new Vector3(4, 3, 4 * 3);
+        xy[3] = new Vector3(4, 4, 4 * 4);
 
         for (int i = 0; i < Enum.GetNames(typeof(difficulty)).Length; i++)
         {
@@ -198,6 +208,7 @@ public class TileSpawn : MonoBehaviour
     }
     void onStart()
     {
+        // onRestart();
         splitOriginalImage((int)sel.x, (int)sel.y);
         createTiles();
         createTilesPlace();
@@ -221,15 +232,6 @@ public class TileSpawn : MonoBehaviour
                 Sprite sprite = Sprite.Create(originalImage, spriteRect, new Vector2(0.5f, 0.5f));
 
                 fragOriginal.Add(sprite);
-
-                // // Create a new GameObject and add a SpriteRenderer component to it
-                // GameObject spriteObject = new GameObject("Sprite_" + x + "_" + y);
-                // spriteObject.transform.parent = transform;
-                // spriteObject.transform.localPosition = new Vector3(x, -y, 0); // Optional: Set the position of the sprite objects
-
-                // SpriteRenderer spriteRenderer = spriteObject.AddComponent<SpriteRenderer>();
-                // spriteRenderer.sprite = sprite;
-                // break;
             }
             fragOriginal.Reverse();
             foreach (Sprite rmSprite in fragOriginal)
@@ -414,28 +416,28 @@ public class TileSpawn : MonoBehaviour
             s1 = 120;
             s2 = 90;
             s3 = 60;
-            sel = new Vector2(4, 3);
+            sel = new Vector2(3, 2);
         }
         else if (level == TileSpawn.difficulty.Normal)
         {
             s1 = 100;
             s2 = 70;
             s3 = 50;
-            sel = new Vector2(5, 4);
+            sel = new Vector2(3, 3);
         }
         else if (level == TileSpawn.difficulty.Hard)
         {
             s1 = 80;
             s2 = 50;
             s3 = 30;
-            sel = new Vector2(6, 5);
+            sel = new Vector2(4, 3);
         }
         else if (level == TileSpawn.difficulty.VeryHard)
         {
             s1 = 50;
             s2 = 35;
             s3 = 20;
-            sel = new Vector2(8, 7);
+            sel = new Vector2(4, 4);
         }
         star1.text = getTimeInSecond(s1);
         star2.text = getTimeInSecond(s2);

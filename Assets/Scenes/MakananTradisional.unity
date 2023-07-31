@@ -123,6 +123,56 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+--- !u!114 &19498006
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 29
+  levelSetting:
+    dif: 2
+    judul: Bolu Paranggi, Sulawesi Barat
+    penjelasan: 'Bolu Paranggi merupakan hidangan manis khas Sulawesi Barat yang
+      terbuat dari  campuran tepung terigu, telur, gula pasir dan gula aren. Kue
+      khas Sulawesi Barat ini memiliki ciri bentuk bundar dan warna coklat dengan
+      rasa yang manis.
+
+      Makanan tradisional lain dari  Sulawesi Barat yaitu,
+      Sokkol Ubi, Toppa Ikan Tuna, Kue Cucur., Kue Paso
+
+'
+    oriImage: {fileID: 21300000, guid: 2df3f1d3c86e5a24fa9185523aab98df, type: 3}
+    image: {fileID: 2800000, guid: 2df3f1d3c86e5a24fa9185523aab98df, type: 3}
+--- !u!114 &21293777
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 22
+  levelSetting:
+    dif: 2
+    judul: Soto Banjar, Kalimntan Selatan
+    penjelasan: "Soto Banjar adalah jenis soto khas Suku Banjar yang berasal dari
+      Kalimantan Selatan. Soto Banjar merupakan soto berkuah bening dengan rempah-rempah
+      seperti pala, kayu manis, cengkeh yang ditaburi suwiran ayam, perkedel kentang
+      dan telur rebus. Uniknya, Soto Banjar dinikmati dengan ketupat sebagai karbohidrat
+      utamanya. \u2003"
+    oriImage: {fileID: 21300000, guid: 8cb7604f8e66bb340a8e8a173a12153d, type: 3}
+    image: {fileID: 2800000, guid: 8cb7604f8e66bb340a8e8a173a12153d, type: 3}
 --- !u!1 &26725472
 GameObject:
   m_ObjectHideFlags: 0
@@ -200,6 +250,33 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 26725472}
   m_CullTransparentMesh: 1
+--- !u!114 &31173475
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 30
+  levelSetting:
+    dif: 2
+    judul: ' Binte Biluhata, Gorontalo'
+    penjelasan: 'Binte Biluhata adalah makanan khas Gorontalo yang memiliki arti
+      Jagung yang disiram. Binte Biluhata terbuat dari bahan-bahan seperti jagung,
+      parutan kelapa, udang dan suwiran ikan cakalang yang kemudian disiram dengan
+      kuah khas Gorontalo.
+
+      Makanan tradisional lain dari Gorontalo yaitu,
+      Sate Tuna Gorontalo, Es Brenebon , Sayur Putungo
+
+'
+    oriImage: {fileID: 21300000, guid: 2e910db9ebed5564d95deee019ca59dd, type: 3}
+    image: {fileID: 2800000, guid: 2e910db9ebed5564d95deee019ca59dd, type: 3}
 --- !u!1 &52737533
 GameObject:
   m_ObjectHideFlags: 0
@@ -335,6 +412,28 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 52737533}
   m_CullTransparentMesh: 1
+--- !u!114 &58012182
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 32
+  levelSetting:
+    dif: 3
+    judul: Gohu Ikan, Maluku Utara
+    penjelasan: "Makanan khas Maluku Utara ini dikenal juga dengan Sashimi Ternate.
+      Mengapa disebut Sashimi? Karena olahan Gohu Ikan ini  disajikan secara mentah.
+      Gohu Ikan berbahan dasar ikan tuna atau cakalang mentah yang dilumuri jeruk
+      dan garam dan ditaburi tumisan bawang merah, cabai dan kenari.\u2003"
+    oriImage: {fileID: 21300000, guid: 903768cb877a1e8489d0e59081392704, type: 3}
+    image: {fileID: 2800000, guid: 903768cb877a1e8489d0e59081392704, type: 3}
 --- !u!1 &72025834
 GameObject:
   m_ObjectHideFlags: 0
@@ -624,6 +723,27 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 135411166}
   m_CullTransparentMesh: 1
+--- !u!114 &138565995
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 31
+  levelSetting:
+    dif: 3
+    judul: Ikan Asar, Maluku
+    penjelasan: "Ikan Asar adalah makanan khas Maluku berbahan dasar ikan cakalang
+      yang dimasak dengan teknik pengasapan. Ikan Asar juga biasa disebut dengan
+      ikan asap, biasa dinikmati dengan nasi dan sambal colo-colo.\u2003"
+    oriImage: {fileID: 21300000, guid: 2628a906ac75d86498ddb8312eb07cd3, type: 3}
+    image: {fileID: 2800000, guid: 2628a906ac75d86498ddb8312eb07cd3, type: 3}
 --- !u!1 &150485249
 GameObject:
   m_ObjectHideFlags: 0
@@ -759,6 +879,28 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 150485249}
   m_CullTransparentMesh: 1
+--- !u!114 &216870651
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 18
+  levelSetting:
+    dif: 1
+    judul: Ayam Taliwang, Nusa Tenggara Barat
+    penjelasan: Ayam Taliwang merupakan makanan khas Lombok, Nusa Tenggara Barat
+      yang berbahan dasar Ayam dengan bumbu cabai merah, bawang merah, bawang putih
+      dan lainnya. Ayam Taliwang biasanya disajikan bersama dengan nasi hangat dan
+      sayur pelengkap seperti plecing kangkung.
+    oriImage: {fileID: 21300000, guid: cde2e960d8a510a49b28a06a95974f0c, type: 3}
+    image: {fileID: 2800000, guid: cde2e960d8a510a49b28a06a95974f0c, type: 3}
 --- !u!1 &231420354
 GameObject:
   m_ObjectHideFlags: 0
@@ -1332,6 +1474,29 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 316812852}
   m_CullTransparentMesh: 1
+--- !u!114 &347674765
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 12
+  levelSetting:
+    dif: 1
+    judul: Karedok, Jawa Barat
+    penjelasan: "Karedok merupakan makanan khas daerah Jawa Barat yang terbuat dari
+      berbagai sayuran mentah seperti kacang panjang, tauge, kol, mentimun dan daun
+      kemangi yang disiram dengan saus kacang. \r\n\r\nMakanan tradisional lain dari
+      Jawa Barat yaitu Serabi,Tutug Oncom, Batagor, Sate Maranggi, Dodol dan Wajit,
+      Seblak.\r\n"
+    oriImage: {fileID: 21300000, guid: 9524f581d98003742b6eef9ad4e2fbeb, type: 3}
+    image: {fileID: 2800000, guid: 9524f581d98003742b6eef9ad4e2fbeb, type: 3}
 --- !u!1 &353831645
 GameObject:
   m_ObjectHideFlags: 0
@@ -1409,6 +1574,29 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 353831645}
   m_CullTransparentMesh: 1
+--- !u!114 &387986803
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 17
+  levelSetting:
+    dif: 1
+    judul: Ayam Betutu, Bali
+    penjelasan: Makanan khas Bali ini pastinya sudah kamu kenal. Yup, Ayam Betutu
+      makanan khas Bali ini biasa ditemukan di hampir setiap warung makan ketika
+      kamu berada di Bali. Ayam Betutu sendiri merupakan olahan ayam dengan bumbu
+      betutu, bumbu khas bali yang terdiri dari daun jeruk, sereh, salam, dan rempah
+      lain yang membuat citarasa Ayam Betutu menjadi lezat.
+    oriImage: {fileID: 21300000, guid: 8aae070c014e76c42aad8ad2c218bae0, type: 3}
+    image: {fileID: 2800000, guid: 8aae070c014e76c42aad8ad2c218bae0, type: 3}
 --- !u!1 &411853611
 GameObject:
   m_ObjectHideFlags: 0
@@ -1889,6 +2077,27 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 454737383}
   m_CullTransparentMesh: 1
+--- !u!114 &469956548
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 35
+  levelSetting:
+    dif: 3
+    judul: Kue Sagu, Papua Tengah
+    penjelasan: "Seperti namanya, kue sagu terbuat dari tepung sagu yang dicampur
+      dengan kacang tanah, dan bumbu-bumbu. Camilan asal Papua Tengah ini cocok dinikmati
+      bersama teh hangat.\r"
+    oriImage: {fileID: 21300000, guid: 8e7a2388acbf99644aa3b97219c5c0ea, type: 3}
+    image: {fileID: 2800000, guid: 8e7a2388acbf99644aa3b97219c5c0ea, type: 3}
 --- !u!1 &483923350
 GameObject:
   m_ObjectHideFlags: 0
@@ -1925,8 +2134,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 1}
   m_AnchorMax: {x: 0.5, y: 1}
-  m_AnchoredPosition: {x: 0, y: -15}
-  m_SizeDelta: {x: 850, y: 175}
+  m_AnchoredPosition: {x: 0, y: -30}
+  m_SizeDelta: {x: 700, y: 100}
   m_Pivot: {x: 0.5, y: 1}
 --- !u!114 &483923352
 MonoBehaviour:
@@ -1966,6 +2175,55 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 483923350}
   m_CullTransparentMesh: 1
+--- !u!114 &488143459
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 10
+  levelSetting:
+    dif: 0
+    judul: Mie Lendir, Kepulauan Riau
+    penjelasan: "Mie lendir mungkin terdengar sedikit aneh di telinga kamu. Namun,
+      istilah \u201CLendir\u201D ini merupakan sebutan orang setempat untuk menyebut
+      kuah kental dari olahan mie khas Kepulauan Riau ini. Kuah mie lendir sendiri
+      terbuat dari kacang tanah dan ubi yang membuat kuahnya menjadi berwarna kecoklatan.\r\n\r\nMakanan
+      tradisonal lain dari Riau yaitu, Lakse Kuah, Ikan Baung Asam Pedas, Nasi lemak.\r\n"
+    oriImage: {fileID: 21300000, guid: 32fdb11bb24e8054b8d7f0aac545f1e6, type: 3}
+    image: {fileID: 2800000, guid: 32fdb11bb24e8054b8d7f0aac545f1e6, type: 3}
+--- !u!114 &527518359
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 7
+  levelSetting:
+    dif: 0
+    judul: Pendap, Bengkulu
+    penjelasan: 'Makanan khas Bengkulu yang satu ini punya citarasa yang pedas. Pendap
+      terbuat dari bahan utama ikan yang diolah dengan bumbu-bumbu dan dimasak dalam
+      balutan daun talas.
+
+      Makanan tradisonal lain dari Bengkulu, Kue Tat,
+      Bolu Koja, Bagar Hiu.
+
+'
+    oriImage: {fileID: 21300000, guid: 9e3e1b0ca43b05b4c956dca630a6ab2a, type: 3}
+    image: {fileID: 2800000, guid: 9e3e1b0ca43b05b4c956dca630a6ab2a, type: 3}
 --- !u!1 &540150322
 GameObject:
   m_ObjectHideFlags: 0
@@ -2063,6 +2321,28 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0aa84c6b0a5094e4e8fed0662bb95a19, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &552430552
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 25
+  levelSetting:
+    dif: 2
+    judul: Bubur Manado, Sulawesi Utara
+    penjelasan: Bubur Manado atau Tinutan adalah makanan khas Sulawesi Utara yang
+      sangat populer. Makanan ini berasal dari daerah Kota Manado. Dalam penyajiannya,
+      Bubur Manado dicampur dengan berbagai jenis sayuran seperti kangkung dan bayam
+      bersamaan dengan lauk ikan cakalang serta sambal roa.
+    oriImage: {fileID: 21300000, guid: c5e317b30db390348834b36e67e6b8e3, type: 3}
+    image: {fileID: 2800000, guid: c5e317b30db390348834b36e67e6b8e3, type: 3}
 --- !u!1 &562310282
 GameObject:
   m_ObjectHideFlags: 0
@@ -2101,8 +2381,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 3, y: -20}
-  m_SizeDelta: {x: 1388, y: 660}
+  m_AnchoredPosition: {x: 25, y: -15}
+  m_SizeDelta: {x: 950, y: 430}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &562310284
 MonoBehaviour:
@@ -2615,6 +2895,59 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 643374242}
   m_CullTransparentMesh: 1
+--- !u!114 &647016191
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 23
+  levelSetting:
+    dif: 2
+    judul: Gance Ruan, Kalimantan Timur
+    penjelasan: "Gance Ruan merupakan olahan dari ikan \u201CHaruan\u201D atau ikan
+      Gabus yang diolah dengan bumbu Gance. Makanan khas Kalimantan Timur ini, berasal
+      dari Kutai Kartanegara. Gance Ruan adalah makanan khas berupa ikan yang dibakar
+      atau digoreng dan dilumuri bumbu Gance yang memiliki rasa pedas manis.\r\nMakanan
+      tradisional lain dari Kalimantan Timur Yaitu, Amplang, Pisang Gapit, Nasi Bekepor.\u2003\r\n"
+    oriImage: {fileID: 21300000, guid: 957757ab698ba9b4c90e4915fd2df339, type: 3}
+    image: {fileID: 2800000, guid: 957757ab698ba9b4c90e4915fd2df339, type: 3}
+--- !u!114 &652497502
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 8
+  levelSetting:
+    dif: 0
+    judul: Seruit, Lampung
+    penjelasan: 'Seruit merupakan makanan khas Lampung yang biasa dihidangkan saat
+      ada acara keluarga hingga acara adat dan keagamaan. Seruit terbuat dari ikan
+      air tawar yang dimasak dengan cara dibakar dan dihidangkan bersama sambal terasi
+      khas Lampung xxx tempoyak atau sayuran.
+
+
+
+      Dan ada beberapa makanan tradisional
+      lain adari Lampung yaitu Gagodoh, Pisro,Sekubal, Gulai Taboh, Bejak Enjak,
+      Pandap, Seruit.
+
+'
+    oriImage: {fileID: 21300000, guid: e3419551d8a91e045847255bf2807feb, type: 3}
+    image: {fileID: 2800000, guid: e3419551d8a91e045847255bf2807feb, type: 3}
 --- !u!114 &679506465
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2927,6 +3260,28 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 719362778}
   m_CullTransparentMesh: 1
+--- !u!114 &728167335
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 28
+  levelSetting:
+    dif: 2
+    judul: Lapa-lapa, Sulawesi Tenggara
+    penjelasan: Makanan khas Sulawesi Tenggara ini berbahan dasar beras dan memiliki
+      bentuk lonjong mirip dengan lontong. Bedanya, Lapa-lapa mempunyai rasa yang
+      gurih karena ditambahkan dengan santan. Makanan ini umumnya dijadikan menu
+      pengganti nasi.
+    oriImage: {fileID: 21300000, guid: 0f2066ad2ade1c1458e9b5a0942839ef, type: 3}
+    image: {fileID: 2800000, guid: 0f2066ad2ade1c1458e9b5a0942839ef, type: 3}
 --- !u!1 &748385067
 GameObject:
   m_ObjectHideFlags: 0
@@ -3232,7 +3587,7 @@ MonoBehaviour:
   m_ChildAlignment: 0
   m_StartCorner: 0
   m_StartAxis: 0
-  m_CellSize: {x: 200, y: 200}
+  m_CellSize: {x: 120, y: 120}
   m_Spacing: {x: 35, y: 25}
   m_Constraint: 1
   m_ConstraintCount: 6
@@ -3334,7 +3689,7 @@ MonoBehaviour:
   m_HandleRect: {fileID: 1404297680}
   m_Direction: 2
   m_Value: 1
-  m_Size: 0.49811321
+  m_Size: 0.5088757
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
@@ -3512,6 +3867,56 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 828487136}
   m_CullTransparentMesh: 1
+--- !u!114 &829783713
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 27
+  levelSetting:
+    dif: 2
+    judul: Sup Konro, Sulawesi Selatan
+    penjelasan: "Sup konro adalah sup iga sapi khas Indonesia yang berasal dari tradisi
+      Bugis dan Makassar, Sulawesi Selatan. Sup berkuah warna cokelat kehitaman ini
+      biasa dimakan dengan burasa dan ketupat yang dipotong-potongterlebih dahulu.\r\nMakanan
+      tradisional lain dari Sulawesi Selatan yaitu, Coto Makassar, Burasa, Pisang
+      Ijo, Pisang Epe, Nasu Likku, Barongko, Bassang.\u2003\r\n"
+    oriImage: {fileID: 21300000, guid: 3d5da13a752db404bb504e1352bcb1bf, type: 3}
+    image: {fileID: 2800000, guid: 3d5da13a752db404bb504e1352bcb1bf, type: 3}
+--- !u!114 &941682780
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 5
+  levelSetting:
+    dif: 0
+    judul: Tempoyak Ikan Patin, Jambi
+    penjelasan: 'Gulai ikan patin adalah makanan khas daerah Jambi Ini memiliki keunikan
+      dari cara memasaknya. Cara memasaknya dicampur dengan daging buah durian yang
+      sudah difermentasi atau biasa disebut tempoyak, namun terkadang bisa digantikan
+      dengan santan..
+
+      Makanan tradisonal lain dari Jambi yaitu, Daging Masak
+      Hitam, Mie Celor
+
+'
+    oriImage: {fileID: 21300000, guid: 24874e8950fc22846bdfae338b744c86, type: 3}
+    image: {fileID: 2800000, guid: 24874e8950fc22846bdfae338b744c86, type: 3}
 --- !u!1 &975979349
 GameObject:
   m_ObjectHideFlags: 0
@@ -3724,6 +4129,53 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1004202617}
   m_CullTransparentMesh: 1
+--- !u!114 &1007308713
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 24
+  levelSetting:
+    dif: 2
+    judul: Kepiting Soka, Kalimantan Utara
+    penjelasan: "Kepiting Soka dapat diolah berbagai macam, seperti ditumis dengan
+      saus khas dan digoreng krispi dengan tepung.\r\nMakanan tradisional lain dari
+      Kalimantan Utara yaitu, Tumis Kapah, Tudai, Nasi Subut, Sate Ikan Pari.\u2003\r\n"
+    oriImage: {fileID: 21300000, guid: fc3dcfb789b8ab24eb79e6c2c7049476, type: 3}
+    image: {fileID: 2800000, guid: fc3dcfb789b8ab24eb79e6c2c7049476, type: 3}
+--- !u!114 &1012020132
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 4
+  levelSetting:
+    dif: 0
+    judul: Gulai Belancan, Riau
+    penjelasan: 'Gulai belacan adalah makanan khas Riau yang merupakan olahan udang
+      laut atau udang air tawar berkuah santan dengan perpaduan rasa dari belacan
+      atau terasi.
+
+      Makanan Tradisonal lain dari Riau yaitu, Mie Sagu, Ikan
+      Baung Asam Pedas, Sup Tunjang, Lakse Kuah.
+
+'
+    oriImage: {fileID: 21300000, guid: 9ddd669aca7b7d04589287eea51a1d07, type: 3}
+    image: {fileID: 2800000, guid: 9ddd669aca7b7d04589287eea51a1d07, type: 3}
 --- !u!1 &1012417875
 GameObject:
   m_ObjectHideFlags: 0
@@ -3965,11 +4417,43 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 077799404ed58854a971e9e35d984434, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  numberOfLevel: 3
+  numberOfLevel: 35
   mainLevels:
   - {fileID: 1469794432}
   - {fileID: 679506465}
   - {fileID: 1967283588}
+  - {fileID: 1012020132}
+  - {fileID: 941682780}
+  - {fileID: 1105518712}
+  - {fileID: 527518359}
+  - {fileID: 652497502}
+  - {fileID: 1599393085}
+  - {fileID: 488143459}
+  - {fileID: 1642185311}
+  - {fileID: 347674765}
+  - {fileID: 1200904650}
+  - {fileID: 1847531579}
+  - {fileID: 1988130224}
+  - {fileID: 1648768786}
+  - {fileID: 387986803}
+  - {fileID: 216870651}
+  - {fileID: 2059034523}
+  - {fileID: 1424339000}
+  - {fileID: 1245504138}
+  - {fileID: 21293777}
+  - {fileID: 647016191}
+  - {fileID: 1007308713}
+  - {fileID: 552430552}
+  - {fileID: 1831426911}
+  - {fileID: 829783713}
+  - {fileID: 728167335}
+  - {fileID: 19498006}
+  - {fileID: 31173475}
+  - {fileID: 138565995}
+  - {fileID: 58012182}
+  - {fileID: 1448789267}
+  - {fileID: 1917807603}
+  - {fileID: 469956548}
   main: {fileID: 798333695}
   buttons: []
   activeLevel: 0
@@ -4335,6 +4819,34 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1090440675}
   m_CullTransparentMesh: 1
+--- !u!114 &1105518712
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 6
+  levelSetting:
+    dif: 0
+    judul: Pempek, Sumatera Selatan
+    penjelasan: 'Pempek atau Mpek-mpek merupakan khas daerah Sumatera Selatan yang
+      terkenal sangat enak dan sering dijadikan sebagai oleh-oleh wisatawan yang
+      berkunjung. Makanan ini terbuat dari olahan ikan tenggiri yang dicampur sagu.
+      Dan tentunya saja dilengkapi dengan kuah cuko atau cuka yang dibuat dari campuran
+      cuka, asam jawa, gula merah dan cabai.
+
+      Makanan tradisonal lain dari
+      Sumatera Selatan yaitu Mie Celor, Celimpungan, Pidang Patin.
+
+'
+    oriImage: {fileID: 21300000, guid: d2741778c3cc5fb45a6398d5d23a1686, type: 3}
+    image: {fileID: 2800000, guid: d2741778c3cc5fb45a6398d5d23a1686, type: 3}
 --- !u!1 &1176493242
 GameObject:
   m_ObjectHideFlags: 0
@@ -4682,6 +5194,30 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1193583331}
   m_CullTransparentMesh: 1
+--- !u!114 &1200904650
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 13
+  levelSetting:
+    dif: 1
+    judul: Lumpia, Jawa Tengah
+    penjelasan: "Lumpia adalah makanan khas daerah Jawa Tengah khususnya di Kota
+      Semarang. Lumpia seringkali dijadikan oleh-oleh ketika berkunjung ke kota Semarang.
+      Lumpia sendiri punya berbagai macam isian, mulai dari ayam, telur ikan, sayur
+      hingga udang. \r\n\r\nMakanan tradisional lain dari Jawa Tengah yaitu, Nasi
+      Tiwul, Soto Kudus . Dan juga Terkhusus kota Semarang memiliki makan tradisional
+      yaitu Tahu Petis, Tahu Pong, Sop Semarang \r\n"
+    oriImage: {fileID: 21300000, guid: 000f7bd058810e34ba007a5e6c226043, type: 3}
+    image: {fileID: 2800000, guid: 000f7bd058810e34ba007a5e6c226043, type: 3}
 --- !u!1 &1207910359
 GameObject:
   m_ObjectHideFlags: 0
@@ -4767,7 +5303,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 72
+  m_fontSize: 58.3
   m_fontSizeBase: 36
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -4952,6 +5488,27 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1225335189}
   m_CullTransparentMesh: 1
+--- !u!114 &1245504138
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 21
+  levelSetting:
+    dif: 2
+    judul: Kalumpe, Kalimantan Tengah
+    penjelasan: "Kalumpe merupakan olahan sayur daun singkong khas Kalimantan Tengah.
+      Dibuat dengan cara menumbuk daun singkong hingga halus serta ditambahkan aneka
+      rempah dan ditaburi teri dan kacang lalu disantap bersama dengan nasi hangat.\u2003"
+    oriImage: {fileID: 21300000, guid: ca039341d3516824c8268343ce858f1f, type: 3}
+    image: {fileID: 2800000, guid: ca039341d3516824c8268343ce858f1f, type: 3}
 --- !u!1 &1247653254
 GameObject:
   m_ObjectHideFlags: 0
@@ -5526,7 +6083,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 1500, y: 850}
+  m_SizeDelta: {x: 1000, y: 600}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1343684184
 MonoBehaviour:
@@ -5541,7 +6098,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 0.92156863}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -6066,6 +6623,49 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1423329436}
   m_CullTransparentMesh: 1
+--- !u!114 &1424339000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 20
+  levelSetting:
+    dif: 1
+    judul: Bubur Pedas, Kalimantan Barat
+    penjelasan: "Bubur Pedas, makanan khas Kalimantan Barat ini terbuat dari beras
+      yang ditumbuk lalu dioseng dengan campuran rempah-rempah dan sayuran, seperti
+      kangkung dan pakis. Bubur Pedas juga ditaburi kacang goreng dan ikan teri yang
+      membuatnya semakin nikmat.\r\nMakanan tradisonal lain dari Kalimantan Barat
+      yaitu, Tempoyak, Kerupuk Basah, Lemang,Bubur Gunting.\u2003\r\n"
+    oriImage: {fileID: 21300000, guid: 0b53679048a41824a946665ccb556d59, type: 3}
+    image: {fileID: 2800000, guid: 0b53679048a41824a946665ccb556d59, type: 3}
+--- !u!114 &1448789267
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 33
+  levelSetting:
+    dif: 3
+    judul: Ikan Bakar Manokowari, Papua Barat
+    penjelasan: "Ikan Bakar Manokwari merupakan makanan khas Papua Barat yang dihidangkan
+      dengan sambal mentah yang dihaluskan dan disiram di atasanya.\u2003"
+    oriImage: {fileID: 21300000, guid: dad5a9e32ae5c524f915b96144f40742, type: 3}
+    image: {fileID: 2800000, guid: dad5a9e32ae5c524f915b96144f40742, type: 3}
 --- !u!114 &1469794432
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6170,6 +6770,28 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1570092678}
   m_CullTransparentMesh: 1
+--- !u!114 &1599393085
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 9
+  levelSetting:
+    dif: 0
+    judul: 'Mie Bangka, Kepulauan Bangka Belitung '
+    penjelasan: Mie Bangka adalah makanan khas Kepulauan Bangka Belitung yang sangat
+      populer. Nggak hanya di tempat asalnya, bahkan merambah sampai ke kota besar
+      lainnya. Menu Mie Bangka ini terbuat dari mie ditambahkan potongan daging dan
+      taburan sayuran dan disiram dengan kuah bening dan tambahan toping kerupuk.
+    oriImage: {fileID: 21300000, guid: 2ff07c8f9efc3764892efe1146b05d34, type: 3}
+    image: {fileID: 2800000, guid: 2ff07c8f9efc3764892efe1146b05d34, type: 3}
 --- !u!1 &1606088307
 GameObject:
   m_ObjectHideFlags: 0
@@ -6767,6 +7389,29 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1635745041}
   m_CullTransparentMesh: 1
+--- !u!114 &1642185311
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 11
+  levelSetting:
+    dif: 1
+    judul: Kerak Telor, DKI Jakarta
+    penjelasan: "Makanan khas daerah DKI Jakarta ini sering ditemukan ketika ada
+      festival, seperti saat Pekan Raya Jakarta. Makanan khas Betawi ini terbuat
+      dari beras ketan, telur ayam/bebek, ebi yang ditaburi bawang goreng dan kelapa
+      sangrai.\r\n\r\nMakanan tradisonal lain dari DKI Jakarta yaitu, Gabus Pucung,
+      Soto Tangkar, Soto Betawi. \r"
+    oriImage: {fileID: 21300000, guid: d41dd282e58c14e4a91852cf491ca570, type: 3}
+    image: {fileID: 2800000, guid: d41dd282e58c14e4a91852cf491ca570, type: 3}
 --- !u!1 &1648532563
 GameObject:
   m_ObjectHideFlags: 0
@@ -6844,6 +7489,29 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1648532563}
   m_CullTransparentMesh: 1
+--- !u!114 &1648768786
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 16
+  levelSetting:
+    dif: 1
+    judul: Sate Bandeng, Banten
+    penjelasan: Nggak seperti sate pada umumnya, sate bandeng ini memiliki ukuran
+      yang jumbo dan bertekstur lembut mirip dengan otak-otak. Dalam prosesnya, sate
+      bandeng diolah dengan memisahkan duri dan daging ikan, dihancurkan, diberi
+      rempah, dimasukan kembali ke dalam kulit ikan dan dimasak hingga matang sehingga
+      sate bandeng lebih mudah untuk disantap.
+    oriImage: {fileID: 21300000, guid: 0f317cedf57c1a74aab75127df345b1b, type: 3}
+    image: {fileID: 2800000, guid: 0f317cedf57c1a74aab75127df345b1b, type: 3}
 --- !u!1 &1663188161
 GameObject:
   m_ObjectHideFlags: 0
@@ -7106,7 +7774,7 @@ MonoBehaviour:
   m_UiScaleMode: 1
   m_ReferencePixelsPerUnit: 100
   m_ScaleFactor: 1
-  m_ReferenceResolution: {x: 2160, y: 3840}
+  m_ReferenceResolution: {x: 1560, y: 720}
   m_ScreenMatchMode: 0
   m_MatchWidthOrHeight: 0
   m_PhysicalUnit: 3
@@ -8269,6 +8937,50 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1806891266}
   m_CullTransparentMesh: 1
+--- !u!114 &1831426911
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 26
+  levelSetting:
+    dif: 2
+    judul: Palumara, Sulawes Tengah
+    penjelasan: "Palumara, makanan khas Sulawesi Tengah yang merupakan sup ikan dengan
+      citara pedas dan asam. Palumara biasanya menggunakan ikan kembung atau ikan
+      bandeng yang dimasak dengan aneka rempah-rempah.\u2003"
+    oriImage: {fileID: 21300000, guid: cfb03a608bb09b841bb55d9ba33b4761, type: 3}
+    image: {fileID: 2800000, guid: cfb03a608bb09b841bb55d9ba33b4761, type: 3}
+--- !u!114 &1847531579
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 14
+  levelSetting:
+    dif: 1
+    judul: Nasi Gudeg, Yogyakarta
+    penjelasan: Gudeg merupakan olahan yang berbahan dasar nangka muda dan dimasak
+      dengan santan ini mempunyai cita rasa yang khas, yaitu manis. Gudeg makan tradisonal
+      yang berasal dari Yogyakarta. Gudeg biasanya disajikan dengan lauk ayam kampung,
+      telur, tempe atau tahu bacem, dan sambal krecek. Gudeg dan semua lauk-pauknya
+      itu biasanya dimakan dengan seporsi nasi hangat. Lezat!
+    oriImage: {fileID: 21300000, guid: 054c82216d29b7042b8c2519a23eb335, type: 3}
+    image: {fileID: 2800000, guid: 054c82216d29b7042b8c2519a23eb335, type: 3}
 --- !u!1 &1890152208
 GameObject:
   m_ObjectHideFlags: 0
@@ -8404,6 +9116,27 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1890152208}
   m_CullTransparentMesh: 1
+--- !u!114 &1917807603
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 34
+  levelSetting:
+    dif: 3
+    judul: Papeda, Papua
+    penjelasan: "Papeda adalah makanan pokok masyarakat Papua. Makanan ini dapat
+      dengan mudah ditemui di wilayah Papua. Papeda terbuat dari tepung sagu yang
+      disantap bersamaan dengan kuah kuning dari ikan tongkol.\u2003"
+    oriImage: {fileID: 21300000, guid: 9e6947d3ea651ff4abcf78b373d6b3f2, type: 3}
+    image: {fileID: 2800000, guid: 9e6947d3ea651ff4abcf78b373d6b3f2, type: 3}
 --- !u!114 &1967283588
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -8562,6 +9295,35 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1985727105}
   m_CullTransparentMesh: 1
+--- !u!114 &1988130224
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 15
+  levelSetting:
+    dif: 1
+    judul: 'Rujak Cingur, Jawa Timur '
+    penjelasan: 'Di Jawa Timur, Rujak Cingur menjadi makanan khas daerah yang banyak
+      ditemui di daerah asalnya, Kota Surabaya. Rujak Cingur ini berbeda dengan rujak
+      pada umumnya. Rujak Cingur menggunakan Cingur alias mulut sapi yang disajikan
+      bersama sayuran dengan bumbu kacang siram dari petis udang, gula merah, dan
+      ditaburi bawang goreng serta pisang klutuk.
+
+      Makanan Tradisional lain
+      dari Jawa Timur yaitu, Soto Lamongan, Pecel Tumpang, Lotong Balap, Rawon terkhusus
+      Kota Surabaya.
+
+'
+    oriImage: {fileID: 21300000, guid: 8b43f900e99a06b4aa1b8d9336cc0adb, type: 3}
+    image: {fileID: 2800000, guid: 8b43f900e99a06b4aa1b8d9336cc0adb, type: 3}
 --- !u!1 &2005497264
 GameObject:
   m_ObjectHideFlags: 0
@@ -8909,6 +9671,30 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2054779458}
   m_CullTransparentMesh: 1
+--- !u!114 &2059034523
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5719e6e6fb6e90449c72dcc2b4ff01d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 19
+  levelSetting:
+    dif: 1
+    judul: Jagung Bose, Nusa Tenggara Timur
+    penjelasan: "Di daerah Nusa Tenggara Timur, Jagung sangat populer menjadi makanan
+      utama pengganti nasi. Maka dari itu, makanan khas Nusa Tenggara Timur, Jagung
+      Bose menggunakan Jagung sebagai bahan utamanya. Makanan ini terdiri dari jagung
+      yang diolah bersama kacang-kacangan seperti kacang merah atau kacang tanah
+      dan santan yang dimasak hingga menjadi bubur. Jagung Bose biasanya dimakan
+      dengan aneka lauk seperti ikan tuna goreng, tumis paria dan sambal lu\u2019at.\u2003"
+    oriImage: {fileID: 21300000, guid: 1386b0c3439632b4b9e7cba8f8a25168, type: 3}
+    image: {fileID: 2800000, guid: 1386b0c3439632b4b9e7cba8f8a25168, type: 3}
 --- !u!1 &2073920556
 GameObject:
   m_ObjectHideFlags: 0

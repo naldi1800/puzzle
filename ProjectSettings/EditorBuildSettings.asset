@@ -6,35 +6,20 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/BajuAdat.unity
-    guid: 6b549b69c0b6e5d4b8d70ee39420971f
-  - enabled: 1
-    path: Assets/Scenes/MainGame.unity
-    guid: 181f15347add28f40bb1eeeafc0deaa9
+    path: Assets/Scenes/MenuUtama.unity
+    guid: 0ced5cae6ddd79f41b815fcfa88957c8
   - enabled: 1
     path: Assets/Scenes/KategoriPuzzle.unity
     guid: 1a43611185d4f4b4ea8baa7416b192fe
   - enabled: 1
-    path: Assets/Scenes/MainSoal.unity
-    guid: 7045d8d105a8932489b7a8cdf967a799
-  - enabled: 1
-    path: Assets/Scenes/MenuUtama.unity
-    guid: 0ced5cae6ddd79f41b815fcfa88957c8
-  - enabled: 1
-    path: Assets/Scenes/KategoriSoal.unity
-    guid: 97fa83f888a6b2243bbbf6cb86875561
-  - enabled: 1
-    path: Assets/Scenes/About.unity
-    guid: d2a5e854c50afd34eabf9a72734b7d13
-  - enabled: 1
-    path: Assets/Scenes/Seting.unity
-    guid: 1790e88314328224f8137298770ff86b
+    path: Assets/Scenes/MainGame.unity
+    guid: 181f15347add28f40bb1eeeafc0deaa9
   - enabled: 1
     path: Assets/Scenes/TariAdat.unity
     guid: 4b41236fbe82396499075588813b7c4c
   - enabled: 1
     path: Assets/Scenes/MakananTradisional.unity
-    guid: 0cd53b412f3b81f4f8424308ad6953db
+    guid: 908fa940f03b8ab46ac873b1a3e910d8
   - enabled: 1
     path: Assets/Scenes/RumahAdat.unity
     guid: 9046d31d2e791454bb56f01b78b061b5
@@ -42,7 +27,22 @@ EditorBuildSettings:
     path: Assets/Scenes/AlatMusikTradisional.unity
     guid: dd0628c671a8b7941b34d15c9de891c5
   - enabled: 1
+    path: Assets/Scenes/BajuAdat.unity
+    guid: 212c1594327e9644eb7dca90a1ac1095
+  - enabled: 1
+    path: Assets/Scenes/MainSoal.unity
+    guid: 7045d8d105a8932489b7a8cdf967a799
+  - enabled: 1
+    path: Assets/Scenes/KategoriSoal.unity
+    guid: 97fa83f888a6b2243bbbf6cb86875561
+  - enabled: 1
     path: Assets/Scenes/HighScore.unity
     guid: e0039eea5837aa646b91d9cee775736a
+  - enabled: 1
+    path: Assets/Scenes/Seting.unity
+    guid: 112f6b923db8cfe47ae44aed7cec6e7c
+  - enabled: 1
+    path: Assets/Scenes/About.unity
+    guid: d2a5e854c50afd34eabf9a72734b7d13
   m_configObjects:
     com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 68853d2842135884fa88e411177b5400, type: 2}
