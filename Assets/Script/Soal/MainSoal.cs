@@ -25,6 +25,7 @@ public class MainSoal : MonoBehaviour
     private static BankSoal instanceMenu;
     public static MainSoal ints;
     private bool buttonClicked = false;
+    private string category;
     //private bool isFinish = false;
     List<int> lcm = new List<int>();
     void Awake()
@@ -39,6 +40,7 @@ public class MainSoal : MonoBehaviour
                 onLoad = GameObject.Find(MenuSoal.sceneName[i]);
                 if (onLoad != null) break;
             }
+            category = MenuSoal.get().categoryActive;
             instanceMenu = onLoad.GetComponent<BankSoal>();
             Soal s = instanceMenu.bankSoal[lcm[instanceMenu.activeLevel]];
             set(s);
@@ -184,20 +186,20 @@ public class MainSoal : MonoBehaviour
             return;
         }
         HighScore h = GetComponent<HighScore>();
-        for (int i = 0; i < 10; i++)
+        for (int i = 0; i < 5; i++)
         {
             if (score >= h.highScoreValue[i])
             {
-                for (int j = 9; j > i; j--)
+                for (int j = 4; j > i; j--)
                 {
                     if (j == 0)
                     {
                         break;
                     }
-                    h.setHighScore(h.highScoreNameValue[j - 1], h.highScoreValue[j - 1], j);
+                    h.setHighScore(h.highScoreNameValue[j - 1], h.highScoreCategoryValue[j - 1], h.highScoreValue[j - 1], j);
                 }
                 Debug.Log("High" + score);
-                h.setHighScore(namePlayer.text, score, i);
+                h.setHighScore(namePlayer.text, category , score, i);
                 break;
             }
         }

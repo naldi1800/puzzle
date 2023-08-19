@@ -30,7 +30,7 @@ public class MenuSoal : MonoBehaviour
     [SerializeField] public List<Sprite> sTari = null;
     [SerializeField] public List<Sprite> sAlatMusik = null;
     [SerializeField] public List<Sprite> sMakanan = null;
-
+    public string categoryActive = "";
     private static MenuSoal instance;
 
     void Awake()
@@ -40,17 +40,18 @@ public class MenuSoal : MonoBehaviour
             instance = this;
         }
 
-        Rumah.GetComponent<Button>().onClick.AddListener(delegate { onClick(gRumah); });
-        Baju.GetComponent<Button>().onClick.AddListener(delegate { onClick(gBaju); });
-        Tari.GetComponent<Button>().onClick.AddListener(delegate { onClick(gTari); });
-        AlatMusik.GetComponent<Button>().onClick.AddListener(delegate { onClick(gAlatMusik); });
-        Makanan.GetComponent<Button>().onClick.AddListener(delegate { onClick(gMakanan); });
+        Rumah.GetComponent<Button>().onClick.AddListener(delegate { onClick(gRumah, 0); });
+        Baju.GetComponent<Button>().onClick.AddListener(delegate { onClick(gBaju, 1); });
+        Tari.GetComponent<Button>().onClick.AddListener(delegate { onClick(gTari, 2); });
+        AlatMusik.GetComponent<Button>().onClick.AddListener(delegate { onClick(gAlatMusik, 3); });
+        Makanan.GetComponent<Button>().onClick.AddListener(delegate { onClick(gMakanan, 4); });
     }
 
     public static MenuSoal get() { return instance; }
 
-    void onClick(GameObject g)
+    void onClick(GameObject g, int i)
     {
+        categoryActive = sceneName[i];
         DontDestroyOnLoad(g);
         SceneManager.LoadScene("MainSoal");
         AudioManager.Instance.playSFX("ButtonClick");
