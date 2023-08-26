@@ -390,7 +390,7 @@ public class TileSpawn : MonoBehaviour
             c.r = 1f;
             c.g = 1f;
             c.b = 1f;
-            c.a = 0.4f;
+            c.a = 0.0f;
             image.color = c;
             image.rectTransform.sizeDelta = new Vector2(0, 0);
             tileTemplate.transform.SetParent(tilesFather.transform);
@@ -413,30 +413,30 @@ public class TileSpawn : MonoBehaviour
 
         if (level == TileSpawn.difficulty.Easy)
         {
-            s1 = 120;
-            s2 = 90;
-            s3 = 60;
+            s1 = 300;
+            s2 = 300-60;
+            s3 = 300-120;
             sel = new Vector2(3, 2);
         }
         else if (level == TileSpawn.difficulty.Normal)
         {
-            s1 = 100;
-            s2 = 70;
-            s3 = 50;
+            s1 = 300-30;
+            s2 = 300-30-60;
+            s3 = 300-120-30;
             sel = new Vector2(3, 3);
         }
         else if (level == TileSpawn.difficulty.Hard)
         {
-            s1 = 80;
-            s2 = 50;
-            s3 = 30;
+            s1 = 300-60;
+            s2 = 300-60-60;
+            s3 = 300-120-60;
             sel = new Vector2(4, 3);
         }
         else if (level == TileSpawn.difficulty.VeryHard)
         {
-            s1 = 50;
-            s2 = 35;
-            s3 = 20;
+            s1 = 300-90;
+            s2 = 300-90-60;
+            s3 = 300-90-120;
             sel = new Vector2(4, 4);
         }
         star1.text = getTimeInSecond(s1);

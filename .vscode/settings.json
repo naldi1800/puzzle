@@ -55,5 +55,6 @@
     "cSpell.words": [
         "Behaviour",
         "Instanc"
-    ]
+    ],
+    "dotnet.defaultSolution": "Puzzle.sln"
 }
