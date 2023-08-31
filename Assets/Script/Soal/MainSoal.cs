@@ -11,6 +11,7 @@ public class MainSoal : MonoBehaviour
     [SerializeField] Image image;
     [SerializeField] TextMeshProUGUI[] jawaban;
     [SerializeField] TextMeshProUGUI scoreGame;
+    [SerializeField] GameObject hint;
 
     [SerializeField] private GameObject pause;
     [SerializeField] private GameObject game;
@@ -26,6 +27,7 @@ public class MainSoal : MonoBehaviour
     public static MainSoal ints;
     private bool buttonClicked = false;
     private string category;
+    private float timer;
     //private bool isFinish = false;
     List<int> lcm = new List<int>();
     void Awake()
@@ -54,6 +56,15 @@ public class MainSoal : MonoBehaviour
     void Start()
     {
         onResume();
+    }
+
+    void Update()
+    {
+        if(timer > 0){
+            timer -= Time.deltaTime;
+        }else{
+            hint.SetActive(false);
+        }
     }
 
     void set(Soal s)
@@ -104,12 +115,20 @@ public class MainSoal : MonoBehaviour
 
     void validate(string text)
     {
+        hint.SetActive(true);
+        timer = 5f;
         if (text == isAnswer)
         {
             score += 10;
             Debug.Log("Is True Score");
+            hint.GetComponent<TextMeshProUGUI>().text = "Jawaban anda benar ";
+
         }
-        else Debug.Log("Is False");
+        else {
+            Debug.Log("Is False");
+            hint.GetComponent<TextMeshProUGUI>().text = "Jawaban salah, jawaban benar adalah " +  isAnswer;
+        }
+
 
         if (instanceMenu.activeLevel >= 9)
         {
